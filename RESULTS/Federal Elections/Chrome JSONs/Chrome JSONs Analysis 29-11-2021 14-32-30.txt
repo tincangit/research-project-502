@@ -1,0 +1,167 @@
+Analysis session started for C:\Users\TL\PycharmProjects\researchProj\jsonsToAnalyze\Federal Elections, 29/11/2021, 14:32:30
+---
+liberal.ca [21-09-18 16-30].json
+Num of entries = 176
+33 sites outside the host:
+- fonts.googleapis.com, 6 entries: 1 2 58 59 136 137 
+- s31184.pcdn.co, 84 entries: 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 36 37 38 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 100 108 130 132 133 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 165 169 
+- lpchosting.com, 1 entries: 15 
+- www.googletagmanager.com, 3 entries: 32 56 134 
+- fonts.gstatic.com, 10 entries: 33 34 35 39 40 91 107 109 168 170 
+- www.youtube.com, 11 entries: 41 42 43 87 88 89 90 116 120 127 175 
+- www.google-analytics.com, 6 entries: 45 55 83 98 99 161 
+- static.ads-twitter.com, 1 entries: 46 
+- bat.bing.com, 3 entries: 47 86 92 
+- www.googleadservices.com, 3 entries: 48 57 135 
+- connect.facebook.net, 6 entries: 49 84 85 114 162 173 
+- 7200944.collect.igodigital.com, 1 entries: 51 
+- pixel-a.basis.net, 2 entries: 52 53 
+- script.crazyegg.com, 1 entries: 54 
+- analytics.twitter.com, 1 entries: 93 
+- t.co, 1 entries: 94 
+- googleads.g.doubleclick.net, 4 entries: 95 102 105 166 
+- nova.collect.igodigital.com, 1 entries: 96 
+- sc-static.net, 2 entries: 97 163 
+- pixel.sitescout.com, 2 entries: 101 104 
+- www.facebook.com, 2 entries: 103 167 
+- static.doubleclick.net, 1 entries: 106 
+- www.google.com, 4 entries: 110 112 117 171 
+- www.google.ca, 3 entries: 111 113 172 
+- tr.snapchat.com, 2 entries: 115 174 
+- i.ytimg.com, 1 entries: 118 
+- yt3.ggpht.com, 1 entries: 119 
+- idsync.rlcdn.com, 2 entries: 121 129 
+- beacon.krxd.net, 1 entries: 122 
+- tags.bluekai.com, 1 entries: 123 
+- sync.search.spotxchange.com, 2 entries: 124 164 
+- image2.pubmatic.com, 1 entries: 125 
+- www.gstatic.com, 2 entries: 126 128 
+Total number of requests to external sites: 172 out of 176
+Number of POST Requests made: 4 out of 176
+POST: https://tr.snapchat.com/p
+POST: https://www.facebook.com/tr/
+POST: https://tr.snapchat.com/p
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+www.blocquebecois.org [21-09-18 16-29].json
+Num of entries = 129
+4 sites outside the host:
+- use.fontawesome.com, 1 entries: 3 
+- cdnjs.cloudflare.com, 2 entries: 4 29 
+- connect.facebook.net, 1 entries: 30 
+- www.facebook.com, 1 entries: 52 
+Total number of requests to external sites: 5 out of 129
+Number of POST Requests made: 0 out of 129
+
+
+---
+www.conservative.ca [21-09-18 16-33].json
+Num of entries = 114
+25 sites outside the host:
+- cpc-assets.conservative.ca, 41 entries: 1 2 3 4 5 6 10 11 12 13 19 20 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 
+- fonts.googleapis.com, 2 entries: 7 67 
+- use.typekit.net, 2 entries: 8 9 
+- p.typekit.net, 2 entries: 15 16 
+- fonts.gstatic.com, 11 entries: 17 18 68 69 70 71 72 73 74 75 88 
+- cpcassets.conservative.ca, 6 entries: 21 53 63 64 77 78 
+- www.googletagmanager.com, 1 entries: 52 
+- connect.facebook.net, 4 entries: 54 58 60 65 
+- code.jquery.com, 1 entries: 55 
+- www.google-analytics.com, 2 entries: 56 59 
+- js.adsrvr.org, 3 entries: 57 82 83 
+- www.facebook.com, 3 entries: 61 66 76 
+- ajax.googleapis.com, 1 entries: 62 
+- www.youtube.com, 9 entries: 79 84 85 86 87 105 109 111 113 
+- insight.adsrvr.org, 2 entries: 80 81 
+- dsum-sec.casalemedia.com, 4 entries: 89 92 98 100 
+- x.bidswitch.net, 4 entries: 90 94 95 96 
+- simage2.pubmatic.com, 2 entries: 91 93 
+- match.adsrvr.org, 4 entries: 97 99 103 104 
+- googleads.g.doubleclick.net, 1 entries: 101 
+- static.doubleclick.net, 1 entries: 102 
+- www.google.com, 1 entries: 106 
+- i.ytimg.com, 1 entries: 107 
+- yt3.ggpht.com, 1 entries: 108 
+- www.gstatic.com, 2 entries: 110 112 
+Total number of requests to external sites: 111 out of 114
+Number of POST Requests made: 1 out of 114
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+www.greenparty.ca [21-09-18 16-31].json
+Num of entries = 37
+5 sites outside the host:
+- connect.facebook.net, 4 entries: 18 21 28 29 
+- www.google-analytics.com, 3 entries: 19 30 31 
+- platform.twitter.com, 2 entries: 27 32 
+- www.facebook.com, 2 entries: 33 35 
+- syndication.twitter.com, 1 entries: 34 
+Total number of requests to external sites: 12 out of 37
+Number of POST Requests made: 2 out of 37
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&aip=1&a=1234112541&t=pageview&_s=1&dl=https%3A%2F%2Fwww.greenparty.ca%2Fen&ul=en-us&de=UTF-8&dt=Green%20Party%20of%20Canada%20%7C&sd=24-bit&sr=1536x864&vp=465x674&je=0&_u=QACAAAABAAAAAC~&jid=&gjid=&cid=1483909931.1632004245&tid=UA-1403066-1&_gid=82104910.1632004245&_slc=1&cd1=anonymous%20user&z=1225319316
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1234112541&t=pageview&_s=1&dl=https%3A%2F%2Fwww.greenparty.ca%2Fen&ul=en-us&de=UTF-8&dt=Green%20Party%20of%20Canada%20%7C&sd=24-bit&sr=1536x864&vp=465x674&je=0&_u=QACAAAABAAAAAC~&jid=&gjid=&cid=1483909931.1632004245&tid=UA-1403066-28&_gid=82104910.1632004245&_slc=1&z=114740318
+
+
+---
+www.ndp.ca [21-09-18 16-32].json
+Num of entries = 59
+15 sites outside the host:
+- fonts.googleapis.com, 1 entries: 1 
+- kit.fontawesome.com, 1 entries: 2 
+- maxcdn.bootstrapcdn.com, 2 entries: 3 32 
+- www.googleadservices.com, 1 entries: 8 
+- ka-f.fontawesome.com, 4 entries: 11 12 13 31 
+- www.google-analytics.com, 5 entries: 14 35 39 47 58 
+- connect.facebook.net, 7 entries: 15 36 40 43 45 49 51 
+- platform.twitter.com, 2 entries: 16 37 
+- www.googletagmanager.com, 2 entries: 17 38 
+- fonts.gstatic.com, 6 entries: 25 26 27 28 29 30 
+- apis.google.com, 1 entries: 34 
+- sc-static.net, 2 entries: 41 44 
+- syndication.twitter.com, 1 entries: 42 
+- www.facebook.com, 6 entries: 46 50 52 53 55 56 
+- tr.snapchat.com, 1 entries: 48 
+Total number of requests to external sites: 42 out of 59
+Number of POST Requests made: 3 out of 59
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1238374888&t=pageview&_s=1&dl=https%3A%2F%2Fwww.ndp.ca%2F&ul=en-us&de=UTF-8&dt=Canada%27s%20NDP&sd=24-bit&sr=1536x864&vp=465x674&je=0&_u=AACAAEABAAAAAC~&jid=&gjid=&cid=1836956990.1632004320&tid=UA-30109525-1&_gid=1681279553.1632004320&_slc=1&z=2011867269
+POST: https://tr.snapchat.com/p
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-97QLYMLC56&gtm=2oe9f0&_p=1238374888&sr=1536x864&ul=en-us&cid=1836956990.1632004320&dl=https%3A%2F%2Fwww.ndp.ca%2F&dt=Canada%27s%20NDP&sid=1632004320&sct=1&seg=1&_s=1
+
+
+---
+www.peoplespartyofcanada.ca [21-09-18 16-34].json
+Num of entries = 67
+24 sites outside the host:
+- maximebernier.nationbuilder.com, 12 entries: 1 2 3 6 7 8 9 18 19 20 28 29 
+- ajax.googleapis.com, 1 entries: 4 
+- d3n8a8pro7vhmx.cloudfront.net, 11 entries: 5 10 11 12 13 14 15 16 32 33 66 
+- kit.fontawesome.com, 1 entries: 17 
+- s7.addthis.com, 4 entries: 21 43 44 52 
+- fonts.googleapis.com, 1 entries: 22 
+- platform.twitter.com, 2 entries: 23 40 
+- apis.google.com, 2 entries: 24 46 
+- ssl.google-analytics.com, 2 entries: 25 38 
+- www.googletagmanager.com, 2 entries: 26 47 
+- connect.facebook.net, 4 entries: 27 31 37 45 
+- fonts.gstatic.com, 1 entries: 30 
+- ka-f.fontawesome.com, 5 entries: 34 35 36 50 51 
+- z.moatads.com, 1 entries: 39 
+- v1.addthisedge.com, 2 entries: 41 56 
+- m.addthis.com, 1 entries: 42 
+- www.google-analytics.com, 2 entries: 48 54 
+- www.facebook.com, 2 entries: 49 65 
+- syndication.twitter.com, 1 entries: 53 
+- tags.bluekai.com, 1 entries: 55 
+- dpm.demdex.net, 2 entries: 57 60 
+- sync.mathtag.com, 1 entries: 58 
+- secure.adnxs.com, 2 entries: 59 63 
+- su.addthis.com, 3 entries: 61 62 64 
+Total number of requests to external sites: 66 out of 67
+Number of POST Requests made: 1 out of 67
+POST: https://v1.addthisedge.com/live/prender?sid=614669481a635a8d&uid=6146693d75bef1f6&ids=8796-8788-8822-8797&rev=v8.28.8-wp&delay=0
+
+
+Analysis session ended 29/11/2021, 14:32:30

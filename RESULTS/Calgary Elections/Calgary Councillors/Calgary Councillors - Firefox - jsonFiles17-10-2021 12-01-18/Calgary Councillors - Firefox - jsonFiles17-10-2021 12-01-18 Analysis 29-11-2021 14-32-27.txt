@@ -1,0 +1,1887 @@
+Analysis session started for C:\Users\TL\PycharmProjects\researchProj\jsonsToAnalyze\Calgary Elections\Calgary Councillors, 29/11/2021, 14:32:27
+---
+Abdirizak Hadi 17-10-2021 12-07-32.json
+Num of entries = 47
+2 sites outside the host:
+- fonts.googleapis.com, 2 entries: 3 4 
+- fonts.gstatic.com, 3 entries: 26 30 31 
+Total number of requests to external sites: 5 out of 47
+Number of POST Requests made: 0 out of 47
+
+
+---
+Abed Harb 17-10-2021 12-08-30.json
+Num of entries = 104
+24 sites outside the host:
+- www.googletagmanager.com, 1 entries: 2 
+- kit.fontawesome.com, 1 entries: 3 
+- ajax.googleapis.com, 1 entries: 4 
+- d3n8a8pro7vhmx.cloudfront.net, 13 entries: 5 12 17 18 20 21 22 23 25 26 27 30 57 
+- voteharb.nationbuilder.com, 12 entries: 6 7 8 9 10 11 13 14 15 16 32 92 
+- fonts.googleapis.com, 1 entries: 19 
+- use.typekit.net, 9 entries: 24 29 33 36 38 41 42 43 44 
+- p.typekit.net, 2 entries: 28 45 
+- fonts.gstatic.com, 3 entries: 31 59 68 
+- cdn.embedly.com, 4 entries: 34 35 37 40 
+- ka-f.fontawesome.com, 1 entries: 39 
+- www.youtube.com, 26 entries: 46 47 48 49 50 51 52 53 54 55 58 60 61 63 64 66 72 73 83 84 86 87 88 89 93 101 
+- www.google-analytics.com, 2 entries: 56 62 
+- platform.twitter.com, 2 entries: 65 67 
+- syndication.twitter.com, 1 entries: 69 
+- googleads.g.doubleclick.net, 8 entries: 70 71 74 75 94 100 102 103 
+- www.google.com, 1 entries: 76 
+- i.ytimg.com, 2 entries: 77 79 
+- connect.facebook.net, 2 entries: 78 81 
+- apis.google.com, 2 entries: 80 91 
+- www.facebook.com, 1 entries: 82 
+- nationbuilder.s3.amazonaws.com, 2 entries: 85 99 
+- yt3.ggpht.com, 2 entries: 90 98 
+- static.doubleclick.net, 3 entries: 95 96 97 
+Total number of requests to external sites: 102 out of 104
+Number of POST Requests made: 4 out of 104
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=535582371&t=pageview&_s=1&dl=https%3A%2F%2Fwww.voteharb.ca%2F&ul=en-us&de=UTF-8&dt=Elect%20Abed%20Harb&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEBAAUABAAAAAC~&jid=1224843271&gjid=1472234490&cid=1633992451.1634494108&tid=UA-207907998-1&_gid=1193119657.1634494108&_r=1&gtm=2ouad0&z=706617646
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+Anand James Chetty 17-10-2021 12-04-24.json
+Num of entries = 2
+0 sites outside the host:
+Total number of requests to external sites: 0 out of 2
+Number of POST Requests made: 0 out of 2
+
+
+---
+Andre Chabot 17-10-2021 12-08-05.json
+Num of entries = 20
+5 sites outside the host:
+- andrechabot.ca, 1 entries: 1 
+- private.canadianshield.cira.ca, 1 entries: 2 
+- www.andrechabot.ca, 9 entries: 3 4 6 7 8 16 17 18 19 
+- fonts.googleapis.com, 1 entries: 5 
+- fonts.gstatic.com, 7 entries: 9 10 11 12 13 14 15 
+Total number of requests to external sites: 19 out of 20
+Number of POST Requests made: 1 out of 20
+POST: https://private.canadianshield.cira.ca/dns-query
+
+
+---
+Andrea Hinton 17-10-2021 12-11-02.json
+Num of entries = 47
+4 sites outside the host:
+- static.parastorage.com, 27 entries: 2 3 4 5 9 11 12 18 20 21 22 29 30 31 32 33 34 35 37 38 39 41 42 43 44 45 46 
+- frog.wix.com, 5 entries: 6 10 16 19 36 
+- siteassets.parastorage.com, 2 entries: 7 8 
+- static.wixstatic.com, 8 entries: 13 14 15 17 23 24 25 26 
+Total number of requests to external sites: 42 out of 47
+Number of POST Requests made: 5 out of 47
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=865e8ac6-637f-4905-bf27-a7a558f38a2e&session_id=30f902a1-0b81-4047-97d0-b3372d495497&ish=1&vsi=9f120c29-73d3-49f6-b8f2-0e6d1fcf8ad0&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.hintonward14.com/&st=2&ts=50&tsn=57
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=865e8ac6-637f-4905-bf27-a7a558f38a2e&pn=1&sessionId=30f902a1-0b81-4047-97d0-b3372d495497&siterev=104-__siteCacheRevision__&st=2&ts=53&tts=60&url=https%3A%2F%2Fwww.hintonward14.com%2F%3F&v=1.8115.0&vsi=9f120c29-73d3-49f6-b8f2-0e6d1fcf8ad0&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=865e8ac6-637f-4905-bf27-a7a558f38a2e&pid=cjg9&pn=1&sessionId=30f902a1-0b81-4047-97d0-b3372d495497&siterev=104-__siteCacheRevision__&st=2&ts=120&tts=127&url=https%3A%2F%2Fwww.hintonward14.com%2F%3F&v=1.8115.0&vsi=9f120c29-73d3-49f6-b8f2-0e6d1fcf8ad0&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=865e8ac6-637f-4905-bf27-a7a558f38a2e&session_id=30f902a1-0b81-4047-97d0-b3372d495497&ish=1&vsi=9f120c29-73d3-49f6-b8f2-0e6d1fcf8ad0&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.hintonward14.com/&st=2&name=partially_visible&duration=1634494261508
+POST: https://frog.wix.com/site-members?_msid=865e8ac6-637f-4905-bf27-a7a558f38a2e&vsi=9f120c29-73d3-49f6-b8f2-0e6d1fcf8ad0&rid=1634392858.3602769513803120201&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=433&_lv=2.0.1000&_visitorId=607f5209-0012-4ff2-8ef6-de31eeb0a5a7&_siteMemberId=undefined&bsi=f190a4e5-eb50-46a9-b72d-de93e9aae69e%7C1&src=5&evid=698&biToken=865e8ac6-637f-4905-bf27-a7a558f38a2e&context=undefined&ts=427&viewmode=undefined&visitor_id=607f5209-0012-4ff2-8ef6-de31eeb0a5a7&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344942618670
+
+
+---
+Angela McIntyre 17-10-2021 12-04-17.json
+Num of entries = 68
+21 sites outside the host:
+- m.addthis.com, 1 entries: 2 
+- ajax.googleapis.com, 1 entries: 4 
+- d3n8a8pro7vhmx.cloudfront.net, 7 entries: 5 10 31 32 33 34 49 
+- fonts.googleapis.com, 1 entries: 6 
+- polyfill.io, 1 entries: 7 
+- cdnjs.cloudflare.com, 2 entries: 9 11 
+- mcintyreward4.nationbuilder.com, 20 entries: 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 35 
+- apis.google.com, 2 entries: 36 42 
+- fonts.gstatic.com, 5 entries: 37 38 39 41 60 
+- cdn.embedly.com, 1 entries: 40 
+- www.youtube.com, 9 entries: 43 44 45 51 52 53 58 61 65 
+- platform.twitter.com, 2 entries: 46 50 
+- ssl.google-analytics.com, 2 entries: 47 56 
+- connect.facebook.net, 2 entries: 48 55 
+- syndication.twitter.com, 1 entries: 54 
+- www.facebook.com, 1 entries: 57 
+- googleads.g.doubleclick.net, 2 entries: 59 66 
+- www.google.com, 1 entries: 62 
+- i.ytimg.com, 1 entries: 63 
+- yt3.ggpht.com, 1 entries: 64 
+- static.doubleclick.net, 1 entries: 67 
+Total number of requests to external sites: 64 out of 68
+Number of POST Requests made: 1 out of 68
+POST: https://m.addthis.com/live/red_lojson/100eng.json?sh=0&ph=4023&ivh=689&dt=0&pdt=17&ict=&pct=0&perf=widget%7C17%7C3618%2Clojson%7C6896%7C0%2Csh%7C6897%7C34&cmenu=null&ppd=0&ppl=0&fbe=&xmv=0&xms=0&xmlc=0&jsfw=jquery%2Cgoogleanalytics&jsfwv=jquery-2.1.3%2Cgoogleanalytics-ga.js&al=wpp&scr=0&scv=0&apiu=0&ba=1&sid=616c65950439e546&rev=v8.28.8-wp&pub=ra-60af4b3ca7942157&dp=djkelly.ca&fp=&pfm=0&icns=
+
+
+---
+Anton Ovtchinnikov 17-10-2021 12-11-03.json
+Num of entries = 38
+4 sites outside the host:
+- img1.wsimg.com, 26 entries: 2 6 7 8 9 10 11 13 14 15 16 17 18 19 21 23 24 25 26 27 28 29 30 31 32 36 
+- fonts.googleapis.com, 3 entries: 3 4 5 
+- fonts.gstatic.com, 5 entries: 12 20 33 34 35 
+- img6.wsimg.com, 1 entries: 22 
+Total number of requests to external sites: 35 out of 38
+Number of POST Requests made: 0 out of 38
+
+
+---
+Aryan Sadat 17-10-2021 12-05-13.json
+Num of entries = 181
+27 sites outside the host:
+- www.youtube.com, 30 entries: 1 2 3 5 6 8 113 115 118 120 123 124 125 126 128 129 141 142 144 146 151 163 164 165 166 167 168 169 171 174 
+- pbs.twimg.com, 1 entries: 4 
+- pixel.wp.com, 1 entries: 7 
+- frog.wix.com, 19 entries: 10 15 18 20 55 106 107 110 111 112 116 121 122 130 133 137 149 157 180 
+- static.parastorage.com, 78 entries: 11 12 13 14 16 19 21 22 25 27 29 30 36 45 46 47 48 49 50 51 52 53 54 56 57 58 59 60 61 62 63 64 65 66 67 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 99 100 101 102 103 104 105 108 114 143 150 159 161 162 
+- ton.twimg.com, 1 entries: 17 
+- fonts.gstatic.com, 3 entries: 23 127 136 
+- siteassets.parastorage.com, 4 entries: 24 28 33 37 
+- static.wixstatic.com, 10 entries: 26 31 32 34 35 39 40 42 43 44 
+- www.googletagmanager.com, 1 entries: 98 
+- video.wixstatic.com, 1 entries: 117 
+- sentry.wixpress.com, 1 entries: 119 
+- www.google-analytics.com, 3 entries: 131 132 145 
+- app.visitor-analytics.io, 2 entries: 134 135 
+- www.google.com, 1 entries: 138 
+- static.doubleclick.net, 1 entries: 139 
+- yt3.ggpht.com, 1 entries: 140 
+- googleads.g.doubleclick.net, 4 entries: 147 148 153 154 
+- analytics.sitewit.com, 3 entries: 152 155 156 
+- statcounter.va-endpoint.com, 1 entries: 158 
+- fonts.googleapis.com, 1 entries: 160 
+- loadbalancer.visitor-analytics.io, 1 entries: 170 
+- r2---sn-j5o5gpx-ttje.googlevideo.com, 2 entries: 172 178 
+- connect.sitewit.com, 1 entries: 173 
+- r1---sn-j5o5gpx-ttje.googlevideo.com, 2 entries: 175 176 
+- cdnjs.cloudflare.com, 1 entries: 177 
+- cdn.jsdelivr.net, 1 entries: 179 
+Total number of requests to external sites: 175 out of 181
+Number of POST Requests made: 33 out of 181
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=guz1hODVHI95Bgti&docid=lxf_2bNG17c&ver=2&cmt=0&fs=0&rt=0&euri=https%3A%2F%2Fvotemerali.ca%2F&lact=3848&cl=402943675&mos=0&volume=100&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=CA&len=99&fexp=23983296%2C24001373%2C24002022%2C24002025%2C24002923%2C24004644%2C24007246%2C24064555%2C24080738%2C24082661%2C24087479%2C24098819%2C24101841%2C24106092%2C24116740&muted=0&vis=3
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=N6jqC6OTYCjO1niw&docid=VKme5NlHxts&ver=2&cmt=0&fs=0&rt=0.001&euri=https%3A%2F%2Fvotemerali.ca%2F&lact=3765&cl=402943675&mos=0&volume=100&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=CA&len=29&fexp=23858057%2C23983296%2C24001037%2C24001373%2C24002022%2C24002025%2C24002922%2C24004644%2C24007246%2C24080738%2C24082662%2C24101841%2C24106092&muted=0&vis=3
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=6jjMTSrVS-4nWncY&docid=y502G9xsMN8&ver=2&cmt=0&fs=0&rt=0&euri=https%3A%2F%2Fvotemerali.ca%2F&lact=3769&cl=402943675&mos=0&volume=100&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=CA&len=2145&fexp=23748146%2C23983296%2C24001373%2C24002022%2C24002025%2C24002923%2C24004644%2C24007246%2C24064557%2C24080738%2C24082661%2C24101841%2C24106092&muted=0&vis=3
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=H3PiwnclB0zWckD5&docid=WvDwRoaNpKA&ver=2&cmt=0&fs=0&rt=0&euri=https%3A%2F%2Fvotemerali.ca%2F&lact=3808&cl=402943675&mos=0&volume=100&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=CA&len=876&fexp=23748147%2C23821390%2C23983296%2C24001373%2C24002022%2C24002025%2C24002922%2C24004644%2C24007246%2C24047101%2C24064555%2C24080738%2C24082662%2C24101841%2C24106092%2C24108400%2C24116744&muted=0&vis=3
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=false&msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&session_id=11824af8-ff4f-4bc9-9537-288db3644163&ish=1&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&caching=miss,miss&pv=visible&v=1.8133.0&url=https://www.electsadat.com/&st=2&ts=34&tsn=45
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=miss,miss&dc=96&et=1&event_name=Init&is_cached=false&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&pn=1&sessionId=11824af8-ff4f-4bc9-9537-288db3644163&siterev=128-__siteCacheRevision__&st=2&ts=899&tts=910&url=https%3A%2F%2Fwww.electsadat.com%2F%3F&v=1.8133.0&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=miss,miss&dc=96&et=12&event_name=Partially%20visible&is_cached=false&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&pid=c1dmp&pn=1&sessionId=11824af8-ff4f-4bc9-9537-288db3644163&siterev=128-__siteCacheRevision__&st=2&ts=980&tts=991&url=https%3A%2F%2Fwww.electsadat.com%2F%3F&v=1.8133.0&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=false&msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&session_id=11824af8-ff4f-4bc9-9537-288db3644163&ish=1&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&caching=miss,miss&pv=visible&v=1.8133.0&url=https://www.electsadat.com/&st=2&name=partially_visible&duration=1634493906435
+POST: https://frog.wix.com/site-members?_msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&rid=1634493905.494350572544117334&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=1515&_lv=2.0.1000&_visitorId=3de666a8-82de-4a8e-a32a-72397b58d4f0&_siteMemberId=undefined&bsi=95919915-c6db-40cc-8b58-dda8cbfb4811%7C1&src=5&evid=698&biToken=2e06a5f4-4522-4cdb-8be9-913b291f27e7&context=undefined&ts=1505&viewmode=undefined&visitor_id=3de666a8-82de-4a8e-a32a-72397b58d4f0&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344939069960
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/ugc-viewer?_msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&rid=1634493905.494350572544117334&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=2157&_lv=2.0.1000&_visitorId=3de666a8-82de-4a8e-a32a-72397b58d4f0&_siteMemberId=undefined&bsi=95919915-c6db-40cc-8b58-dda8cbfb4811%7C1&appId=13ee53b4-2343-b641-c84d-056d2e6ed2e6&widget_id=147ce056-e1f1-42ae-8e33-95f9865d63c8&instance_id=comp-ktt1otj8&src=42&evid=642&tts=2158&pid=c1dmp&pn=1&_=16344939076561
+POST: https://frog.wix.com/ugc-viewer?_msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&rid=1634493905.494350572544117334&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=2158&_lv=2.0.1000&_visitorId=3de666a8-82de-4a8e-a32a-72397b58d4f0&_siteMemberId=undefined&bsi=95919915-c6db-40cc-8b58-dda8cbfb4811%7C1&appId=13ee53b4-2343-b641-c84d-056d2e6ed2e6&widget_id=14b2d589-33e5-af98-ec53-a386bbb29a4f&instance_id=comp-ktt1otjx&src=42&evid=642&tts=2159&pid=c1dmp&pn=1&_=16344939076563
+POST: https://frog.wix.com/pa?_msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&rid=1634493905.494350572544117334&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=2178&_lv=2.0.1000&_visitorId=3de666a8-82de-4a8e-a32a-72397b58d4f0&_siteMemberId=undefined&bsi=95919915-c6db-40cc-8b58-dda8cbfb4811%7C1&src=76&evid=1109&pid=c1dmp&pn=1&viewer=TB&pt=static&pa=editor&pti=c1dmp&uuid=6c449629-75f4-4b1d-b90c-40c4cc92365a&url=https%3A%2F%2Fwww.electsadat.com%2F&ref=&bot=true&bl=en-US&pl=en-US%2Cen&_=16344939076574
+POST: https://frog.wix.com/bolt-performance
+POST: https://sentry.wixpress.com/api/28/store/?sentry_version=7&sentry_client=raven-js%2F3.27.2&sentry_key=fe0974951f45411fbe57fbbd7c30bbf2
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1350169911&t=pageview&_s=1&dl=https%3A%2F%2Fwww.electsadat.com%2F&dp=%2F&ul=en-us&de=UTF-8&dt=Home%20%7C%20Elect%20Aryan%20Sadat%20for%20Ward%205%20Calgary&sd=24-bit&sr=1536x864&vp=1266x672&je=0&_u=YEBAAUIJAAAAAC~&jid=1307509158&gjid=568724019&cid=624185296.1634493908&tid=UA-205605190-1&_gid=2079398397.1634493908&_r=1&gtm=2ouad0&did=dYzMzMD&z=1752621250
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://frog.wix.com/ugc-viewer?_msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&rid=1634493905.494350572544117334&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=2157&_lv=2.0.1000&_visitorId=3de666a8-82de-4a8e-a32a-72397b58d4f0&_siteMemberId=undefined&bsi=95919915-c6db-40cc-8b58-dda8cbfb4811%7C1&appId=13ee53b4-2343-b641-c84d-056d2e6ed2e6&widget_id=147ce056-e1f1-42ae-8e33-95f9865d63c8&instance_id=comp-ktt21yre&src=42&evid=642&tts=2158&pid=c1dmp&pn=1&_=16344939076562
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=miss,miss&dc=96&et=33&event_name=page%20interactive&is_cached=false&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&pid=c1dmp&pn=1&rid=1634493905.494350572544117334&sar=1536x824&sessionId=11824af8-ff4f-4bc9-9537-288db3644163&siterev=128-__siteCacheRevision__&sr=1536x864&st=2&ts=2181&tts=2192&url=https%3A%2F%2Fwww.electsadat.com%2F&v=1.8133.0&vid=3de666a8-82de-4a8e-a32a-72397b58d4f0&bsi=95919915-c6db-40cc-8b58-dda8cbfb4811|1&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&wor=1294x779&wr=1283x689&_brandId=wix
+POST: https://www.youtube.com/api/stats/qoe?event=streamingstats&fmt=134&afmt=251&cpn=ORTcdEsmfY-ce7Om&ei=1WVsYaGMGpWBkwbHhY2oCQ&el=embedded&docid=Nam3Q05Q8pg&ns=yt&fexp=23858057%2C23983296%2C24001373%2C24002022%2C24002025%2C24004644%2C24007246%2C24047102%2C24058363%2C24064555%2C24080738%2C24082661%2C24101841%2C24106092&cl=402943675&seq=1&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.010:B,1.535:B,1.535:B&cmt=0.010:0.000,1.535:0.000&afs=1.534:251::i&vfs=1.535:134:134::r&view=1.535:614:345:1.25&bwe=1.535:130000&vis=1.535:0&bh=1.535:0.000
+POST: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/api/stats/qoe?event=streamingstats&fmt=244&afmt=251&cpn=Tw_XI9IfKhjXWcWZ&ei=1WVsYer8IcSmkgaC97ywAQ&el=embedded&docid=ZTMdXSxklAQ&ns=yt&fexp=23858057%2C23983296%2C24001373%2C24002022%2C24002025%2C24004644%2C24007246%2C24047102%2C24058363%2C24064555%2C24080738%2C24082661%2C24101841%2C24106092&cl=402943675&seq=1&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.007:B,1.441:B,1.441:B&cmt=0.007:0.000,1.441:0.000&afs=1.441:251::i&vfs=1.441:244:244::r&view=1.441:583:328:1.25&bwe=1.441:130000&vis=1.441:0&bh=1.441:0.000
+POST: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://frog.wix.com/bpm?_msid=2e06a5f4-4522-4cdb-8be9-913b291f27e7&vsi=b7c7f5f4-bd6a-496b-a748-05d67b6fde46&rid=1634493905.494350572544117334&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&ts=7537&tsn=7548&dc=96&caching=miss%2Cmiss&session_id=11824af8-ff4f-4bc9-9537-288db3644163&st=2&url=https%253A%252F%252Fwww.electsadat.com%252F&ish=true&pn=0&pv=true&pageId=c1dmp&isServerSide=false&is_lightbox=false&is_cached=false&is_sav_rollout=0&is_dac_rollout=0&v=1.8133.0&_brandId=wix&_siteBranchId=undefined&_ms=7548&_lv=2.0.1000&_visitorId=undefined&_siteMemberId=undefined&src=72&evid=502&_=16344939130275&tti=5001&tbt=2133&iframes=6&screens=11&countScripts=52&startTimeScripts=936&durationScripts=3302&mttfbScripts=24&attfbScripts=31&tbdScripts=589795&countImages=6&startTimeImages=1051&durationImages=183&mttfbImages=71&attfbImages=77&tbdImages=59349&countFonts=7&startTimeFonts=1090&durationFonts=207&mttfbFonts=58&attfbFonts=65&tbdFonts=224057&entryType=loaded&duration=7546&ttlb=976&dcl=1182&transferSize=116287&decodedBodySize=578601&pageCaching=maybe%20CDN&isSsr=true&isWelcome=false&cdn=Cloudfront&visitorId=3de666a8-82de-4a8e-a32a-72397b58d4f0&btype=webdriver&bsi=95919915-c6db-40cc-8b58-dda8cbfb4811%7C1&ssrDuration=960&ssrTimestamp=1634493906609&microPop=96&isRollout=false&isPlatformLoaded=false&maybeBot=true&clientType=ugc&analytics=true
+
+
+---
+Benjamin Shepherd 17-10-2021 12-06-20.json
+Num of entries = 22
+7 sites outside the host:
+- use.typekit.net, 2 entries: 2 13 
+- fonts.googleapis.com, 1 entries: 3 
+- assets.squarespace.com, 7 entries: 4 5 6 7 8 9 12 
+- static1.squarespace.com, 3 entries: 10 11 19 
+- fonts.gstatic.com, 3 entries: 14 15 16 
+- images.squarespace-cdn.com, 1 entries: 17 
+- p.typekit.net, 1 entries: 20 
+Total number of requests to external sites: 18 out of 22
+Number of POST Requests made: 1 out of 22
+POST: https://www.benjaminshepherd.ca/api/census/RecordHit
+
+
+---
+Brent Trenholm 17-10-2021 12-03-49.json
+Num of entries = 117
+6 sites outside the host:
+- www.googletagmanager.com, 1 entries: 2 
+- fonts.googleapis.com, 4 entries: 3 4 8 9 
+- maxcdn.bootstrapcdn.com, 1 entries: 5 
+- fonts.gstatic.com, 6 entries: 54 55 56 57 58 59 
+- static.addtoany.com, 2 entries: 110 111 
+- www.google-analytics.com, 3 entries: 112 114 115 
+Total number of requests to external sites: 17 out of 117
+Number of POST Requests made: 1 out of 117
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=793988204&t=pageview&_s=1&dl=https%3A%2F%2Fbrenttrenholm.ca%2F&ul=en-us&de=UTF-8&dt=Brent%20Trenholm%20for%20Ward%203%20%E2%80%93%20brenttrenholm.ca&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=aGBAAUIhAAAAAC~&jid=215574048&gjid=711458086&cid=23989975.1634493829&tid=UA-193969076-1&_gid=77097108.1634493829&_r=1&gtm=2ouad0&did=dZGIzZG&z=1848337793
+
+
+---
+Bud Thurlow 17-10-2021 12-08-43.json
+Num of entries = 39
+3 sites outside the host:
+- estherforward10.ca, 1 entries: 1 
+- img1.wsimg.com, 34 entries: 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 27 28 29 30 31 32 33 34 35 36 37 
+- img6.wsimg.com, 1 entries: 26 
+Total number of requests to external sites: 36 out of 39
+Number of POST Requests made: 0 out of 39
+
+
+---
+Carla Evers 17-10-2021 12-08-22.json
+Num of entries = 2
+0 sites outside the host:
+Total number of requests to external sites: 0 out of 2
+Number of POST Requests made: 0 out of 2
+
+
+---
+Chris Blatch 17-10-2021 12-01-47.json
+Num of entries = 49
+6 sites outside the host:
+- tomantonick.com, 2 entries: 1 2 
+- static.parastorage.com, 21 entries: 4 6 7 12 13 14 18 27 29 33 36 37 40 41 42 43 44 45 46 47 48 
+- siteassets.parastorage.com, 4 entries: 8 22 23 24 
+- static.wixstatic.com, 12 entries: 9 11 15 16 17 19 25 26 31 32 34 35 
+- frog.wix.com, 4 entries: 20 21 28 30 
+- fonts.gstatic.com, 2 entries: 38 39 
+Total number of requests to external sites: 45 out of 49
+Number of POST Requests made: 4 out of 49
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=ab507a32-86cb-4589-97fa-f899cb5b4eb3&pid=crp5&pn=1&sessionId=beca6675-a46d-4598-8e4d-80ce76f257d9&siterev=93-__siteCacheRevision__&st=2&ts=129&tts=141&url=https%3A%2F%2Fwww.blatchward1.ca%2F%3F&v=1.8084.0&vsi=e6b32cac-c106-4908-bced-ecfc214ee382&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=ab507a32-86cb-4589-97fa-f899cb5b4eb3&session_id=beca6675-a46d-4598-8e4d-80ce76f257d9&ish=1&vsi=e6b32cac-c106-4908-bced-ecfc214ee382&caching=hit,hit&pv=visible&v=1.8084.0&url=https://www.blatchward1.ca/&st=2&ts=41&tsn=53
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=ab507a32-86cb-4589-97fa-f899cb5b4eb3&session_id=beca6675-a46d-4598-8e4d-80ce76f257d9&ish=1&vsi=e6b32cac-c106-4908-bced-ecfc214ee382&caching=hit,hit&pv=visible&v=1.8084.0&url=https://www.blatchward1.ca/&st=2&name=partially_visible&duration=1634493704259
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=ab507a32-86cb-4589-97fa-f899cb5b4eb3&pn=1&sessionId=beca6675-a46d-4598-8e4d-80ce76f257d9&siterev=93-__siteCacheRevision__&st=2&ts=45&tts=57&url=https%3A%2F%2Fwww.blatchward1.ca%2F%3F&v=1.8084.0&vsi=e6b32cac-c106-4908-bced-ecfc214ee382&_brandId=wix
+
+
+---
+Cornelia Wiebe 17-10-2021 12-07-16.json
+Num of entries = 67
+20 sites outside the host:
+- www.google-analytics.com, 1 entries: 1 
+- ajax.googleapis.com, 1 entries: 4 
+- d3n8a8pro7vhmx.cloudfront.net, 12 entries: 5 11 31 32 33 34 35 36 38 44 46 52 
+- fonts.googleapis.com, 1 entries: 6 
+- polyfill.io, 1 entries: 7 
+- cdnjs.cloudflare.com, 2 entries: 8 10 
+- cornelia.nationbuilder.com, 20 entries: 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 37 
+- apis.google.com, 2 entries: 39 42 
+- cdn.embedly.com, 1 entries: 40 
+- www.youtube.com, 9 entries: 41 43 45 47 48 49 57 62 66 
+- platform.twitter.com, 2 entries: 50 54 
+- connect.facebook.net, 2 entries: 51 53 
+- www.facebook.com, 1 entries: 55 
+- syndication.twitter.com, 1 entries: 56 
+- fonts.gstatic.com, 1 entries: 58 
+- googleads.g.doubleclick.net, 2 entries: 59 60 
+- static.doubleclick.net, 1 entries: 61 
+- www.google.com, 1 entries: 63 
+- i.ytimg.com, 1 entries: 64 
+- yt3.ggpht.com, 1 entries: 65 
+Total number of requests to external sites: 63 out of 67
+Number of POST Requests made: 1 out of 67
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-0H078GDYE9&gtm=2oead0&_p=459342286&sr=1536x864&ul=en-us&cid=1999166357.1634494029&_s=2&dl=https%3A%2F%2Fwww.courtneywalcott.com%2F&dt=Courtney%20Walcott%20for%20Ward%208%20City%20Councillor&sid=1634494028&sct=1&seg=0&en=user_engagement&_et=1651
+
+
+---
+Courtney Walcott 17-10-2021 12-07-10.json
+Num of entries = 53
+18 sites outside the host:
+- philipmitchellyyc.com, 8 entries: 1 2 4 5 6 7 8 9 
+- use.typekit.net, 5 entries: 11 21 22 23 24 
+- d3n8a8pro7vhmx.cloudfront.net, 3 entries: 12 14 35 
+- p.typekit.net, 1 entries: 15 
+- kit.fontawesome.com, 1 entries: 16 
+- www.googletagmanager.com, 2 entries: 17 18 
+- cdn.nationbuilderthemes.ca, 8 entries: 19 20 25 26 27 29 30 31 
+- cdn.embedly.com, 1 entries: 28 
+- www.youtube.com, 9 entries: 32 33 36 38 39 41 43 48 52 
+- ssl.google-analytics.com, 2 entries: 34 37 
+- www.google-analytics.com, 1 entries: 40 
+- ka-p.fontawesome.com, 1 entries: 42 
+- googleads.g.doubleclick.net, 2 entries: 44 46 
+- fonts.gstatic.com, 1 entries: 45 
+- static.doubleclick.net, 1 entries: 47 
+- www.google.com, 1 entries: 49 
+- i.ytimg.com, 1 entries: 50 
+- yt3.ggpht.com, 1 entries: 51 
+Total number of requests to external sites: 49 out of 53
+Number of POST Requests made: 1 out of 53
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-0H078GDYE9&gtm=2oead0&_p=459342286&sr=1536x864&ul=en-us&cid=1999166357.1634494029&_s=1&dl=https%3A%2F%2Fwww.courtneywalcott.com%2F&dt=Courtney%20Walcott%20for%20Ward%208%20City%20Councillor&sid=1634494028&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1
+
+
+---
+Craig Chandler 17-10-2021 12-09-42.json
+Num of entries = 32
+9 sites outside the host:
+- www.youtube.com, 9 entries: 2 5 7 8 9 19 22 26 30 
+- fonts.googleapis.com, 1 entries: 4 
+- fonts.gstatic.com, 2 entries: 10 11 
+- googleads.g.doubleclick.net, 2 entries: 13 23 
+- static.doubleclick.net, 1 entries: 18 
+- www.google.com, 1 entries: 20 
+- i.ytimg.com, 1 entries: 21 
+- yt3.ggpht.com, 1 entries: 29 
+- unpkg.com, 1 entries: 31 
+Total number of requests to external sites: 19 out of 32
+Number of POST Requests made: 1 out of 32
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+Dan McLean 17-10-2021 12-10-38.json
+Num of entries = 180
+16 sites outside the host:
+- fonts.googleapis.com, 12 entries: 1 2 3 4 57 58 59 60 136 137 150 158 
+- services.cognitoforms.com, 3 entries: 5 61 115 
+- js.hs-scripts.com, 2 entries: 12 63 
+- www.cognitoforms.com, 17 entries: 22 62 116 134 138 139 141 142 143 144 146 147 148 155 156 163 176 
+- www.paypalobjects.com, 2 entries: 49 105 
+- fonts.gstatic.com, 7 entries: 112 118 120 132 153 154 160 
+- www.youtube.com, 15 entries: 113 114 125 126 127 128 133 140 157 165 168 174 175 177 178 
+- www.google.com, 2 entries: 135 166 
+- www.gstatic.com, 1 entries: 149 
+- js.hscollectedforms.net, 1 entries: 152 
+- js.hs-banner.com, 1 entries: 159 
+- googleads.g.doubleclick.net, 3 entries: 161 162 179 
+- static.doubleclick.net, 2 entries: 164 170 
+- i.ytimg.com, 2 entries: 167 169 
+- yt3.ggpht.com, 2 entries: 171 173 
+- js.hs-analytics.net, 1 entries: 172 
+Total number of requests to external sites: 73 out of 180
+Number of POST Requests made: 2 out of 180
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+Daniel James (DJ) Kelly 17-10-2021 12-04-08.json
+Num of entries = 70
+11 sites outside the host:
+- fonts.googleapis.com, 1 entries: 3 
+- ajax.googleapis.com, 1 entries: 4 
+- js.stripe.com, 3 entries: 18 60 62 
+- use.fontawesome.com, 4 entries: 34 40 51 57 
+- fonts.gstatic.com, 8 entries: 44 45 47 48 49 50 55 56 
+- ssl.google-analytics.com, 2 entries: 58 61 
+- m.stripe.network, 2 entries: 63 64 
+- m.stripe.com, 1 entries: 65 
+- stats.g.doubleclick.net, 1 entries: 66 
+- s7.addthis.com, 2 entries: 67 69 
+- z.moatads.com, 1 entries: 68 
+Total number of requests to external sites: 26 out of 70
+Number of POST Requests made: 1 out of 70
+POST: https://m.stripe.com/6
+
+
+---
+Daymond Khan 17-10-2021 12-07-38.json
+Num of entries = 71
+6 sites outside the host:
+- fonts.googleapis.com, 3 entries: 3 6 21 
+- cdnjs.cloudflare.com, 2 entries: 4 5 
+- cdn.jsdelivr.net, 2 entries: 14 70 
+- fonts.gstatic.com, 6 entries: 52 53 54 56 57 61 
+- gyw.cdn.spotlightr.com, 3 entries: 66 67 69 
+- use.fontawesome.com, 1 entries: 68 
+Total number of requests to external sites: 17 out of 71
+Number of POST Requests made: 0 out of 71
+
+
+---
+Derek Williams 17-10-2021 12-06-35.json
+Num of entries = 48
+14 sites outside the host:
+- browser-http-intake.logs.datadoghq.com, 1 entries: 3 
+- ward7derek.nationbuilder.com, 6 entries: 4 5 6 11 12 13 
+- fonts.googleapis.com, 1 entries: 7 
+- ajax.googleapis.com, 1 entries: 8 
+- d3n8a8pro7vhmx.cloudfront.net, 12 entries: 9 10 14 15 16 17 18 19 20 23 24 39 
+- apis.google.com, 2 entries: 21 32 
+- use.typekit.net, 8 entries: 22 27 28 29 30 31 33 34 
+- fonts.gstatic.com, 2 entries: 25 26 
+- res.cloudinary.com, 1 entries: 35 
+- p.typekit.net, 1 entries: 36 
+- platform.twitter.com, 4 entries: 37 40 44 47 
+- connect.facebook.net, 2 entries: 38 41 
+- syndication.twitter.com, 1 entries: 42 
+- www.facebook.com, 3 entries: 43 45 46 
+Total number of requests to external sites: 45 out of 48
+Number of POST Requests made: 1 out of 48
+POST: https://browser-http-intake.logs.datadoghq.com/v1/input/pub9760ada2b6089744542f6c1c63e1eb6f?ddsource=browser&ddtags=sdk_version:1.21.0
+
+
+---
+Devin DeFraine 17-10-2021 12-08-58.json
+Num of entries = 48
+9 sites outside the host:
+- cdn2.editmysite.com, 14 entries: 3 4 5 9 12 13 14 15 19 23 30 33 41 42 
+- fonts.googleapis.com, 4 entries: 7 8 10 16 
+- ajax.googleapis.com, 1 entries: 11 
+- use.typekit.net, 5 entries: 22 35 36 37 38 
+- fonts.gstatic.com, 5 entries: 25 26 27 28 29 
+- ec.editmysite.com, 2 entries: 34 39 
+- p.typekit.net, 1 entries: 40 
+- connect.facebook.net, 2 entries: 44 47 
+- ssl.google-analytics.com, 1 entries: 45 
+Total number of requests to external sites: 35 out of 48
+Number of POST Requests made: 2 out of 48
+POST: https://ec.editmysite.com/com.snowplowanalytics.snowplow/tp2
+POST: https://www.devindefraine.ca/ajax/api/JsonRPC/CustomerAccounts/?CustomerAccounts[CustomerAccounts::getAccountDetails]
+
+
+---
+Diane Marie Colley-Urquhart 17-10-2021 12-10-25.json
+Num of entries = 132
+13 sites outside the host:
+- fonts.googleapis.com, 5 entries: 2 3 5 22 23 
+- www.reelectcouncillordiane.ca, 1 entries: 91 
+- fonts.gstatic.com, 6 entries: 93 94 95 103 105 111 
+- www.youtube.com, 8 entries: 97 106 107 108 109 114 122 125 
+- googleads.g.doubleclick.net, 2 entries: 112 123 
+- static.doubleclick.net, 1 entries: 113 
+- www.google.com, 1 entries: 115 
+- www.google-analytics.com, 2 entries: 116 124 
+- connect.facebook.net, 2 entries: 117 126 
+- i.ytimg.com, 1 entries: 120 
+- yt3.ggpht.com, 1 entries: 121 
+- platform.twitter.com, 3 entries: 127 128 131 
+- syndication.twitter.com, 1 entries: 130 
+Total number of requests to external sites: 34 out of 132
+Number of POST Requests made: 1 out of 132
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1003372728&t=pageview&_s=1&dl=https%3A%2F%2Fvotediane.ca%2F&ul=en-us&de=UTF-8&dt=Re-elect%20Councillor%20Diane%20Colley-Urquhart%20%7C%20October%2018%202021&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=IEBAAEABAAAAAC~&jid=484531019&gjid=1057597456&cid=2130826846.1634494224&tid=UA-71687859-1&_gid=1157385749.1634494224&_r=1&_slc=1&z=1482114869
+
+
+---
+Dirk Fontaine 17-10-2021 12-09-50.json
+Num of entries = 44
+2 sites outside the host:
+- img1.wsimg.com, 40 entries: 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 39 40 41 42 
+- img6.wsimg.com, 1 entries: 38 
+Total number of requests to external sites: 41 out of 44
+Number of POST Requests made: 0 out of 44
+
+
+---
+Duane Hall 17-10-2021 12-05-47.json
+Num of entries = 24
+5 sites outside the host:
+- assets.squarespace.com, 7 entries: 2 3 4 5 6 8 10 
+- static1.squarespace.com, 3 entries: 7 9 16 
+- use.typekit.net, 8 entries: 11 13 14 17 18 20 21 22 
+- images.squarespace-cdn.com, 1 entries: 12 
+- p.typekit.net, 1 entries: 23 
+Total number of requests to external sites: 20 out of 24
+Number of POST Requests made: 1 out of 24
+POST: https://www.voteforhallward6.ca/api/census/RecordHit
+
+
+---
+Erin Waite 17-10-2021 12-06-30.json
+Num of entries = 71
+21 sites outside the host:
+- ajax.googleapis.com, 2 entries: 2 40 
+- d3n8a8pro7vhmx.cloudfront.net, 8 entries: 3 9 28 29 30 31 33 44 
+- fonts.googleapis.com, 1 entries: 4 
+- polyfill.io, 1 entries: 5 
+- cdnjs.cloudflare.com, 4 entries: 7 8 47 49 
+- erinwaite.nationbuilder.com, 19 entries: 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 32 
+- apis.google.com, 2 entries: 34 38 
+- fonts.gstatic.com, 3 entries: 35 36 37 
+- proxy.liveweb.io, 4 entries: 39 45 51 69 
+- platform.twitter.com, 2 entries: 41 48 
+- ssl.google-analytics.com, 2 entries: 42 58 
+- connect.facebook.net, 4 entries: 43 50 60 61 
+- use.fontawesome.com, 3 entries: 46 57 59 
+- syndication.twitter.com, 1 entries: 52 
+- fast.appcues.com, 3 entries: 53 54 55 
+- app.liveweb.io, 1 entries: 56 
+- webrtc.github.io, 1 entries: 62 
+- stats.g.doubleclick.net, 1 entries: 63 
+- www.facebook.com, 3 entries: 64 65 66 
+- api.appcues.net, 2 entries: 67 70 
+- liveweb.io, 1 entries: 68 
+Total number of requests to external sites: 68 out of 71
+Number of POST Requests made: 0 out of 71
+
+
+---
+Esther Sutherland 17-10-2021 12-08-42.json
+Num of entries = 37
+2 sites outside the host:
+- img1.wsimg.com, 33 entries: 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 35 
+- img6.wsimg.com, 1 entries: 34 
+Total number of requests to external sites: 34 out of 37
+Number of POST Requests made: 0 out of 37
+
+
+---
+Evan Spencer 17-10-2021 12-10-11.json
+Num of entries = 64
+21 sites outside the host:
+- ajax.googleapis.com, 1 entries: 3 
+- d3n8a8pro7vhmx.cloudfront.net, 8 entries: 4 6 15 16 17 18 19 56 
+- fonts.googleapis.com, 1 entries: 5 
+- netdna.bootstrapcdn.com, 2 entries: 7 39 
+- evan.nationbuilder.com, 8 entries: 8 9 10 11 12 13 14 37 
+- apis.google.com, 2 entries: 20 32 
+- use.typekit.net, 7 entries: 21 28 29 30 31 33 34 
+- cdn.embedly.com, 1 entries: 22 
+- fonts.gstatic.com, 6 entries: 23 24 25 26 27 45 
+- www.youtube.com, 10 entries: 35 38 40 41 42 43 44 47 51 61 
+- p.typekit.net, 1 entries: 36 
+- googleads.g.doubleclick.net, 2 entries: 46 52 
+- www.google.com, 1 entries: 48 
+- i.ytimg.com, 1 entries: 49 
+- yt3.ggpht.com, 1 entries: 50 
+- platform.twitter.com, 2 entries: 53 60 
+- ssl.google-analytics.com, 2 entries: 54 59 
+- connect.facebook.net, 2 entries: 55 58 
+- static.doubleclick.net, 1 entries: 57 
+- syndication.twitter.com, 1 entries: 62 
+- www.facebook.com, 1 entries: 63 
+Total number of requests to external sites: 61 out of 64
+Number of POST Requests made: 0 out of 64
+
+
+---
+Francis Aranha 17-10-2021 12-02-36.json
+Num of entries = 59
+7 sites outside the host:
+- fonts.googleapis.com, 1 entries: 2 
+- fonts.gstatic.com, 8 entries: 25 27 28 29 30 32 33 53 
+- js.hs-scripts.com, 1 entries: 48 
+- js.hs-banner.com, 1 entries: 54 
+- js.hs-analytics.net, 1 entries: 55 
+- js.hscollectedforms.net, 1 entries: 56 
+- www.youtube.com, 2 entries: 57 58 
+Total number of requests to external sites: 15 out of 59
+Number of POST Requests made: 0 out of 59
+
+
+---
+Gary Bobrovitz 17-10-2021 12-06-59.json
+Num of entries = 53
+20 sites outside the host:
+- fonts.googleapis.com, 1 entries: 3 
+- use.typekit.net, 5 entries: 4 22 23 24 45 
+- www.googletagmanager.com, 4 entries: 5 18 46 48 
+- ajax.googleapis.com, 1 entries: 6 
+- d3n8a8pro7vhmx.cloudfront.net, 6 entries: 7 8 16 17 21 35 
+- p.typekit.net, 1 entries: 9 
+- player.vimeo.com, 2 entries: 10 20 
+- garybobrovitz.nationbuilder.com, 5 entries: 11 12 13 14 15 
+- apis.google.com, 2 entries: 19 26 
+- www.google.com, 2 entries: 25 36 
+- i.vimeocdn.com, 2 entries: 27 52 
+- f.vimeocdn.com, 3 entries: 28 29 49 
+- www.google-analytics.com, 3 entries: 30 50 51 
+- platform.twitter.com, 2 entries: 31 37 
+- connect.facebook.net, 4 entries: 32 33 41 42 
+- googleads.g.doubleclick.net, 1 entries: 34 
+- vimeo.com, 1 entries: 38 
+- www.google.ca, 1 entries: 39 
+- syndication.twitter.com, 1 entries: 40 
+- www.facebook.com, 3 entries: 43 44 47 
+Total number of requests to external sites: 50 out of 53
+Number of POST Requests made: 3 out of 53
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-8NZX5KV71J&gtm=2oead0&_p=723740055&sr=1536x864&ul=en-us&cid=387460473.1634494015&_s=1&dl=https%3A%2F%2Fwww.garybobrovitz.ca%2F&dt=Gary%20Bobrovitz%20Campaign&sid=1634494015&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1
+POST: https://vimeo.com/ablincoln/vuid?pid=8e9eb971f75814e0df4545e31feed611805ae7131634494015
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=723740055&t=pageview&_s=1&dl=https%3A%2F%2Fwww.garybobrovitz.ca%2F&ul=en-us&de=UTF-8&dt=Gary%20Bobrovitz%20Campaign&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YADAAUABAAAAAC~&jid=424139288&gjid=1059343788&cid=387460473.1634494015&tid=UA-209675761-1&_gid=723846939.1634494020&_r=1&gtm=2ouad0&z=915259081
+
+
+---
+Gaz Qamar 17-10-2021 12-02-01.json
+Num of entries = 22
+4 sites outside the host:
+- unpkg.com, 1 entries: 14 
+- player.vimeo.com, 1 entries: 15 
+- f.vimeocdn.com, 3 entries: 16 17 18 
+- i.vimeocdn.com, 3 entries: 19 20 21 
+Total number of requests to external sites: 8 out of 22
+Number of POST Requests made: 0 out of 22
+
+
+---
+Geoffrey Vanderburg 17-10-2021 12-09-27.json
+Num of entries = 144
+9 sites outside the host:
+- votemikejamieson.ca, 2 entries: 1 2 
+- frog.wix.com, 23 entries: 4 12 28 46 91 103 104 105 110 111 112 113 114 115 116 118 119 120 135 137 138 142 143 
+- static.parastorage.com, 86 entries: 5 6 7 8 11 13 14 21 22 36 37 39 40 41 42 43 44 45 47 48 49 50 51 52 53 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 92 93 94 95 96 97 98 99 101 117 121 123 124 125 126 127 128 129 130 131 132 133 134 140 141 
+- siteassets.parastorage.com, 4 entries: 9 10 23 24 
+- static.wixstatic.com, 14 entries: 15 16 17 25 26 27 30 31 32 33 34 107 108 109 
+- fonts.gstatic.com, 4 entries: 18 19 20 29 
+- sentry.wixpress.com, 1 entries: 106 
+- engage.wixapps.net, 2 entries: 122 136 
+- fonts.googleapis.com, 1 entries: 139 
+Total number of requests to external sites: 137 out of 144
+Number of POST Requests made: 25 out of 144
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=034a7df6-d6cd-4644-9201-21de01552d4f&session_id=de044876-036e-49b0-ac62-a40c9b80838e&ish=1&vsi=aab152a0-e11b-4290-b4ef-b80326c73086&caching=hit,hit&pv=visible&v=1.8133.0&url=https://www.geoffreyvanderburg.com/&st=2&ts=43&tsn=52
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=034a7df6-d6cd-4644-9201-21de01552d4f&pn=1&sessionId=de044876-036e-49b0-ac62-a40c9b80838e&siterev=147-__siteCacheRevision__&st=2&ts=49&tts=58&url=https%3A%2F%2Fwww.geoffreyvanderburg.com%2F%3F&v=1.8133.0&vsi=aab152a0-e11b-4290-b4ef-b80326c73086&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=034a7df6-d6cd-4644-9201-21de01552d4f&pid=c1dmp&pn=1&sessionId=de044876-036e-49b0-ac62-a40c9b80838e&siterev=147-__siteCacheRevision__&st=2&ts=174&tts=183&url=https%3A%2F%2Fwww.geoffreyvanderburg.com%2F%3F&v=1.8133.0&vsi=aab152a0-e11b-4290-b4ef-b80326c73086&_brandId=wix
+POST: https://frog.wix.com/site-members?_msid=034a7df6-d6cd-4644-9201-21de01552d4f&vsi=aab152a0-e11b-4290-b4ef-b80326c73086&rid=1634489336.9163491034245131137&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=524&_lv=2.0.1000&_visitorId=2995b87d-355d-4732-b6bd-f1ce69e08c56&_siteMemberId=undefined&bsi=4e0f86fd-acd0-4991-bbbc-eb521cee24cd%7C1&src=5&evid=698&biToken=034a7df6-d6cd-4644-9201-21de01552d4f&context=undefined&ts=515&viewmode=undefined&visitor_id=2995b87d-355d-4732-b6bd-f1ce69e08c56&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344941627740
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://sentry.wixpress.com/api/28/store/?sentry_version=7&sentry_client=raven-js%2F3.27.2&sentry_key=fe0974951f45411fbe57fbbd7c30bbf2
+POST: https://frog.wix.com/ugc-viewer?_msid=034a7df6-d6cd-4644-9201-21de01552d4f&vsi=aab152a0-e11b-4290-b4ef-b80326c73086&rid=1634489336.9163491034245131137&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=1600&_lv=2.0.1000&_visitorId=2995b87d-355d-4732-b6bd-f1ce69e08c56&_siteMemberId=undefined&bsi=4e0f86fd-acd0-4991-bbbc-eb521cee24cd%7C1&appId=14517e1a-3ff0-af98-408e-2bd6953c36a2&widget_id=14517f3f-ffc5-eced-f592-980aaa0bbb5c&instance_id=comp-jzjotymr&src=42&evid=642&tts=1602&pid=c1dmp&pn=1&_=16344941638531
+POST: https://frog.wix.com/pa?_msid=034a7df6-d6cd-4644-9201-21de01552d4f&vsi=aab152a0-e11b-4290-b4ef-b80326c73086&rid=1634489336.9163491034245131137&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=1605&_lv=2.0.1000&_visitorId=2995b87d-355d-4732-b6bd-f1ce69e08c56&_siteMemberId=undefined&bsi=4e0f86fd-acd0-4991-bbbc-eb521cee24cd%7C1&src=76&evid=1109&pid=c1dmp&pn=1&viewer=TB&pt=static&pa=editor&pti=c1dmp&uuid=19614c41-2a25-4595-8ed9-121281bb30ae&url=https%3A%2F%2Fwww.geoffreyvanderburg.com%2F&ref=&bot=true&bl=en-US&pl=en-US%2Cen&_=16344941638532
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=33&event_name=page%20interactive&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=034a7df6-d6cd-4644-9201-21de01552d4f&pid=c1dmp&pn=1&rid=1634489336.9163491034245131137&sar=1536x824&sessionId=de044876-036e-49b0-ac62-a40c9b80838e&siterev=147-__siteCacheRevision__&sr=1536x864&st=2&ts=1646&tts=1655&url=https%3A%2F%2Fwww.geoffreyvanderburg.com%2F&v=1.8133.0&vid=2995b87d-355d-4732-b6bd-f1ce69e08c56&bsi=4e0f86fd-acd0-4991-bbbc-eb521cee24cd|1&vsi=aab152a0-e11b-4290-b4ef-b80326c73086&wor=1294x779&wr=1283x689&_brandId=wix
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/fed?appName=chat-widget&src=72&evid=14&session_id=aeb22ad7-ad41-42be-912b-5fd83e3a579c&_=0.7028422590257981&is_rollout=false
+POST: https://engage.wixapps.net/_api/chat-web/v1/real-time-tokens
+POST: https://frog.wix.com/fed
+POST: https://frog.wix.com/engage?_msid=034a7df6-d6cd-4644-9201-21de01552d4f&_appId=14517e1a-3ff0-af98-408e-2bd6953c36a2&_instanceId=0613be92-fa9a-445f-856d-ec8ab34e3d20&_siteOwnerId=19614c41-2a25-4595-8ed9-121281bb30ae&_siteMemberId=&_visitorId=2995b87d-355d-4732-b6bd-f1ce69e08c56&_viewMode=site&_bsi=4e0f86fd-acd0-4991-bbbc-eb521cee24cd%7C1&src=5&app_instance_id=0613be92-fa9a-445f-856d-ec8ab34e3d20&bi_token=0559c364-2c57-021b-176c-cd54b21b106f&visitor_id=2995b87d-355d-4732-b6bd-f1ce69e08c56&is_social=false&is_business=true&mode=site&_brandId=wix&_siteBranchId=undefined&_ms=3234&_lv=2.0.1000&evid=701&platform=desktop&load_time=172&is_full_render=false&layoutName=icon&version=V2&widget_sub_type=Wix&_=16344941670890
+POST: https://frog.wix.com/ugc-viewer?_msid=034a7df6-d6cd-4644-9201-21de01552d4f&vsi=aab152a0-e11b-4290-b4ef-b80326c73086&rid=1634489336.9163491034245131137&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=4851&_lv=2.0.1000&_visitorId=2995b87d-355d-4732-b6bd-f1ce69e08c56&_siteMemberId=undefined&bsi=4e0f86fd-acd0-4991-bbbc-eb521cee24cd%7C1&appId=14517e1a-3ff0-af98-408e-2bd6953c36a2&widget_id=14517f3f-ffc5-eced-f592-980aaa0bbb5c&instance_id=comp-jzjotymr&src=42&evid=643&tts=4851&pid=c1dmp&pn=1&_=16344941670983
+POST: https://frog.wix.com/bpm?_msid=034a7df6-d6cd-4644-9201-21de01552d4f&vsi=aab152a0-e11b-4290-b4ef-b80326c73086&rid=1634489336.9163491034245131137&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&ts=4918&tsn=4927&dc=96&caching=hit%2Chit&session_id=de044876-036e-49b0-ac62-a40c9b80838e&st=2&url=https%253A%252F%252Fwww.geoffreyvanderburg.com%252F&ish=true&pn=0&pv=true&pageId=c1dmp&isServerSide=false&is_lightbox=false&is_cached=true&is_sav_rollout=0&is_dac_rollout=0&v=1.8133.0&_brandId=wix&_siteBranchId=undefined&_ms=4927&_lv=2.0.1000&_visitorId=undefined&_siteMemberId=undefined&src=72&evid=502&_=16344941671754&tti=1967&tbt=367&iframes=1&screens=8&countScripts=46&startTimeScripts=83&durationScripts=768&mttfbScripts=24&attfbScripts=27&tbdScripts=723162&countImages=14&startTimeImages=150&durationImages=1846&mttfbImages=23&attfbImages=148&tbdImages=1119046&countFonts=5&startTimeFonts=174&durationFonts=88&mttfbFonts=25&attfbFonts=24&tbdFonts=111446&entryType=loaded&duration=4925&ttlb=182&dcl=194&transferSize=125807&decodedBodySize=658948&pageCaching=maybe%20CDN&isSsr=true&isWelcome=false&cdn=Cloudfront&visitorId=2995b87d-355d-4732-b6bd-f1ce69e08c56&btype=webdriver&bsi=4e0f86fd-acd0-4991-bbbc-eb521cee24cd%7C1&ssrDuration=897&ssrTimestamp=1634489337946&microPop=96&isRollout=false&isPlatformLoaded=false&maybeBot=true&clientType=ugc&analytics=true
+
+
+---
+Gian-Carlo Carra 17-10-2021 12-07-25.json
+Num of entries = 92
+24 sites outside the host:
+- ajax.googleapis.com, 1 entries: 3 
+- d3n8a8pro7vhmx.cloudfront.net, 17 entries: 4 11 32 33 34 35 36 37 45 46 47 49 51 52 53 54 79 
+- www.googletagmanager.com, 2 entries: 5 39 
+- fonts.googleapis.com, 2 entries: 6 7 
+- polyfill.io, 1 entries: 8 
+- cdnjs.cloudflare.com, 2 entries: 9 12 
+- cdn.jsdelivr.net, 2 entries: 13 50 
+- carra4ward9.nationbuilder.com, 18 entries: 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 
+- apis.google.com, 2 entries: 38 48 
+- fonts.gstatic.com, 5 entries: 40 41 42 43 68 
+- cdn.embedly.com, 1 entries: 44 
+- www.youtube.com, 10 entries: 55 57 59 61 62 63 64 69 72 89 
+- www.google.com, 4 entries: 56 58 85 86 
+- www.google.ca, 2 entries: 60 90 
+- cdn.curator.io, 4 entries: 65 67 74 75 
+- googleads.g.doubleclick.net, 4 entries: 66 73 78 80 
+- i.ytimg.com, 1 entries: 70 
+- yt3.ggpht.com, 1 entries: 71 
+- static.doubleclick.net, 1 entries: 76 
+- connect.facebook.net, 2 entries: 77 81 
+- www.facebook.com, 1 entries: 82 
+- www.google-analytics.com, 2 entries: 83 87 
+- platform.twitter.com, 2 entries: 84 88 
+- syndication.twitter.com, 1 entries: 91 
+Total number of requests to external sites: 88 out of 92
+Number of POST Requests made: 1 out of 92
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=929763941&t=pageview&_s=1&dl=https%3A%2F%2Fwww.carra4ward9.ca%2F&ul=en-us&de=UTF-8&dt=Re-Elect%20Gian-Carlo%20Carra%202021&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEBAAUABAAAAAC~&jid=1444673986&gjid=787067732&cid=250468867.1634494045&tid=UA-201716617-1&_gid=1574551919.1634494045&_r=1&gtm=2ouad0&z=714076962
+
+
+---
+Greg Amoruso 17-10-2021 12-05-58.json
+Num of entries = 52
+2 sites outside the host:
+- fonts.googleapis.com, 1 entries: 16 
+- fonts.gstatic.com, 3 entries: 45 47 48 
+Total number of requests to external sites: 4 out of 52
+Number of POST Requests made: 0 out of 52
+
+
+---
+Gurbir S. Nijjar 17-10-2021 12-03-34.json
+Num of entries = 104
+11 sites outside the host:
+- www.googletagmanager.com, 1 entries: 2 
+- fonts.googleapis.com, 2 entries: 4 5 
+- www.google.com, 3 entries: 7 9 97 
+- www.google.ca, 2 entries: 15 96 
+- alexs107.sg-host.com, 1 entries: 60 
+- fonts.gstatic.com, 11 entries: 61 62 64 68 69 72 73 74 75 76 98 
+- gurbirsnijjar.com, 3 entries: 89 91 92 
+- googleads.g.doubleclick.net, 2 entries: 93 100 
+- connect.facebook.net, 2 entries: 99 102 
+- app-worker.visitor-analytics.io, 1 entries: 101 
+- www.facebook.com, 1 entries: 103 
+Total number of requests to external sites: 29 out of 104
+Number of POST Requests made: 0 out of 104
+
+
+---
+Hamayun Akbar 17-10-2021 12-03-07.json
+Num of entries = 41
+2 sites outside the host:
+- cdn-dhepo.nitrocdn.com, 32 entries: 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 21 24 25 26 27 28 29 30 31 32 33 34 35 36 38 39 
+- fonts.gstatic.com, 5 entries: 19 20 22 23 37 
+Total number of requests to external sites: 37 out of 41
+Number of POST Requests made: 0 out of 41
+
+
+---
+Heather McRae 17-10-2021 12-06-09.json
+Num of entries = 34
+7 sites outside the host:
+- ajax.googleapis.com, 2 entries: 3 7 
+- d3n8a8pro7vhmx.cloudfront.net, 11 entries: 4 6 16 17 18 19 23 26 27 28 31 
+- heather4ward7.nationbuilder.com, 8 entries: 8 9 10 11 12 13 14 21 
+- pro.fontawesome.com, 3 entries: 15 22 25 
+- apis.google.com, 2 entries: 20 24 
+- platform.twitter.com, 2 entries: 29 33 
+- connect.facebook.net, 2 entries: 30 32 
+Total number of requests to external sites: 30 out of 34
+Number of POST Requests made: 0 out of 34
+
+
+---
+Ian McAnerin 17-10-2021 12-03-20.json
+Num of entries = 140
+20 sites outside the host:
+- fonts.googleapis.com, 2 entries: 2 5 
+- ajax.googleapis.com, 1 entries: 3 
+- d3n8a8pro7vhmx.cloudfront.net, 18 entries: 4 7 8 14 15 16 17 18 19 21 22 23 24 25 26 27 29 44 
+- www.googletagmanager.com, 1 entries: 6 
+- mcanerin.nationbuilder.com, 5 entries: 9 10 11 12 13 
+- apis.google.com, 2 entries: 20 31 
+- fonts.gstatic.com, 8 entries: 28 30 32 34 35 36 37 79 
+- www.google.com, 4 entries: 33 38 63 108 
+- connect.facebook.net, 4 entries: 39 40 41 42 
+- ssl.google-analytics.com, 2 entries: 43 51 
+- cdn.embedly.com, 8 entries: 45 46 47 48 49 50 54 55 
+- www.facebook.com, 3 entries: 52 53 83 
+- www.youtube.com, 43 entries: 56 57 58 61 62 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 80 81 82 87 94 107 109 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 137 
+- googleads.g.doubleclick.net, 18 entries: 59 60 88 90 91 92 93 95 97 98 99 100 101 102 103 104 105 106 
+- platform.twitter.com, 2 entries: 84 89 
+- www.google.ca, 2 entries: 85 86 
+- syndication.twitter.com, 1 entries: 96 
+- yt3.ggpht.com, 1 entries: 110 
+- i.ytimg.com, 5 entries: 111 112 113 138 139 
+- static.doubleclick.net, 8 entries: 129 130 131 132 133 134 135 136 
+Total number of requests to external sites: 138 out of 140
+Number of POST Requests made: 8 out of 140
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+Jacob McGregor 17-10-2021 12-01-53.json
+Num of entries = 28
+5 sites outside the host:
+- www.googletagmanager.com, 1 entries: 3 
+- fonts.gstatic.com, 6 entries: 8 9 10 11 12 13 
+- js.stripe.com, 3 entries: 15 17 22 
+- m.stripe.network, 2 entries: 23 24 
+- www.google-analytics.com, 3 entries: 25 26 27 
+Total number of requests to external sites: 15 out of 28
+Number of POST Requests made: 1 out of 28
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=44752326&t=pageview&_s=1&dl=https%3A%2F%2Fjacobforward1.ca%2F&ul=en-us&de=UTF-8&dt=Home%20-%20Jacob%20For%20Ward%201&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=aGBAAUIhAAAAAC~&jid=91009703&gjid=614491010&cid=586967648.1634493713&tid=UA-136790593-7&_gid=1830215713.1634493713&_r=1&gtm=2ouad0&did=dZGIzZG&z=1093723175
+
+
+---
+Jasmine Mian 17-10-2021 12-03-26.json
+Num of entries = 69
+20 sites outside the host:
+- www.youtube.com, 11 entries: 2 42 44 45 46 47 53 54 63 67 68 
+- ajax.googleapis.com, 1 entries: 4 
+- d3n8a8pro7vhmx.cloudfront.net, 8 entries: 5 8 31 32 33 34 35 51 
+- fonts.googleapis.com, 1 entries: 6 
+- jasminemianward3.nationbuilder.com, 19 entries: 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 29 
+- polyfill.io, 1 entries: 27 
+- cdnjs.cloudflare.com, 2 entries: 28 30 
+- apis.google.com, 2 entries: 36 43 
+- fonts.gstatic.com, 5 entries: 37 38 39 41 60 
+- cdn.embedly.com, 1 entries: 40 
+- platform.twitter.com, 2 entries: 48 52 
+- ssl.google-analytics.com, 2 entries: 49 57 
+- connect.facebook.net, 2 entries: 50 56 
+- syndication.twitter.com, 1 entries: 55 
+- www.facebook.com, 1 entries: 58 
+- googleads.g.doubleclick.net, 2 entries: 59 61 
+- static.doubleclick.net, 1 entries: 62 
+- www.google.com, 1 entries: 64 
+- i.ytimg.com, 1 entries: 65 
+- yt3.ggpht.com, 1 entries: 66 
+Total number of requests to external sites: 65 out of 69
+Number of POST Requests made: 1 out of 69
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=djs3p5sikRAKyLkx&docid=blK8oZJTXfs&ver=2&cmt=0&fs=0&rt=0&euri=https%3A%2F%2Fcdn.embedly.com%2F&lact=1723&cl=402943675&mos=0&volume=100&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=CA&len=179&fexp=23748146%2C23983296%2C24001373%2C24002022%2C24002025%2C24004644%2C24007246%2C24064555%2C24080738%2C24082661%2C24091242%2C24101841%2C24106092&muted=0&vis=3
+
+
+---
+Jay Unsworth 17-10-2021 12-10-45.json
+Num of entries = 36
+8 sites outside the host:
+- www.youtube.com, 1 entries: 1 
+- www.googletagmanager.com, 2 entries: 4 9 
+- d3e54v103j8qbb.cloudfront.net, 1 entries: 5 
+- uploads-ssl.webflow.com, 23 entries: 6 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 30 31 
+- www.google-analytics.com, 2 entries: 28 33 
+- connect.facebook.net, 2 entries: 29 32 
+- www.facebook.com, 1 entries: 34 
+- stats.g.doubleclick.net, 1 entries: 35 
+Total number of requests to external sites: 33 out of 36
+Number of POST Requests made: 3 out of 36
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=1H6-nKDiylk1IjY6&docid=nGBf34ladVI&ver=2&cmt=0&fs=0&rt=0.001&euri=https%3A%2F%2Fdanmclean.ca%2F&lact=4056&cl=402943675&mos=0&volume=100&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=CA&len=121&fexp=23983296%2C24001373%2C24002022%2C24002025%2C24002922%2C24004644%2C24007246%2C24064555%2C24080738%2C24082662%2C24101841%2C24106092&muted=0&vis=3
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=707178577&t=pageview&_s=1&dl=https%3A%2F%2Fwww.unsworth.ca%2F&ul=en-us&de=UTF-8&dt=Jay%20Unsworth%20%7C%20Calgary%20Ward%2013%20Councillor%20Candidate&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEBAAUABAAAAAC~&jid=1159645749&gjid=1675694955&cid=283249323.1634494245&tid=UA-188856146-1&_gid=720862948.1634494245&_r=1&gtm=2ouad0&z=267227688
+POST: https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j93&tid=UA-188856146-1&cid=283249323.1634494245&jid=1159645749&gjid=1675694955&_gid=720862948.1634494245&_u=YEBAAUAAAAAAAC~&z=1142286536
+
+
+---
+Jennifer Wyness 17-10-2021 12-03-00.json
+Num of entries = 104
+7 sites outside the host:
+- frog.wix.com, 15 entries: 2 9 22 24 41 74 75 76 77 78 80 97 98 99 100 
+- static.parastorage.com, 67 entries: 3 4 10 11 12 16 21 23 26 27 28 30 31 32 33 35 36 37 38 39 40 42 43 44 45 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 79 82 83 85 86 87 89 90 91 92 93 94 95 96 103 
+- siteassets.parastorage.com, 4 entries: 5 6 7 8 
+- static.wixstatic.com, 8 entries: 13 14 15 18 19 20 34 81 
+- fonts.gstatic.com, 1 entries: 17 
+- www.paypalobjects.com, 2 entries: 84 88 
+- wix.presto-changeo.com, 2 entries: 101 102 
+Total number of requests to external sites: 99 out of 104
+Number of POST Requests made: 15 out of 104
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=dae8a090-6efe-43ef-a289-5af6b818e7f4&session_id=538e3ee5-a21f-4dc0-8058-cd6e71eadf61&ish=1&vsi=ba638ae0-030d-4b3b-82f6-64616e33c9e4&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.jenniferwyness.com/&st=2&ts=47&tsn=54
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=dae8a090-6efe-43ef-a289-5af6b818e7f4&pn=1&sessionId=538e3ee5-a21f-4dc0-8058-cd6e71eadf61&siterev=471-__siteCacheRevision__&st=2&ts=55&tts=62&url=https%3A%2F%2Fwww.jenniferwyness.com%2F%3F&v=1.8115.0&vsi=ba638ae0-030d-4b3b-82f6-64616e33c9e4&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=dae8a090-6efe-43ef-a289-5af6b818e7f4&pid=mua1n&pn=1&sessionId=538e3ee5-a21f-4dc0-8058-cd6e71eadf61&siterev=471-__siteCacheRevision__&st=2&ts=187&tts=194&url=https%3A%2F%2Fwww.jenniferwyness.com%2F%3F&v=1.8115.0&vsi=ba638ae0-030d-4b3b-82f6-64616e33c9e4&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=dae8a090-6efe-43ef-a289-5af6b818e7f4&session_id=538e3ee5-a21f-4dc0-8058-cd6e71eadf61&ish=1&vsi=ba638ae0-030d-4b3b-82f6-64616e33c9e4&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.jenniferwyness.com/&st=2&name=partially_visible&duration=1634493776566
+POST: https://frog.wix.com/site-members?_msid=dae8a090-6efe-43ef-a289-5af6b818e7f4&vsi=ba638ae0-030d-4b3b-82f6-64616e33c9e4&rid=1634227445.90410095643936470&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=573&_lv=2.0.1000&_visitorId=1fd045f0-40de-4ed4-be48-539d9be434fe&_siteMemberId=undefined&bsi=9da2591b-d7ff-4811-a7bb-320a5c061179%7C1&src=5&evid=698&biToken=dae8a090-6efe-43ef-a289-5af6b818e7f4&context=undefined&ts=568&viewmode=undefined&visitor_id=1fd045f0-40de-4ed4-be48-539d9be434fe&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344937769950
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=33&event_name=page%20interactive&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=dae8a090-6efe-43ef-a289-5af6b818e7f4&pid=mua1n&pn=1&rid=1634227445.90410095643936470&sar=1536x824&sessionId=538e3ee5-a21f-4dc0-8058-cd6e71eadf61&siterev=471-__siteCacheRevision__&sr=1536x864&st=2&ts=2590&tts=2597&url=https%3A%2F%2Fwww.jenniferwyness.com%2F&v=1.8115.0&vid=1fd045f0-40de-4ed4-be48-539d9be434fe&bsi=9da2591b-d7ff-4811-a7bb-320a5c061179|1&vsi=ba638ae0-030d-4b3b-82f6-64616e33c9e4&wor=1294x779&wr=1283x689&_brandId=wix
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/pa?_msid=dae8a090-6efe-43ef-a289-5af6b818e7f4&vsi=ba638ae0-030d-4b3b-82f6-64616e33c9e4&rid=1634227445.90410095643936470&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=2533&_lv=2.0.1000&_visitorId=1fd045f0-40de-4ed4-be48-539d9be434fe&_siteMemberId=undefined&bsi=9da2591b-d7ff-4811-a7bb-320a5c061179%7C1&src=76&evid=1109&pid=mua1n&pn=1&viewer=TB&pt=static&pa=editor&pti=mua1n&uuid=8586cc7e-3a57-49f5-9e03-f4cf229ec8df&url=https%3A%2F%2Fwww.jenniferwyness.com%2F&ref=&bot=true&bl=en-US&pl=en-US%2Cen&_=16344937789541
+
+
+---
+Joe Magliocca 17-10-2021 12-02-39.json
+Num of entries = 2
+0 sites outside the host:
+Total number of requests to external sites: 0 out of 2
+Number of POST Requests made: 0 out of 2
+
+
+---
+John (Chubby Hubby) Duta 17-10-2021 12-09-47.json
+Num of entries = 84
+9 sites outside the host:
+- fonts.googleapis.com, 1 entries: 3 
+- www.google.com, 4 entries: 4 68 71 82 
+- fonts.gstatic.com, 4 entries: 34 35 67 81 
+- www.youtube.com, 10 entries: 57 58 61 63 64 65 66 70 73 79 
+- www.gstatic.com, 4 entries: 62 76 77 80 
+- googleads.g.doubleclick.net, 2 entries: 69 75 
+- i.ytimg.com, 1 entries: 72 
+- yt3.ggpht.com, 1 entries: 74 
+- static.doubleclick.net, 1 entries: 78 
+Total number of requests to external sites: 28 out of 84
+Number of POST Requests made: 0 out of 84
+
+
+---
+John-William Wade 17-10-2021 12-07-50.json
+Num of entries = 76
+25 sites outside the host:
+- www.wadeforward9.com, 2 entries: 2 3 
+- ajax.googleapis.com, 1 entries: 4 
+- d3n8a8pro7vhmx.cloudfront.net, 10 entries: 5 8 14 15 16 17 21 22 23 45 
+- fonts.googleapis.com, 1 entries: 6 
+- cdnjs.cloudflare.com, 3 entries: 7 27 28 
+- wadeforward9.nationbuilder.com, 5 entries: 9 10 11 12 13 
+- apis.google.com, 2 entries: 18 31 
+- www.youtube.com, 14 entries: 19 29 30 33 34 35 36 49 50 52 59 60 61 73 
+- www.googletagmanager.com, 2 entries: 20 32 
+- fonts.gstatic.com, 4 entries: 24 25 26 37 
+- googleads.g.doubleclick.net, 2 entries: 38 39 
+- static.doubleclick.net, 1 entries: 40 
+- platform.twitter.com, 2 entries: 41 51 
+- ssl.google-analytics.com, 2 entries: 42 56 
+- connect.facebook.net, 4 entries: 43 44 54 55 
+- www.google.com, 2 entries: 46 58 
+- www.google-analytics.com, 1 entries: 47 
+- yt3.ggpht.com, 1 entries: 48 
+- syndication.twitter.com, 1 entries: 53 
+- stats.g.doubleclick.net, 1 entries: 57 
+- www.facebook.com, 3 entries: 62 69 74 
+- www.google.ca, 1 entries: 63 
+- r2---sn-j5o5gpx-ttje.googlevideo.com, 6 entries: 64 65 66 67 70 71 
+- i.ytimg.com, 2 entries: 68 72 
+- img.youtube.com, 1 entries: 75 
+Total number of requests to external sites: 74 out of 76
+Number of POST Requests made: 4 out of 76
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-1P1HCWYENR&gtm=2oead0&_p=1999902359&sr=1536x864&ul=en-us&cid=1647030741.1634494068&_s=1&dl=https%3A%2F%2Fwww.wadeforward9.com%2F&dt=Vote%20Wade%20for%20Ward%209&sid=1634494068&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1
+POST: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/api/stats/qoe?event=streamingstats&fmt=247&afmt=251&cpn=4OW_Hqm9ojcTziqg&ei=dWZsYc--CMWUkwaAvajoAg&el=embedded&docid=ij3jceVt5Ls&ns=yt&fexp=23983296%2C24001373%2C24002022%2C24002025%2C24004644%2C24007246%2C24080738%2C24082661%2C24087578%2C24094607%2C24101841%2C24106092%2C24116740&cl=402943675&seq=1&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.008:B,0.354:B,0.354:B&cmt=0.008:0.000,0.354:0.000&afs=0.354:251::i&vfs=0.354:247:247::r&view=0.354:1266:712:1.25&bwe=0.354:130000&vis=0.354:0&bh=0.354:0.000
+POST: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+Jun Lin 17-10-2021 12-03-12.json
+Num of entries = 73
+6 sites outside the host:
+- to.getnitropack.com, 2 entries: 1 2 
+- frog.wix.com, 9 entries: 4 12 22 44 63 65 66 71 72 
+- static.parastorage.com, 45 entries: 5 6 7 8 11 13 14 21 23 24 26 27 28 29 30 33 34 35 36 37 40 41 42 43 45 46 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 64 67 68 70 
+- siteassets.parastorage.com, 2 entries: 9 10 
+- static.wixstatic.com, 9 entries: 15 16 17 18 19 20 25 31 32 
+- video.wixstatic.com, 1 entries: 69 
+Total number of requests to external sites: 68 out of 73
+Number of POST Requests made: 11 out of 73
+POST: https://to.getnitropack.com/
+POST: https://to.getnitropack.com/
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=c674f213-ae4c-4c24-bc7a-8452078e525e&session_id=5baf74dc-b7b9-43fa-95a6-eb396e0f6c37&ish=1&vsi=27d9dfec-9eb6-4592-b51c-7b06a925ec19&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.junlin.ca/&st=2&ts=7&tsn=12
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=c674f213-ae4c-4c24-bc7a-8452078e525e&pn=1&sessionId=5baf74dc-b7b9-43fa-95a6-eb396e0f6c37&siterev=340-__siteCacheRevision__&st=2&ts=56&tts=61&url=https%3A%2F%2Fwww.junlin.ca%2F%3F&v=1.8115.0&vsi=27d9dfec-9eb6-4592-b51c-7b06a925ec19&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=c674f213-ae4c-4c24-bc7a-8452078e525e&pid=xjtkf&pn=1&sessionId=5baf74dc-b7b9-43fa-95a6-eb396e0f6c37&siterev=340-__siteCacheRevision__&st=2&ts=167&tts=172&url=https%3A%2F%2Fwww.junlin.ca%2F%3F&v=1.8115.0&vsi=27d9dfec-9eb6-4592-b51c-7b06a925ec19&_brandId=wix
+POST: https://frog.wix.com/site-members?_msid=c674f213-ae4c-4c24-bc7a-8452078e525e&vsi=27d9dfec-9eb6-4592-b51c-7b06a925ec19&rid=1634228425.5021013647441429636&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=583&_lv=2.0.1000&_visitorId=9e76b570-93c5-4d5c-80f9-0a25f63c7c6a&_siteMemberId=undefined&bsi=c094e06b-8b2e-46e8-8705-d1672044d23f%7C1&src=5&evid=698&biToken=c674f213-ae4c-4c24-bc7a-8452078e525e&context=undefined&ts=578&viewmode=undefined&visitor_id=9e76b570-93c5-4d5c-80f9-0a25f63c7c6a&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344937900930
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/pa?_msid=c674f213-ae4c-4c24-bc7a-8452078e525e&vsi=27d9dfec-9eb6-4592-b51c-7b06a925ec19&rid=1634228425.5021013647441429636&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=2607&_lv=2.0.1000&_visitorId=9e76b570-93c5-4d5c-80f9-0a25f63c7c6a&_siteMemberId=undefined&bsi=c094e06b-8b2e-46e8-8705-d1672044d23f%7C1&src=76&evid=1109&pid=xjtkf&pn=1&viewer=TB&pt=static&pa=editor&pti=xjtkf&uuid=b126c279-1709-4601-a29a-8f4f4d6f60ab&url=https%3A%2F%2Fwww.junlin.ca%2F&ref=&bot=true&bl=en-US&pl=en-US%2Cen&_=16344937921161
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=33&event_name=page%20interactive&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=c674f213-ae4c-4c24-bc7a-8452078e525e&pid=xjtkf&pn=1&rid=1634228425.5021013647441429636&sar=1536x824&sessionId=5baf74dc-b7b9-43fa-95a6-eb396e0f6c37&siterev=340-__siteCacheRevision__&sr=1536x864&st=2&ts=2669&tts=2674&url=https%3A%2F%2Fwww.junlin.ca%2F&v=1.8115.0&vid=9e76b570-93c5-4d5c-80f9-0a25f63c7c6a&bsi=c094e06b-8b2e-46e8-8705-d1672044d23f|1&vsi=27d9dfec-9eb6-4592-b51c-7b06a925ec19&wor=1294x779&wr=1283x689&_brandId=wix
+
+
+---
+Kim (Dong) Tyers 17-10-2021 12-02-46.json
+Num of entries = 64
+4 sites outside the host:
+- frog.wix.com, 4 entries: 2 6 29 30 
+- static.parastorage.com, 21 entries: 3 12 13 14 15 16 17 18 20 21 28 39 40 41 42 44 46 47 60 62 63 
+- siteassets.parastorage.com, 4 entries: 4 5 7 8 
+- static.wixstatic.com, 31 entries: 9 10 11 22 23 24 25 26 27 32 33 34 35 36 37 38 43 45 48 49 50 51 52 53 54 55 56 57 58 59 61 
+Total number of requests to external sites: 60 out of 64
+Number of POST Requests made: 4 out of 64
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=da76be65-d73f-4b5c-8b89-e231db7c9fc4&session_id=f1c7d078-c8ad-4311-87ee-d449039ac2e3&ish=1&vsi=d90a2b22-bed1-4a32-aaa0-f4d1baee53c8&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.kimtyers.com/&st=2&ts=7&tsn=15
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=da76be65-d73f-4b5c-8b89-e231db7c9fc4&pn=1&sessionId=f1c7d078-c8ad-4311-87ee-d449039ac2e3&siterev=645-__siteCacheRevision__&st=2&ts=53&tts=61&url=https%3A%2F%2Fwww.kimtyers.com%2F%3F&v=1.8115.0&vsi=d90a2b22-bed1-4a32-aaa0-f4d1baee53c8&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=da76be65-d73f-4b5c-8b89-e231db7c9fc4&pid=qitdx&pn=1&sessionId=f1c7d078-c8ad-4311-87ee-d449039ac2e3&siterev=645-__siteCacheRevision__&st=2&ts=292&tts=300&url=https%3A%2F%2Fwww.kimtyers.com%2F%3F&v=1.8115.0&vsi=d90a2b22-bed1-4a32-aaa0-f4d1baee53c8&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=da76be65-d73f-4b5c-8b89-e231db7c9fc4&session_id=f1c7d078-c8ad-4311-87ee-d449039ac2e3&ish=1&vsi=d90a2b22-bed1-4a32-aaa0-f4d1baee53c8&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.kimtyers.com/&st=2&name=partially_visible&duration=1634493766284
+
+
+---
+Kimberly Feser 17-10-2021 12-07-27.json
+Num of entries = 38
+2 sites outside the host:
+- img1.wsimg.com, 34 entries: 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 
+- img6.wsimg.com, 1 entries: 19 
+Total number of requests to external sites: 35 out of 38
+Number of POST Requests made: 0 out of 38
+
+
+---
+Kourtney Branagan 17-10-2021 12-08-54.json
+Num of entries = 59
+15 sites outside the host:
+- fonts.googleapis.com, 4 entries: 3 4 8 47 
+- ajax.googleapis.com, 1 entries: 6 
+- www.googletagmanager.com, 1 entries: 7 
+- cdn2.editmysite.com, 10 entries: 10 11 13 14 15 17 18 19 26 36 
+- www.youtube.com, 8 entries: 25 32 33 34 41 52 53 55 
+- fonts.gstatic.com, 3 entries: 28 30 42 
+- ssl.google-analytics.com, 1 entries: 39 
+- cdn3.editmysite.com, 2 entries: 43 45 
+- googleads.g.doubleclick.net, 2 entries: 44 46 
+- static.doubleclick.net, 1 entries: 48 
+- www.google.com, 1 entries: 49 
+- i.ytimg.com, 1 entries: 50 
+- yt3.ggpht.com, 1 entries: 51 
+- www.google-analytics.com, 2 entries: 54 57 
+- ec.editmysite.com, 2 entries: 56 58 
+Total number of requests to external sites: 40 out of 59
+Number of POST Requests made: 4 out of 59
+POST: https://www.co11aborate.ca/ajax/api/JsonRPC/CustomerAccounts/?CustomerAccounts[CustomerAccounts::getAccountDetails]
+POST: https://www.co11aborate.ca/ajax/api/JsonRPC/Commerce/?Commerce[Checkout::getMiniCart]
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=421479830&t=pageview&_s=1&dl=https%3A%2F%2Fwww.co11aborate.ca%2F&ul=en-us&de=UTF-8&dt=KOURTNEY%20BRANAGAN%20-%20Kourtney%20Branagan%20Ward%2011&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEBAAUABAAAAAC~&jid=1393710889&gjid=89170610&cid=2005293099.1634494135&tid=UA-178461072-1&_gid=1256326309.1634494135&_r=1&gtm=2ouad0&z=113762707
+POST: https://ec.editmysite.com/com.snowplowanalytics.snowplow/tp2
+
+
+---
+Kumar Sharma 17-10-2021 12-03-44.json
+Num of entries = 99
+12 sites outside the host:
+- fonts.googleapis.com, 2 entries: 4 5 
+- maxcdn.bootstrapcdn.com, 1 entries: 57 
+- fonts.gstatic.com, 6 entries: 61 63 64 67 68 88 
+- secure.statcounter.com, 1 entries: 74 
+- www.youtube.com, 10 entries: 76 77 83 84 85 86 87 90 93 96 
+- connect.facebook.net, 3 entries: 78 79 82 
+- googleads.g.doubleclick.net, 2 entries: 89 94 
+- www.google.com, 1 entries: 91 
+- i.ytimg.com, 1 entries: 92 
+- static.doubleclick.net, 1 entries: 95 
+- yt3.ggpht.com, 1 entries: 97 
+- c.statcounter.com, 1 entries: 98 
+Total number of requests to external sites: 30 out of 99
+Number of POST Requests made: 0 out of 99
+
+
+---
+Lana Bentley 17-10-2021 12-05-41.json
+Num of entries = 24
+5 sites outside the host:
+- fonts.googleapis.com, 1 entries: 2 
+- assets.squarespace.com, 7 entries: 3 4 5 6 7 8 11 
+- static1.squarespace.com, 2 entries: 9 10 
+- fonts.gstatic.com, 2 entries: 13 14 
+- images.squarespace-cdn.com, 4 entries: 15 16 17 18 
+Total number of requests to external sites: 16 out of 24
+Number of POST Requests made: 4 out of 24
+POST: https://www.lanabentley.ca/api/census/RecordHit
+POST: https://www.lanabentley.ca/api/census/form-render
+POST: https://www.lanabentley.ca/api/census/button-render
+POST: https://www.lanabentley.ca/api/census/button-render
+
+
+---
+Larry Tweedale 17-10-2021 12-02-22.json
+Num of entries = 35
+9 sites outside the host:
+- larrytweedale.nationbuilder.com, 5 entries: 3 4 11 13 15 
+- ajax.googleapis.com, 1 entries: 5 
+- d3n8a8pro7vhmx.cloudfront.net, 8 entries: 6 7 8 10 14 16 17 19 
+- apis.google.com, 2 entries: 12 18 
+- use.typekit.net, 6 entries: 20 23 24 25 26 27 
+- platform.twitter.com, 4 entries: 21 22 29 30 
+- syndication.twitter.com, 2 entries: 28 31 
+- p.typekit.net, 1 entries: 32 
+- connect.facebook.net, 2 entries: 33 34 
+Total number of requests to external sites: 31 out of 35
+Number of POST Requests made: 0 out of 35
+
+
+---
+Lauren Herschel 17-10-2021 12-09-15.json
+Num of entries = 77
+20 sites outside the host:
+- d3n8a8pro7vhmx.cloudfront.net, 8 entries: 3 5 14 15 16 20 23 55 
+- ajax.googleapis.com, 2 entries: 4 17 
+- assets.calendly.com, 2 entries: 7 8 
+- laurenherschel.nationbuilder.com, 7 entries: 9 10 11 12 13 21 31 
+- apis.google.com, 2 entries: 18 24 
+- cdn.embedly.com, 1 entries: 19 
+- fonts.googleapis.com, 1 entries: 22 
+- fonts.gstatic.com, 20 entries: 25 26 27 28 29 30 33 34 35 36 37 38 40 41 42 43 44 45 46 56 
+- www.youtube.com, 11 entries: 32 39 47 48 49 50 51 62 66 69 74 
+- platform.twitter.com, 4 entries: 52 57 71 72 
+- ssl.google-analytics.com, 2 entries: 53 60 
+- connect.facebook.net, 2 entries: 54 59 
+- googleads.g.doubleclick.net, 2 entries: 58 68 
+- static.doubleclick.net, 1 entries: 61 
+- www.google.com, 1 entries: 63 
+- i.ytimg.com, 1 entries: 64 
+- yt3.ggpht.com, 1 entries: 65 
+- syndication.twitter.com, 2 entries: 67 73 
+- www.facebook.com, 2 entries: 70 76 
+- nationbuilder.s3.amazonaws.com, 1 entries: 75 
+Total number of requests to external sites: 73 out of 77
+Number of POST Requests made: 1 out of 77
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+Leslyn Joseph 17-10-2021 12-08-34.json
+Num of entries = 58
+5 sites outside the host:
+- fonts.gstatic.com, 4 entries: 2 3 5 7 
+- static.parastorage.com, 32 entries: 4 6 9 10 12 13 15 17 23 29 30 31 33 34 35 39 40 41 43 44 45 46 47 48 50 51 52 53 54 55 56 57 
+- siteassets.parastorage.com, 2 entries: 8 11 
+- static.wixstatic.com, 10 entries: 14 20 21 22 26 27 28 36 37 38 
+- frog.wix.com, 5 entries: 19 24 25 32 42 
+Total number of requests to external sites: 53 out of 58
+Number of POST Requests made: 5 out of 58
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=7425c093-0d48-476b-b212-19173cd59d06&session_id=4c2b2b8b-3c9b-49cc-afac-86152c0e129b&ish=1&vsi=d4520d5e-321c-40d6-9aa2-5fa9000c2f1e&caching=hit,hit&pv=visible&v=1.8133.0&url=https://www.leslynjoseph4ward10.com/&st=2&ts=42&tsn=64
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=7425c093-0d48-476b-b212-19173cd59d06&pn=1&sessionId=4c2b2b8b-3c9b-49cc-afac-86152c0e129b&siterev=179-__siteCacheRevision__&st=2&ts=104&tts=126&url=https%3A%2F%2Fwww.leslynjoseph4ward10.com%2F%3F&v=1.8133.0&vsi=d4520d5e-321c-40d6-9aa2-5fa9000c2f1e&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=7425c093-0d48-476b-b212-19173cd59d06&session_id=4c2b2b8b-3c9b-49cc-afac-86152c0e129b&ish=1&vsi=d4520d5e-321c-40d6-9aa2-5fa9000c2f1e&caching=hit,hit&pv=visible&v=1.8133.0&url=https://www.leslynjoseph4ward10.com/&st=2&name=partially_visible&duration=1634494113272
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=7425c093-0d48-476b-b212-19173cd59d06&pid=lyzro&pn=1&sessionId=4c2b2b8b-3c9b-49cc-afac-86152c0e129b&siterev=179-__siteCacheRevision__&st=2&ts=181&tts=203&url=https%3A%2F%2Fwww.leslynjoseph4ward10.com%2F%3F&v=1.8133.0&vsi=d4520d5e-321c-40d6-9aa2-5fa9000c2f1e&_brandId=wix
+POST: https://frog.wix.com/site-members?_msid=7425c093-0d48-476b-b212-19173cd59d06&vsi=d4520d5e-321c-40d6-9aa2-5fa9000c2f1e&rid=1634480610.5943468350018422360&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=656&_lv=2.0.1000&_visitorId=08693772-4d0c-450d-9365-6add22207040&_siteMemberId=undefined&bsi=d2b77292-9a0a-441f-b8df-97417f184577%7C1&src=5&evid=698&biToken=7425c093-0d48-476b-b212-19173cd59d06&context=undefined&ts=645&viewmode=undefined&visitor_id=08693772-4d0c-450d-9365-6add22207040&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344941137810
+
+
+---
+Lori Masse 17-10-2021 12-07-41.json
+Num of entries = 58
+6 sites outside the host:
+- www.masseyyc.ca, 3 entries: 1 36 38 
+- frog.wix.com, 5 entries: 2 12 35 37 57 
+- static.parastorage.com, 19 entries: 3 4 5 6 11 13 14 15 40 42 47 48 49 50 51 52 53 54 55 
+- siteassets.parastorage.com, 4 entries: 7 8 9 10 
+- static.wixstatic.com, 24 entries: 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 39 44 45 46 56 
+- fonts.gstatic.com, 2 entries: 41 43 
+Total number of requests to external sites: 57 out of 58
+Number of POST Requests made: 5 out of 58
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=e3636f9b-5ba0-425b-af40-8d7c7308a024&session_id=c80ed549-2239-4ced-9d0c-8bfccc988782&ish=1&vsi=3ccc6b75-bc83-4ea8-876e-f520b2d95027&caching=hit,hit&pv=visible&v=1.8133.0&url=https://www.masseyyc.ca/&st=2&ts=43&tsn=62
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=e3636f9b-5ba0-425b-af40-8d7c7308a024&pn=1&sessionId=c80ed549-2239-4ced-9d0c-8bfccc988782&siterev=446-__siteCacheRevision__&st=2&ts=51&tts=70&url=https%3A%2F%2Fwww.masseyyc.ca%2F%3F&v=1.8133.0&vsi=3ccc6b75-bc83-4ea8-876e-f520b2d95027&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=e3636f9b-5ba0-425b-af40-8d7c7308a024&pid=j07uz&pn=1&sessionId=c80ed549-2239-4ced-9d0c-8bfccc988782&siterev=446-__siteCacheRevision__&st=2&ts=171&tts=190&url=https%3A%2F%2Fwww.masseyyc.ca%2F%3F&v=1.8133.0&vsi=3ccc6b75-bc83-4ea8-876e-f520b2d95027&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=e3636f9b-5ba0-425b-af40-8d7c7308a024&session_id=c80ed549-2239-4ced-9d0c-8bfccc988782&ish=1&vsi=3ccc6b75-bc83-4ea8-876e-f520b2d95027&caching=hit,hit&pv=visible&v=1.8133.0&url=https://www.masseyyc.ca/&st=2&name=partially_visible&duration=1634494061508
+POST: https://frog.wix.com/site-members?_msid=e3636f9b-5ba0-425b-af40-8d7c7308a024&vsi=3ccc6b75-bc83-4ea8-876e-f520b2d95027&rid=1634487846.23934874700934908&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=611&_lv=2.0.1000&_visitorId=737acf5e-e804-4664-be82-95709110c3a5&_siteMemberId=undefined&bsi=780098bc-02e6-4c0a-8347-78deb4ce1026%7C1&src=5&evid=698&biToken=e3636f9b-5ba0-425b-af40-8d7c7308a024&context=undefined&ts=605&viewmode=undefined&visitor_id=737acf5e-e804-4664-be82-95709110c3a5&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344940619870
+
+
+---
+Marilyn North Peigan 17-10-2021 12-06-18.json
+Num of entries = 88
+10 sites outside the host:
+- www.googletagmanager.com, 1 entries: 4 
+- fonts.googleapis.com, 1 entries: 5 
+- stats.wp.com, 2 entries: 28 36 
+- c0.wp.com, 37 entries: 30 31 32 33 34 35 37 38 39 40 41 42 43 45 46 47 48 49 50 51 52 53 54 55 57 58 59 61 62 63 64 65 66 67 68 69 70 
+- fonts.gstatic.com, 1 entries: 56 
+- pixel.wp.com, 1 entries: 71 
+- i2.wp.com, 1 entries: 79 
+- i0.wp.com, 3 entries: 80 82 84 
+- i1.wp.com, 1 entries: 81 
+- www.google-analytics.com, 2 entries: 83 85 
+Total number of requests to external sites: 50 out of 88
+Number of POST Requests made: 4 out of 88
+POST: https://www.marilynward7.ca/?wc-ajax=get_refreshed_fragments
+POST: https://www.marilynward7.ca/wp-admin/admin-ajax.php
+POST: https://www.marilynward7.ca/wp-admin/admin-ajax.php
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&aip=1&a=1098492131&t=pageview&_s=1&dl=https%3A%2F%2Fwww.marilynward7.ca%2F&ul=en-us&de=UTF-8&dt=marilynward7.ca%20%E2%80%93%20Marilyn%20North%20Peigan%20for%20Ward%207&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YGBACUABBAAAAC~&jid=1364587091&gjid=19738624&cid=1243091891.1634493979&tid=UA-192142030-1&_gid=342568734.1634493979&_r=1&gtm=2ouad0&did=dZTNiMT&z=957290237
+
+
+---
+Matt Lalonde 17-10-2021 12-06-05.json
+Num of entries = 47
+12 sites outside the host:
+- ajax.googleapis.com, 1 entries: 3 
+- d3n8a8pro7vhmx.cloudfront.net, 7 entries: 4 9 30 31 32 33 42 
+- fonts.googleapis.com, 1 entries: 5 
+- polyfill.io, 1 entries: 6 
+- cdnjs.cloudflare.com, 2 entries: 7 10 
+- mattward7.nationbuilder.com, 19 entries: 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+- apis.google.com, 2 entries: 34 38 
+- fonts.gstatic.com, 3 entries: 35 36 37 
+- platform.twitter.com, 2 entries: 39 45 
+- ssl.google-analytics.com, 2 entries: 40 44 
+- connect.facebook.net, 2 entries: 41 43 
+- syndication.twitter.com, 1 entries: 46 
+Total number of requests to external sites: 43 out of 47
+Number of POST Requests made: 0 out of 47
+
+
+---
+Michael Streilein 17-10-2021 12-10-14.json
+Num of entries = 2
+0 sites outside the host:
+Total number of requests to external sites: 0 out of 2
+Number of POST Requests made: 0 out of 2
+
+
+---
+Mike Jamieson 17-10-2021 12-09-18.json
+Num of entries = 37
+2 sites outside the host:
+- img1.wsimg.com, 33 entries: 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 
+- img6.wsimg.com, 1 entries: 20 
+Total number of requests to external sites: 34 out of 37
+Number of POST Requests made: 0 out of 37
+
+
+---
+Mike LaValley 17-10-2021 12-09-59.json
+Num of entries = 138
+13 sites outside the host:
+- ftp.mozilla.org, 3 entries: 1 2 3 
+- frog.wix.com, 12 entries: 5 17 30 33 56 102 108 109 130 131 132 133 
+- static.parastorage.com, 86 entries: 6 7 8 9 14 16 18 19 22 26 27 32 34 37 44 45 46 47 48 49 51 52 53 54 55 57 58 59 60 61 62 63 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 103 104 105 106 107 110 111 112 113 114 115 116 117 118 119 120 121 
+- siteassets.parastorage.com, 4 entries: 10 11 12 13 
+- www.googletagmanager.com, 1 entries: 15 
+- static.wixstatic.com, 15 entries: 20 21 23 24 25 28 29 31 35 38 39 40 41 124 127 
+- fonts.gstatic.com, 1 entries: 36 
+- video.wixstatic.com, 1 entries: 50 
+- www.google-analytics.com, 3 entries: 122 126 136 
+- connect.facebook.net, 2 entries: 123 129 
+- sentry.wixpress.com, 1 entries: 128 
+- www.facebook.com, 2 entries: 134 135 
+- www.statcounter.com, 1 entries: 137 
+Total number of requests to external sites: 132 out of 138
+Number of POST Requests made: 14 out of 138
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=937f0744-7be7-47a2-b7ce-6b01648f732c&session_id=6f2c09d1-3eff-41f2-ba74-96eb8be56b3b&ish=1&vsi=f22f5145-610a-4fe2-b815-737e8baa35ff&caching=hit,hit&pv=visible&v=1.8133.0&url=https://www.mikelavalley.ca/&st=2&ts=47&tsn=53
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=937f0744-7be7-47a2-b7ce-6b01648f732c&pn=1&sessionId=6f2c09d1-3eff-41f2-ba74-96eb8be56b3b&siterev=675-__siteCacheRevision__&st=2&ts=114&tts=120&url=https%3A%2F%2Fwww.mikelavalley.ca%2F%3F&v=1.8133.0&vsi=f22f5145-610a-4fe2-b815-737e8baa35ff&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=937f0744-7be7-47a2-b7ce-6b01648f732c&pid=mua1n&pn=1&sessionId=6f2c09d1-3eff-41f2-ba74-96eb8be56b3b&siterev=675-__siteCacheRevision__&st=2&ts=200&tts=206&url=https%3A%2F%2Fwww.mikelavalley.ca%2F%3F&v=1.8133.0&vsi=f22f5145-610a-4fe2-b815-737e8baa35ff&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=937f0744-7be7-47a2-b7ce-6b01648f732c&session_id=6f2c09d1-3eff-41f2-ba74-96eb8be56b3b&ish=1&vsi=f22f5145-610a-4fe2-b815-737e8baa35ff&caching=hit,hit&pv=visible&v=1.8133.0&url=https://www.mikelavalley.ca/&st=2&name=partially_visible&duration=1634494196410
+POST: https://frog.wix.com/site-members?_msid=937f0744-7be7-47a2-b7ce-6b01648f732c&vsi=f22f5145-610a-4fe2-b815-737e8baa35ff&rid=1634493678.429351688820332689&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=697&_lv=2.0.1000&_visitorId=b3dde8a8-dcd7-406a-bc15-3706d795938c&_siteMemberId=undefined&bsi=f8664c60-f33a-4273-aabf-39ef3971cf5e%7C1&src=5&evid=698&biToken=937f0744-7be7-47a2-b7ce-6b01648f732c&context=undefined&ts=693&viewmode=undefined&visitor_id=b3dde8a8-dcd7-406a-bc15-3706d795938c&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344941969530
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=487412851&t=pageview&_s=1&dl=https%3A%2F%2Fwww.mikelavalley.ca%2F&ul=en-us&de=UTF-8&dt=Mike%20LaValley%20%7C%20Running%20for%20Calgary%20Ward%2012%20Councillor%20%7C%202021&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEBAAUIJAAAAAC~&jid=245797230&gjid=929755624&cid=1708661023.1634494198&tid=UA-46757671-24&_gid=323770041.1634494198&_r=1&gtm=2ouad0&z=170322368
+POST: https://sentry.wixpress.com/api/28/store/?sentry_version=7&sentry_client=raven-js%2F3.27.2&sentry_key=fe0974951f45411fbe57fbbd7c30bbf2
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+
+
+---
+Monique Auffrey 17-10-2021 12-06-46.json
+Num of entries = 46
+14 sites outside the host:
+- ajax.googleapis.com, 1 entries: 2 
+- d3n8a8pro7vhmx.cloudfront.net, 9 entries: 3 4 21 22 23 24 25 26 42 
+- kit.fontawesome.com, 1 entries: 5 
+- moniqueward8.nationbuilder.com, 9 entries: 6 7 8 9 10 11 12 13 20 
+- use.typekit.net, 9 entries: 14 18 27 28 31 32 33 34 35 
+- fonts.googleapis.com, 1 entries: 15 
+- p.typekit.net, 2 entries: 16 36 
+- apis.google.com, 2 entries: 17 19 
+- fonts.gstatic.com, 2 entries: 29 30 
+- ssl.google-analytics.com, 2 entries: 37 41 
+- platform.twitter.com, 2 entries: 38 39 
+- syndication.twitter.com, 1 entries: 40 
+- connect.facebook.net, 2 entries: 43 45 
+- ka-f.fontawesome.com, 1 entries: 44 
+Total number of requests to external sites: 44 out of 46
+Number of POST Requests made: 0 out of 46
+
+
+---
+Mushtaq Kayani 17-10-2021 12-08-39.json
+Num of entries = 46
+2 sites outside the host:
+- fonts.googleapis.com, 2 entries: 3 4 
+- fonts.gstatic.com, 4 entries: 33 34 35 36 
+Total number of requests to external sites: 6 out of 46
+Number of POST Requests made: 0 out of 46
+
+
+---
+Naomi Withers 17-10-2021 12-07-56.json
+Num of entries = 77
+16 sites outside the host:
+- www.google-analytics.com, 1 entries: 1 
+- ajax.googleapis.com, 1 entries: 3 
+- d3n8a8pro7vhmx.cloudfront.net, 11 entries: 4 7 19 20 21 22 25 34 35 50 63 
+- fonts.googleapis.com, 1 entries: 5 
+- firefox.settings.services.mozilla.com, 21 entries: 8 9 13 18 29 36 45 46 51 52 53 54 55 56 57 58 59 60 64 66 70 
+- netdna.bootstrapcdn.com, 2 entries: 10 48 
+- content-signature-2.cdn.mozilla.net, 2 entries: 11 68 
+- ward9calgary.nationbuilder.com, 9 entries: 12 14 15 16 17 23 24 28 49 
+- apis.google.com, 2 entries: 26 39 
+- use.typekit.net, 7 entries: 27 38 40 41 42 43 44 
+- fonts.gstatic.com, 6 entries: 30 31 32 33 37 75 
+- p.typekit.net, 1 entries: 47 
+- platform.twitter.com, 5 entries: 61 65 72 73 74 
+- connect.facebook.net, 2 entries: 62 69 
+- syndication.twitter.com, 1 entries: 67 
+- www.facebook.com, 2 entries: 71 76 
+Total number of requests to external sites: 74 out of 77
+Number of POST Requests made: 1 out of 77
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-1P1HCWYENR&gtm=2oead0&_p=1999902359&sr=1536x864&ul=en-us&cid=1647030741.1634494068&_s=2&dl=https%3A%2F%2Fwww.wadeforward9.com%2F&dt=Vote%20Wade%20for%20Ward%209&sid=1634494068&sct=1&seg=0&en=user_engagement&_et=2684
+
+
+---
+Natalie Winkler 17-10-2021 12-07-18.json
+Num of entries = 8
+3 sites outside the host:
+- fonts.googleapis.com, 1 entries: 1 
+- www.canspace.ca, 4 entries: 2 3 6 7 
+- fonts.gstatic.com, 2 entries: 4 5 
+Total number of requests to external sites: 7 out of 8
+Number of POST Requests made: 0 out of 8
+
+
+---
+Nate Pike 17-10-2021 12-03-35.json
+Num of entries = 4
+2 sites outside the host:
+- www.google.com, 1 entries: 1 
+- img1.wsimg.com, 2 entries: 2 3 
+Total number of requests to external sites: 3 out of 4
+Number of POST Requests made: 0 out of 4
+
+
+---
+Paul Bergmann 17-10-2021 12-06-50.json
+Num of entries = 49
+12 sites outside the host:
+- ajax.googleapis.com, 1 entries: 3 
+- d3n8a8pro7vhmx.cloudfront.net, 7 entries: 4 11 31 32 33 34 44 
+- fonts.googleapis.com, 2 entries: 5 6 
+- polyfill.io, 1 entries: 7 
+- cdnjs.cloudflare.com, 2 entries: 8 10 
+- bergmannward8.nationbuilder.com, 19 entries: 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+- apis.google.com, 2 entries: 35 40 
+- fonts.gstatic.com, 4 entries: 36 37 38 39 
+- platform.twitter.com, 2 entries: 41 47 
+- ssl.google-analytics.com, 2 entries: 42 46 
+- connect.facebook.net, 2 entries: 43 45 
+- syndication.twitter.com, 1 entries: 48 
+Total number of requests to external sites: 45 out of 49
+Number of POST Requests made: 0 out of 49
+
+
+---
+Peter Demong 17-10-2021 12-10-57.json
+Num of entries = 41
+10 sites outside the host:
+- www.youtube.com, 8 entries: 2 6 13 14 15 27 33 38 
+- cdnjs.cloudflare.com, 2 entries: 4 5 
+- fonts.googleapis.com, 1 entries: 8 
+- fonts.gstatic.com, 5 entries: 9 10 11 17 18 
+- unpkg.com, 1 entries: 12 
+- googleads.g.doubleclick.net, 2 entries: 24 34 
+- www.google.com, 1 entries: 28 
+- i.ytimg.com, 1 entries: 29 
+- yt3.ggpht.com, 1 entries: 32 
+- static.doubleclick.net, 1 entries: 35 
+Total number of requests to external sites: 23 out of 41
+Number of POST Requests made: 0 out of 41
+
+
+---
+Philip Mitchell 17-10-2021 12-07-06.json
+Num of entries = 37
+2 sites outside the host:
+- img1.wsimg.com, 33 entries: 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 26 27 28 29 30 31 32 33 34 35 
+- img6.wsimg.com, 1 entries: 25 
+Total number of requests to external sites: 34 out of 37
+Number of POST Requests made: 0 out of 37
+
+
+---
+Raj Dhaliwal 17-10-2021 12-04-34.json
+Num of entries = 176
+12 sites outside the host:
+- www.googletagmanager.com, 1 entries: 3 
+- fonts.googleapis.com, 3 entries: 4 5 6 
+- player.vimeo.com, 1 entries: 7 
+- www.youtube.com, 13 entries: 47 48 50 51 62 63 70 78 82 96 100 135 137 
+- fonts.gstatic.com, 12 entries: 55 56 57 58 59 60 64 65 66 67 71 164 
+- www.google.com, 1 entries: 79 
+- i.ytimg.com, 2 entries: 80 94 
+- yt3.ggpht.com, 1 entries: 81 
+- googleads.g.doubleclick.net, 4 entries: 86 89 91 95 
+- static.doubleclick.net, 1 entries: 92 
+- embed.tawk.to, 2 entries: 93 175 
+- www.google-analytics.com, 3 entries: 168 173 174 
+Total number of requests to external sites: 44 out of 176
+Number of POST Requests made: 4 out of 176
+POST: https://voteraj.ca/?wc-ajax=get_refreshed_fragments
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1974858089&t=pageview&_s=1&dl=https%3A%2F%2Fvoteraj.ca%2F&ul=en-us&de=UTF-8&dt=Raj%20Dhaliwal%20-%20Councillor%20for%20ward%205%20%7C%20City%20of%20Calgary%20Council%20Election%202021&sd=24-bit&sr=1536x864&vp=1283x689&je=0&_u=aGBAAUIhAAAAAC~&jid=673821589&gjid=1818560613&cid=1434484851.1634493874&tid=UA-143732786-1&_gid=223621109.1634493874&_r=1&gtm=2ouad0&did=dZGIzZG&z=755491581
+
+
+---
+Richard Pootmans 17-10-2021 12-05-54.json
+Num of entries = 48
+5 sites outside the host:
+- frog.wix.com, 5 entries: 2 12 18 20 43 
+- static.parastorage.com, 23 entries: 3 4 5 6 11 13 17 21 22 25 34 35 36 37 38 39 40 41 42 44 45 46 47 
+- siteassets.parastorage.com, 4 entries: 7 8 9 10 
+- fonts.gstatic.com, 3 entries: 14 23 24 
+- static.wixstatic.com, 9 entries: 15 16 19 26 27 28 29 30 31 
+Total number of requests to external sites: 44 out of 48
+Number of POST Requests made: 5 out of 48
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=9c9f17cc-07b1-47c7-87a5-3d3eabd45363&session_id=b8c08194-f3e9-41bd-bda1-960f301868a2&ish=1&vsi=6a5482f8-df3f-44dd-80db-184c8b61a045&caching=hit,hit&pv=visible&v=1.8084.0&url=https://www.richard4ward6.com/&st=2&ts=49&tsn=56
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=9c9f17cc-07b1-47c7-87a5-3d3eabd45363&pn=1&sessionId=b8c08194-f3e9-41bd-bda1-960f301868a2&siterev=193-__siteCacheRevision__&st=2&ts=55&tts=62&url=https%3A%2F%2Fwww.richard4ward6.com%2F%3F&v=1.8084.0&vsi=6a5482f8-df3f-44dd-80db-184c8b61a045&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=9c9f17cc-07b1-47c7-87a5-3d3eabd45363&session_id=b8c08194-f3e9-41bd-bda1-960f301868a2&ish=1&vsi=6a5482f8-df3f-44dd-80db-184c8b61a045&caching=hit,hit&pv=visible&v=1.8084.0&url=https://www.richard4ward6.com/&st=2&name=partially_visible&duration=1634493954009
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=9c9f17cc-07b1-47c7-87a5-3d3eabd45363&pid=lyzro&pn=1&sessionId=b8c08194-f3e9-41bd-bda1-960f301868a2&siterev=193-__siteCacheRevision__&st=2&ts=126&tts=133&url=https%3A%2F%2Fwww.richard4ward6.com%2F%3F&v=1.8084.0&vsi=6a5482f8-df3f-44dd-80db-184c8b61a045&_brandId=wix
+POST: https://frog.wix.com/site-members?_msid=9c9f17cc-07b1-47c7-87a5-3d3eabd45363&vsi=6a5482f8-df3f-44dd-80db-184c8b61a045&rid=1633991386.3012854663506266143&_av=thunderbolt-1.8084.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=558&_lv=2.0.1000&_visitorId=71d1bfd6-c904-4498-aa87-a35c248b047e&_siteMemberId=undefined&bsi=5c1eccbb-8cfa-402a-a0ab-665f513bb040%7C1&src=5&evid=698&biToken=9c9f17cc-07b1-47c7-87a5-3d3eabd45363&context=undefined&ts=553&viewmode=undefined&visitor_id=71d1bfd6-c904-4498-aa87-a35c248b047e&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344939544870
+
+
+---
+Rob Ward 17-10-2021 12-09-36.json
+Num of entries = 128
+18 sites outside the host:
+- frog.wix.com, 21 entries: 2 13 16 40 47 87 88 89 91 100 101 103 104 105 107 108 110 118 122 123 127 
+- static.parastorage.com, 66 entries: 3 4 5 6 10 12 14 18 20 23 24 25 26 27 28 29 30 31 32 33 34 35 36 39 48 49 50 51 52 53 54 55 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 81 82 83 84 85 92 98 106 111 115 116 
+- siteassets.parastorage.com, 4 entries: 7 8 9 11 
+- static.wixstatic.com, 6 entries: 17 19 38 41 46 97 
+- www.paypalobjects.com, 2 entries: 21 22 
+- fonts.gstatic.com, 2 entries: 37 90 
+- images-vod.wixmp.com, 4 entries: 42 43 45 93 
+- www.googletagmanager.com, 1 entries: 86 
+- worker-visa.session-replays.io, 1 entries: 94 
+- connect.facebook.net, 2 entries: 95 112 
+- www.google-analytics.com, 3 entries: 96 102 113 
+- app.visitor-analytics.io, 1 entries: 109 
+- fonts.googleapis.com, 1 entries: 114 
+- loadbalancer.visitor-analytics.io, 1 entries: 117 
+- www.facebook.com, 2 entries: 119 125 
+- cdn.jsdelivr.net, 1 entries: 120 
+- cdnjs.cloudflare.com, 1 entries: 121 
+- visits.visitor-analytics.io, 2 entries: 124 126 
+Total number of requests to external sites: 121 out of 128
+Number of POST Requests made: 25 out of 128
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=9e5af70b-d97c-40fb-a34c-5ec0179925c9&session_id=0acf0ed9-52ac-45bd-a679-bae196053388&ish=1&vsi=6d5acddf-cb5a-43da-8451-fb31f18d2715&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.robward11.ca/&st=2&ts=9&tsn=18
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=9e5af70b-d97c-40fb-a34c-5ec0179925c9&pn=1&sessionId=0acf0ed9-52ac-45bd-a679-bae196053388&siterev=218-__siteCacheRevision__&st=2&ts=108&tts=117&url=https%3A%2F%2Fwww.robward11.ca%2F%3F&v=1.8115.0&vsi=6d5acddf-cb5a-43da-8451-fb31f18d2715&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=9e5af70b-d97c-40fb-a34c-5ec0179925c9&pid=fteo4&pn=1&sessionId=0acf0ed9-52ac-45bd-a679-bae196053388&siterev=218-__siteCacheRevision__&st=2&ts=164&tts=173&url=https%3A%2F%2Fwww.robward11.ca%2F%3F&v=1.8115.0&vsi=6d5acddf-cb5a-43da-8451-fb31f18d2715&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=9e5af70b-d97c-40fb-a34c-5ec0179925c9&session_id=0acf0ed9-52ac-45bd-a679-bae196053388&ish=1&vsi=6d5acddf-cb5a-43da-8451-fb31f18d2715&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.robward11.ca/&st=2&name=partially_visible&duration=1634494170550
+POST: https://frog.wix.com/site-members?_msid=9e5af70b-d97c-40fb-a34c-5ec0179925c9&vsi=6d5acddf-cb5a-43da-8451-fb31f18d2715&rid=1634307899.862189867699121509&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=1286&_lv=2.0.1000&_visitorId=bd9f7abd-6fa7-486a-83a4-85efbb69341e&_siteMemberId=undefined&bsi=cd021efc-3229-4300-b226-d474218b604a%7C1&src=5&evid=698&biToken=9e5af70b-d97c-40fb-a34c-5ec0179925c9&context=undefined&ts=1278&viewmode=undefined&visitor_id=bd9f7abd-6fa7-486a-83a4-85efbb69341e&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344941716770
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://www.robward11.ca/_serverless/analytics-reporter/facebook/event
+POST: https://frog.wix.com/ugc-viewer?_msid=9e5af70b-d97c-40fb-a34c-5ec0179925c9&vsi=6d5acddf-cb5a-43da-8451-fb31f18d2715&rid=1634307899.862189867699121509&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=2238&_lv=2.0.1000&_visitorId=bd9f7abd-6fa7-486a-83a4-85efbb69341e&_siteMemberId=undefined&bsi=cd021efc-3229-4300-b226-d474218b604a%7C1&appId=13ee53b4-2343-b641-c84d-056d2e6ed2e6&widget_id=147ce056-e1f1-42ae-8e33-95f9865d63c8&instance_id=comp-knz5ug54&src=42&evid=642&tts=2238&pid=fteo4&pn=1&_=16344941726421
+POST: https://frog.wix.com/pa?_msid=9e5af70b-d97c-40fb-a34c-5ec0179925c9&vsi=6d5acddf-cb5a-43da-8451-fb31f18d2715&rid=1634307899.862189867699121509&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=2255&_lv=2.0.1000&_visitorId=bd9f7abd-6fa7-486a-83a4-85efbb69341e&_siteMemberId=undefined&bsi=cd021efc-3229-4300-b226-d474218b604a%7C1&src=76&evid=1109&pid=fteo4&pn=1&viewer=TB&pt=static&pa=editor&pti=fteo4&uuid=4616aeb2-ea8d-4d9a-a131-a9873aa131c8&url=https%3A%2F%2Fwww.robward11.ca%2F&ref=&bot=true&bl=en-US&pl=en-US%2Cen&_=16344941726432
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=401515949&t=pageview&_s=1&dl=https%3A%2F%2Fwww.robward11.ca%2F&dp=%2F&ul=en-us&de=UTF-8&dt=Home%20%7C%20Rob%20Ward%20for%20Ward%2011%20Calgary&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEBAAUIJAAAAAC~&jid=290870459&gjid=1642250102&cid=1866577481.1634494173&tid=UA-197141731-1&_gid=859593320.1634494173&_r=1&gtm=2ouad0&did=dYzMzMD&z=328252102
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=33&event_name=page%20interactive&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=9e5af70b-d97c-40fb-a34c-5ec0179925c9&pid=fteo4&pn=1&rid=1634307899.862189867699121509&sar=1536x824&sessionId=0acf0ed9-52ac-45bd-a679-bae196053388&siterev=218-__siteCacheRevision__&sr=1536x864&st=2&ts=2467&tts=2476&url=https%3A%2F%2Fwww.robward11.ca%2F&v=1.8115.0&vid=bd9f7abd-6fa7-486a-83a4-85efbb69341e&bsi=cd021efc-3229-4300-b226-d474218b604a|1&vsi=6d5acddf-cb5a-43da-8451-fb31f18d2715&wor=1294x779&wr=1283x689&_brandId=wix
+POST: https://frog.wix.com/video
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bpm
+POST: https://www.facebook.com/tr/
+POST: https://visits.visitor-analytics.io/worker-log
+POST: https://frog.wix.com/bpm?_msid=9e5af70b-d97c-40fb-a34c-5ec0179925c9&vsi=6d5acddf-cb5a-43da-8451-fb31f18d2715&rid=1634307899.862189867699121509&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&ts=5736&tsn=5745&dc=96&caching=hit%2Chit&session_id=0acf0ed9-52ac-45bd-a679-bae196053388&st=2&url=https%253A%252F%252Fwww.robward11.ca%252F&ish=true&pn=0&pv=true&pageId=fteo4&isServerSide=false&is_lightbox=false&is_cached=true&is_sav_rollout=0&is_dac_rollout=0&v=1.8115.0&_brandId=wix&_siteBranchId=undefined&_ms=5744&_lv=2.0.1000&_visitorId=undefined&_siteMemberId=undefined&src=72&evid=502&_=16344941761323&tti=2578&tbt=651&iframes=2&screens=4&countScripts=46&startTimeScripts=139&durationScripts=2888&mttfbScripts=22&attfbScripts=38&tbdScripts=852693&countImages=9&startTimeImages=1036&durationImages=2480&mttfbImages=0&attfbImages=72&tbdImages=270729&countFonts=10&startTimeFonts=251&durationFonts=1776&mttfbFonts=356&attfbFonts=516&tbdFonts=292768&entryType=loaded&duration=5743&ttlb=169&dcl=230&transferSize=134225&decodedBodySize=635366&pageCaching=maybe%20CDN&isSsr=true&isWelcome=false&cdn=Cloudfront&visitorId=bd9f7abd-6fa7-486a-83a4-85efbb69341e&btype=webdriver&bsi=cd021efc-3229-4300-b226-d474218b604a%7C1&ssrDuration=941&ssrTimestamp=1634307901128&microPop=96&isRollout=false&isPlatformLoaded=false&maybeBot=true&clientType=ugc&analytics=true
+
+
+---
+Roshan Chumber 17-10-2021 12-08-16.json
+Num of entries = 100
+8 sites outside the host:
+- fonts.googleapis.com, 1 entries: 3 
+- maxcdn.bootstrapcdn.com, 2 entries: 4 71 
+- fonts.gstatic.com, 11 entries: 40 49 51 54 55 58 61 62 64 65 73 
+- www.facebook.com, 1 entries: 79 
+- static.xx.fbcdn.net, 8 entries: 89 90 91 92 93 94 97 98 
+- scontent-yyz1-1.xx.fbcdn.net, 1 entries: 95 
+- velikorodnov.com, 1 entries: 96 
+- scontent.fyyc6-1.fna.fbcdn.net, 1 entries: 99 
+Total number of requests to external sites: 26 out of 100
+Number of POST Requests made: 2 out of 100
+POST: https://roshanchumber.ca/wp-admin/admin-ajax.php
+POST: https://roshanchumber.ca/wp-admin/admin-ajax.php
+
+
+---
+Sanjeev Kad 17-10-2021 12-05-50.json
+Num of entries = 49
+12 sites outside the host:
+- ajax.googleapis.com, 1 entries: 3 
+- d3n8a8pro7vhmx.cloudfront.net, 6 entries: 4 9 30 31 32 33 
+- fonts.googleapis.com, 1 entries: 5 
+- polyfill.io, 1 entries: 6 
+- cdnjs.cloudflare.com, 2 entries: 7 10 
+- sanjeevkad.nationbuilder.com, 19 entries: 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+- apis.google.com, 2 entries: 34 39 
+- fonts.gstatic.com, 4 entries: 35 36 37 38 
+- connect.facebook.net, 3 entries: 40 43 47 
+- platform.twitter.com, 2 entries: 41 46 
+- ssl.google-analytics.com, 2 entries: 42 45 
+- syndication.twitter.com, 1 entries: 48 
+Total number of requests to external sites: 44 out of 49
+Number of POST Requests made: 0 out of 49
+
+
+---
+Sareen Singh 17-10-2021 12-02-44.json
+Num of entries = 29
+7 sites outside the host:
+- use.typekit.net, 5 entries: 2 8 18 19 20 
+- fonts.googleapis.com, 1 entries: 3 
+- static1.squarespace.com, 3 entries: 4 5 17 
+- assets.squarespace.com, 7 entries: 6 7 11 12 13 14 15 
+- fonts.gstatic.com, 2 entries: 9 10 
+- p.typekit.net, 1 entries: 25 
+- images.squarespace-cdn.com, 3 entries: 26 27 28 
+Total number of requests to external sites: 22 out of 29
+Number of POST Requests made: 4 out of 29
+POST: https://www.sareensingh.ca/api/census/RecordHit
+POST: https://www.sareensingh.ca/api/census/button-render
+POST: https://www.sareensingh.ca/api/census/form-render
+POST: https://www.sareensingh.ca/api/census/button-render
+
+
+---
+Sean Chu 17-10-2021 12-03-59.json
+Num of entries = 114
+13 sites outside the host:
+- www.googletagmanager.com, 1 entries: 2 
+- fonts.googleapis.com, 1 entries: 3 
+- js.hs-scripts.com, 1 entries: 5 
+- fonts.gstatic.com, 6 entries: 50 51 52 53 55 57 
+- js.hscollectedforms.net, 1 entries: 60 
+- js.hs-banner.com, 1 entries: 61 
+- forms.hubspot.com, 1 entries: 72 
+- forms.hsforms.com, 1 entries: 85 
+- b.tile.openstreetmap.org, 3 entries: 92 93 95 
+- c.tile.openstreetmap.org, 3 entries: 103 104 105 
+- a.tile.openstreetmap.org, 3 entries: 106 107 108 
+- www.google-analytics.com, 2 entries: 109 113 
+- js.hs-analytics.net, 1 entries: 110 
+Total number of requests to external sites: 25 out of 114
+Number of POST Requests made: 1 out of 114
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=264346347&t=pageview&_s=1&dl=https%3A%2F%2Fseanchu.ca%2F&ul=en-us&de=UTF-8&dt=Re-Elect%20Sean%20Chu%20%E2%80%93%20Your%20Voice%20%E2%80%93%20Ward%204%20%7C%20Sean%20Chu%20is%20running%20for%20City%20Council%20in%20Calgary%2C%20Alberta%20%7C%20Ward%204.&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEBAAUABAAAAAC~&jid=1019239316&gjid=1001775369&cid=2078063119.1634493839&tid=UA-71178926-1&_gid=1537351832.1634493839&_r=1&gtm=2ouad0&did=dNDMyYj&z=1148997192
+
+
+---
+Shane Roberts 17-10-2021 12-04-24.json
+Num of entries = 52
+4 sites outside the host:
+- fonts.googleapis.com, 1 entries: 17 
+- stats.wp.com, 1 entries: 44 
+- pixel.wp.com, 1 entries: 46 
+- connect.facebook.net, 2 entries: 49 51 
+Total number of requests to external sites: 5 out of 52
+Number of POST Requests made: 0 out of 52
+
+
+---
+Shauna Sears 17-10-2021 12-02-05.json
+Num of entries = 55
+7 sites outside the host:
+- vimeo.com, 1 entries: 1 
+- fresnel.vimeocdn.com, 2 entries: 2 3 
+- frog.wix.com, 5 entries: 5 15 36 37 52 
+- static.parastorage.com, 23 entries: 6 7 8 9 14 16 25 30 34 35 38 40 43 44 45 46 47 48 49 50 51 53 54 
+- siteassets.parastorage.com, 4 entries: 10 11 12 13 
+- fonts.gstatic.com, 3 entries: 17 21 27 
+- static.wixstatic.com, 13 entries: 18 19 20 22 23 24 26 28 29 31 32 33 42 
+Total number of requests to external sites: 51 out of 55
+Number of POST Requests made: 8 out of 55
+POST: https://vimeo.com/ablincoln/vuid?pid=79dfae4deac8bf467d99ee3ab26c434e16f9d6bc1634493718
+POST: https://fresnel.vimeocdn.com/add/player-test-impression?beacon=1
+POST: https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=79dfae4deac8bf467d99ee3ab26c434e16f9d6bc1634493718
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=b76a93b1-395f-45c4-a0d5-f1e8e595aaeb&session_id=f7775067-8ea8-4885-927e-b4835f606e07&ish=1&vsi=f54b6778-d406-4d9c-9335-89db7871592d&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.shaunasears.com/&st=2&ts=48&tsn=70
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=b76a93b1-395f-45c4-a0d5-f1e8e595aaeb&pn=1&sessionId=f7775067-8ea8-4885-927e-b4835f606e07&siterev=470-__siteCacheRevision__&st=2&ts=53&tts=75&url=https%3A%2F%2Fwww.shaunasears.com%2F%3F&v=1.8115.0&vsi=f54b6778-d406-4d9c-9335-89db7871592d&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=b76a93b1-395f-45c4-a0d5-f1e8e595aaeb&pid=c1dmp&pn=1&sessionId=f7775067-8ea8-4885-927e-b4835f606e07&siterev=470-__siteCacheRevision__&st=2&ts=157&tts=179&url=https%3A%2F%2Fwww.shaunasears.com%2F%3F&v=1.8115.0&vsi=f54b6778-d406-4d9c-9335-89db7871592d&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=b76a93b1-395f-45c4-a0d5-f1e8e595aaeb&session_id=f7775067-8ea8-4885-927e-b4835f606e07&ish=1&vsi=f54b6778-d406-4d9c-9335-89db7871592d&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.shaunasears.com/&st=2&name=partially_visible&duration=1634493725328
+POST: https://frog.wix.com/site-members?_msid=b76a93b1-395f-45c4-a0d5-f1e8e595aaeb&vsi=f54b6778-d406-4d9c-9335-89db7871592d&rid=1634233986.864109908834228604&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=576&_lv=2.0.1000&_visitorId=0079d920-e391-41c5-81c0-af3d26fe22e7&_siteMemberId=undefined&bsi=d000afdf-131e-4ebf-ae7b-27e7f3673b02%7C1&src=5&evid=698&biToken=b76a93b1-395f-45c4-a0d5-f1e8e595aaeb&context=undefined&ts=568&viewmode=undefined&visitor_id=0079d920-e391-41c5-81c0-af3d26fe22e7&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344937257920
+
+
+---
+Sonya Sharp 17-10-2021 12-02-15.json
+Num of entries = 93
+5 sites outside the host:
+- www.googletagmanager.com, 1 entries: 2 
+- fonts.googleapis.com, 2 entries: 66 67 
+- fonts.gstatic.com, 3 entries: 73 74 77 
+- www.google-analytics.com, 2 entries: 89 90 
+- platform.twitter.com, 2 entries: 91 92 
+Total number of requests to external sites: 10 out of 93
+Number of POST Requests made: 1 out of 93
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&aip=1&a=74373110&t=pageview&_s=1&dl=https%3A%2F%2Fsonyasharp.ca%2F&ul=en-us&de=UTF-8&dt=Vote%20for%20Sonya%20Sharp&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YGBACUABBAAAAC~&jid=1165446014&gjid=988571716&cid=387215888.1634493734&tid=UA-207970741-1&_gid=2014675500.1634493734&_r=1&gtm=2ouad0&did=dZTNiMT&z=306972013
+
+
+---
+Stan Sandhu 17-10-2021 12-05-37.json
+Num of entries = 227
+14 sites outside the host:
+- www.youtube.com, 18 entries: 1 2 172 175 181 182 183 184 186 187 188 189 196 201 204 209 223 224 
+- votestan.ca, 173 entries: 4 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 115 122 123 124 125 126 127 130 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 171 173 174 178 179 180 185 190 192 200 207 208 210 211 212 213 214 215 216 217 219 220 
+- fonts.googleapis.com, 4 entries: 5 6 7 9 
+- checkout.stripe.com, 1 entries: 114 
+- fonts.gstatic.com, 11 entries: 116 117 118 119 120 121 128 129 131 191 194 
+- www.paypal.com, 2 entries: 169 170 
+- www.paypalobjects.com, 2 entries: 176 177 
+- googleads.g.doubleclick.net, 4 entries: 193 202 203 205 
+- static.doubleclick.net, 1 entries: 195 
+- www.google.com, 1 entries: 197 
+- i.ytimg.com, 2 entries: 198 206 
+- yt3.ggpht.com, 1 entries: 199 
+- connect.facebook.net, 3 entries: 218 221 222 
+- www.facebook.com, 2 entries: 225 226 
+Total number of requests to external sites: 225 out of 227
+Number of POST Requests made: 8 out of 227
+POST: https://www.youtube.com/api/stats/qoe?event=streamingstats&fmt=134&afmt=251&cpn=ORTcdEsmfY-ce7Om&ei=1WVsYaGMGpWBkwbHhY2oCQ&el=embedded&docid=Nam3Q05Q8pg&ns=yt&fexp=23858057%2C23983296%2C24001373%2C24002022%2C24002025%2C24004644%2C24007246%2C24047102%2C24058363%2C24064555%2C24080738%2C24082661%2C24101841%2C24106092&cl=402943675&seq=2&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&cat=otfp&vps=4.168:B,4.168:B&user_intent=0&bwm=4.168:2031:3.205&bwe=4.168:130000&vis=4.168:3&cmt=4.168:0.000&bh=4.168:0.000
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=ORTcdEsmfY-ce7Om&docid=Nam3Q05Q8pg&ver=2&referrer=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNam3Q05Q8pg%3Fautoplay%3D1%26mute%3D1%26controls%3D1%26loop%3D0%26origin%3Dhttps%253A%252F%252Fwww.electsadat.com%26playsinline%3D1%26enablejsapi%3D1%26widgetid%3D3&cmt=0&ei=1WVsYaGMGpWBkwbHhY2oCQ&fmt=134&fs=0&rt=4.164&of=2dVkz7e1rF9t_XNU6wGWIw&euri=https%3A%2F%2Fwww.electsadat.com%2F&lact=4195&cl=402943675&mos=1&vm=CAEQABgEOjJBS1JhaHdDZWVPanhrM3BzWnM1UGVtb1FNUlRlYmhLLXd1WUQtbmg0b3NaamhYU1BsUWJOQVBta0tES0theC1yQnB4ZHBqbkxQU2gtdDVLSnR1dUVJNkJkWGU1WGRqWVBrM3YzdGxHMnpDaTBJVjhTYWtXckY0eWJFZFhwZXRjemZn&volume=100&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&autoplay=1&hl=en_US&cr=CA&len=69&fexp=23858057%2C23983296%2C24001373%2C24002022%2C24002025%2C24004644%2C24007246%2C24047102%2C24058363%2C24064555%2C24080738%2C24082661%2C24101841%2C24106092&afmt=251&muted=1&vis=3
+POST: https://votestan.ca/?wc-ajax=get_refreshed_fragments
+POST: https://votestan.ca/wp-json/metform/v1/forms/views/267
+POST: https://votestan.ca/
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.facebook.com/tr/
+
+
+---
+Stephen Dabbagh 17-10-2021 12-10-53.json
+Num of entries = 38
+11 sites outside the host:
+- fonts.googleapis.com, 2 entries: 2 3 
+- s1.wp.com, 7 entries: 4 5 8 12 13 18 30 
+- s2.wp.com, 2 entries: 6 31 
+- stats.wp.com, 1 entries: 7 
+- s0.wp.com, 7 entries: 9 10 11 14 34 36 37 
+- 0.gravatar.com, 3 entries: 15 17 20 
+- fonts.gstatic.com, 2 entries: 16 19 
+- pixel.wp.com, 3 entries: 21 22 23 
+- votestephendabbagh.files.wordpress.com, 6 entries: 24 25 26 27 28 32 
+- r-login.wordpress.com, 1 entries: 29 
+- public-api.wordpress.com, 2 entries: 33 35 
+Total number of requests to external sites: 36 out of 38
+Number of POST Requests made: 0 out of 38
+
+
+---
+Steve Webb 17-10-2021 12-02-29.json
+Num of entries = 65
+13 sites outside the host:
+- ajax.googleapis.com, 2 entries: 3 19 
+- d3n8a8pro7vhmx.cloudfront.net, 12 entries: 4 6 13 14 15 16 17 20 21 22 26 51 
+- webb4ward1.nationbuilder.com, 7 entries: 7 8 9 10 11 12 25 
+- apis.google.com, 2 entries: 18 24 
+- fonts.googleapis.com, 1 entries: 23 
+- fonts.gstatic.com, 10 entries: 27 28 29 30 31 32 33 34 36 37 
+- res.cloudinary.com, 12 entries: 35 38 39 40 41 42 43 44 45 46 47 48 
+- platform.twitter.com, 6 entries: 49 52 56 57 58 60 
+- connect.facebook.net, 2 entries: 50 53 
+- syndication.twitter.com, 2 entries: 54 59 
+- www.facebook.com, 2 entries: 55 64 
+- nationbuilder.s3.amazonaws.com, 1 entries: 61 
+- ssl.google-analytics.com, 2 entries: 62 63 
+Total number of requests to external sites: 61 out of 65
+Number of POST Requests made: 1 out of 65
+POST: https://syndication.twitter.com/i/jot
+
+
+---
+Steven Phan 17-10-2021 12-10-06.json
+Num of entries = 105
+23 sites outside the host:
+- ajax.googleapis.com, 1 entries: 3 
+- d3n8a8pro7vhmx.cloudfront.net, 9 entries: 4 8 26 27 28 29 30 32 51 
+- polyfill.io, 1 entries: 5 
+- fonts.googleapis.com, 1 entries: 6 
+- www.googletagmanager.com, 1 entries: 7 
+- cdnjs.cloudflare.com, 2 entries: 9 10 
+- stevenphan.nationbuilder.com, 19 entries: 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 31 33 34 35 
+- apis.google.com, 2 entries: 36 43 
+- fonts.gstatic.com, 6 entries: 37 38 39 41 42 63 
+- cdn.embedly.com, 1 entries: 40 
+- www.youtube.com, 10 entries: 44 45 47 57 58 59 60 71 75 92 
+- www.google.com, 5 entries: 46 53 56 72 99 
+- ssl.google-analytics.com, 2 entries: 48 68 
+- platform.twitter.com, 2 entries: 49 54 
+- connect.facebook.net, 6 entries: 50 55 66 67 78 80 
+- googleads.g.doubleclick.net, 4 entries: 52 65 69 76 
+- syndication.twitter.com, 1 entries: 61 
+- www.google.ca, 3 entries: 62 64 104 
+- static.doubleclick.net, 1 entries: 70 
+- i.ytimg.com, 1 entries: 73 
+- yt3.ggpht.com, 1 entries: 74 
+- www.facebook.com, 22 entries: 77 79 81 82 84 85 86 87 88 89 90 91 93 94 95 96 97 98 100 101 102 103 
+- stats.g.doubleclick.net, 1 entries: 83 
+Total number of requests to external sites: 102 out of 105
+Number of POST Requests made: 0 out of 105
+
+
+---
+Tahir Merali 17-10-2021 12-05-01.json
+Num of entries = 237
+27 sites outside the host:
+- js.stripe.com, 19 entries: 2 151 152 153 154 156 157 158 159 161 162 165 167 168 169 177 178 182 183 
+- www.googletagmanager.com, 2 entries: 3 34 
+- stats.wp.com, 1 entries: 5 
+- fonts.googleapis.com, 4 entries: 9 13 124 148 
+- www.youtube.com, 54 entries: 19 20 21 22 23 24 25 27 28 32 33 35 36 37 38 39 41 42 43 45 47 77 83 108 109 110 111 112 113 114 115 116 117 118 119 120 121 136 137 147 149 150 155 160 163 164 166 179 180 181 188 189 190 210 
+- fonts.gstatic.com, 21 entries: 30 31 44 46 48 49 50 51 52 53 54 55 56 57 58 141 142 143 145 146 170 
+- www.google.com, 3 entries: 40 78 131 
+- s0.wp.com, 1 entries: 59 
+- googleads.g.doubleclick.net, 31 entries: 60 61 62 63 64 65 66 67 68 69 70 71 72 74 75 76 81 82 86 88 89 90 91 96 97 123 128 130 133 173 175 
+- static.doubleclick.net, 1 entries: 73 
+- i.ytimg.com, 28 entries: 79 84 87 92 94 95 98 99 100 102 103 104 106 107 122 191 192 193 194 196 197 198 199 200 201 202 204 228 
+- yt3.ggpht.com, 3 entries: 80 85 101 
+- i1.wp.com, 1 entries: 93 
+- pixel.wp.com, 1 entries: 105 
+- calgary.redfm.ca, 2 entries: 129 138 
+- i2.wp.com, 3 entries: 134 135 184 
+- platform.twitter.com, 5 entries: 171 176 209 227 236 
+- www.google.ca, 1 entries: 172 
+- livewirecalgary.com, 3 entries: 174 195 203 
+- syndication.twitter.com, 1 entries: 185 
+- m.stripe.network, 3 entries: 186 187 229 
+- r.stripe.com, 4 entries: 205 206 207 224 
+- i0.wp.com, 1 entries: 208 
+- q.stripe.com, 17 entries: 211 212 213 214 215 216 217 218 219 220 221 222 223 225 226 231 232 
+- 79908-938495-raikfcquaxqncofqfm.stackpathdns.com, 1 entries: 230 
+- m.stripe.com, 2 entries: 233 234 
+- cdn.syndication.twimg.com, 1 entries: 235 
+Total number of requests to external sites: 214 out of 237
+Number of POST Requests made: 22 out of 237
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://r.stripe.com/0
+POST: https://r.stripe.com/0
+POST: https://r.stripe.com/0
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+POST: https://r.stripe.com/0
+POST: https://m.stripe.com/6
+POST: https://m.stripe.com/6
+
+
+---
+Tariq Khan 17-10-2021 12-04-49.json
+Num of entries = 45
+2 sites outside the host:
+- fonts.googleapis.com, 1 entries: 3 
+- fonts.gstatic.com, 5 entries: 32 33 34 35 36 
+Total number of requests to external sites: 6 out of 45
+Number of POST Requests made: 0 out of 45
+
+
+---
+Teresa Hargreaves 17-10-2021 12-09-53.json
+Num of entries = 96
+16 sites outside the host:
+- dirkfontaine.ca, 3 entries: 1 2 3 
+- teresaforward12.wixsite.com, 4 entries: 4 26 28 50 
+- frog.wix.com, 13 entries: 5 14 21 22 41 66 67 68 69 83 85 86 95 
+- static.parastorage.com, 47 entries: 6 7 8 9 12 13 16 20 23 33 34 35 36 37 38 39 40 42 43 44 45 46 47 48 49 51 52 53 54 55 56 57 58 59 60 61 62 63 70 73 74 76 78 81 82 89 94 
+- siteassets.parastorage.com, 2 entries: 10 11 
+- fonts.gstatic.com, 6 entries: 15 24 25 27 29 30 
+- static.wixstatic.com, 6 entries: 17 18 19 31 32 65 
+- app.visitor-analytics.io, 1 entries: 64 
+- loadbalancer.visitor-analytics.io, 1 entries: 71 
+- wixlabs-countdown.appspot.com, 4 entries: 72 77 84 92 
+- fonts.googleapis.com, 3 entries: 75 80 88 
+- cdn.jsdelivr.net, 1 entries: 79 
+- cdnjs.cloudflare.com, 1 entries: 87 
+- statcounter.va-endpoint.com, 1 entries: 90 
+- aus5.mozilla.org, 1 entries: 91 
+- visits.visitor-analytics.io, 1 entries: 93 
+Total number of requests to external sites: 95 out of 96
+Number of POST Requests made: 13 out of 96
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=1b158017-3cc4-4393-8bbf-281511cea62e&session_id=3dd75f96-da43-4302-8e29-29adbfd8bb14&ish=1&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&caching=hit,hit&pv=visible&v=1.8115.0&url=https://teresaforward12.wixsite.com/teresaforward12&st=2&ts=51&tsn=57
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=1b158017-3cc4-4393-8bbf-281511cea62e&pn=1&sessionId=3dd75f96-da43-4302-8e29-29adbfd8bb14&siterev=346-__siteCacheRevision__&st=2&ts=115&tts=121&url=https%3A%2F%2Fteresaforward12.wixsite.com%2Fteresaforward12%3F&v=1.8115.0&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&_brandId=wix
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=1b158017-3cc4-4393-8bbf-281511cea62e&pid=cpi24&pn=1&sessionId=3dd75f96-da43-4302-8e29-29adbfd8bb14&siterev=346-__siteCacheRevision__&st=2&ts=186&tts=192&url=https%3A%2F%2Fteresaforward12.wixsite.com%2Fteresaforward12%3F&v=1.8115.0&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&_brandId=wix
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=1b158017-3cc4-4393-8bbf-281511cea62e&session_id=3dd75f96-da43-4302-8e29-29adbfd8bb14&ish=1&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&caching=hit,hit&pv=visible&v=1.8115.0&url=https://teresaforward12.wixsite.com/teresaforward12&st=2&name=partially_visible&duration=1634494191669
+POST: https://frog.wix.com/site-members?_msid=1b158017-3cc4-4393-8bbf-281511cea62e&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&rid=1634238292.527116280942721782&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=585&_lv=2.0.1000&_visitorId=bdda7d69-3cb5-4375-835a-3d291e4c2ee5&_siteMemberId=undefined&bsi=d2e846a1-b1a4-476f-bc82-855bb1d1b138%7C1&src=5&evid=698&biToken=1b158017-3cc4-4393-8bbf-281511cea62e&context=undefined&ts=580&viewmode=undefined&visitor_id=bdda7d69-3cb5-4375-835a-3d291e4c2ee5&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344941921160
+POST: https://frog.wix.com/ugc-viewer?_msid=1b158017-3cc4-4393-8bbf-281511cea62e&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&rid=1634238292.527116280942721782&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=984&_lv=2.0.1000&_visitorId=bdda7d69-3cb5-4375-835a-3d291e4c2ee5&_siteMemberId=undefined&bsi=d2e846a1-b1a4-476f-bc82-855bb1d1b138%7C1&appId=13ee53b4-2343-b641-c84d-056d2e6ed2e6&widget_id=147ce056-e1f1-42ae-8e33-95f9865d63c8&instance_id=comp-kskxevy4&src=42&evid=642&tts=985&pid=cpi24&pn=1&_=16344941925191
+POST: https://frog.wix.com/ugc-viewer?_msid=1b158017-3cc4-4393-8bbf-281511cea62e&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&rid=1634238292.527116280942721782&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=985&_lv=2.0.1000&_visitorId=bdda7d69-3cb5-4375-835a-3d291e4c2ee5&_siteMemberId=undefined&bsi=d2e846a1-b1a4-476f-bc82-855bb1d1b138%7C1&appId=13ee53b4-2343-b641-c84d-056d2e6ed2e6&widget_id=14b2d589-33e5-af98-ec53-a386bbb29a4f&instance_id=comp-kskxevyd&src=42&evid=642&tts=986&pid=cpi24&pn=1&_=16344941925192
+POST: https://frog.wix.com/ugc-viewer?_msid=1b158017-3cc4-4393-8bbf-281511cea62e&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&rid=1634238292.527116280942721782&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=986&_lv=2.0.1000&_visitorId=bdda7d69-3cb5-4375-835a-3d291e4c2ee5&_siteMemberId=undefined&bsi=d2e846a1-b1a4-476f-bc82-855bb1d1b138%7C1&appId=12e0dab3-a3cf-d446-2251-450722a9f464&widget_id=12e0dad0-9bf0-bfaf-0230-70b3a58d1105&instance_id=comp-ktz3ievb&src=42&evid=642&tts=986&pid=cpi24&pn=1&_=16344941925203
+POST: https://frog.wix.com/pa?_msid=1b158017-3cc4-4393-8bbf-281511cea62e&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&rid=1634238292.527116280942721782&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=991&_lv=2.0.1000&_visitorId=bdda7d69-3cb5-4375-835a-3d291e4c2ee5&_siteMemberId=undefined&bsi=d2e846a1-b1a4-476f-bc82-855bb1d1b138%7C1&src=76&evid=1109&pid=cpi24&pn=1&viewer=TB&pt=static&pa=editor&pti=cpi24&uuid=bf87625f-6ff8-45bc-ace6-4d6927ae89f3&url=https%3A%2F%2Fteresaforward12.wixsite.com%2Fteresaforward12&ref=&bot=true&bl=en-US&pl=en-US%2Cen&_=16344941925204
+POST: https://frog.wix.com/bolt-performance
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=33&event_name=page%20interactive&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=1b158017-3cc4-4393-8bbf-281511cea62e&pid=cpi24&pn=1&rid=1634238292.527116280942721782&sar=1536x824&sessionId=3dd75f96-da43-4302-8e29-29adbfd8bb14&siterev=346-__siteCacheRevision__&sr=1536x864&st=2&ts=993&tts=999&url=https%3A%2F%2Fteresaforward12.wixsite.com%2Fteresaforward12&v=1.8115.0&vid=bdda7d69-3cb5-4375-835a-3d291e4c2ee5&bsi=d2e846a1-b1a4-476f-bc82-855bb1d1b138|1&vsi=1fcce12e-8223-429a-a934-c8b704d04b28&wor=1294x779&wr=1283x689&_brandId=wix
+POST: https://frog.wix.com/bpm
+POST: https://frog.wix.com/bpm
+
+
+---
+Terry Wong 17-10-2021 12-06-40.json
+Num of entries = 115
+7 sites outside the host:
+- frog.wix.com, 4 entries: 2 8 36 39 
+- static.parastorage.com, 67 entries: 3 6 9 17 19 20 21 25 29 30 35 37 48 49 50 51 52 54 55 57 58 59 60 61 62 63 64 65 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 99 100 101 102 103 104 107 108 
+- siteassets.parastorage.com, 3 entries: 4 5 7 
+- fonts.gstatic.com, 2 entries: 10 38 
+- static.wixstatic.com, 25 entries: 11 12 13 14 15 16 18 22 23 24 26 27 28 31 34 40 41 42 43 44 45 46 47 105 106 
+- video.wixstatic.com, 2 entries: 53 56 
+- frog.editorx.com, 6 entries: 109 110 111 112 113 114 
+Total number of requests to external sites: 109 out of 115
+Number of POST Requests made: 10 out of 115
+POST: https://frog.wix.com/bolt-performance?src=72&evid=21&appName=thunderbolt-responsive&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=3e575bc3-074a-41cf-991c-f040f14a2334&session_id=03c3afaf-33e6-4a54-9170-14c4b2be3cb0&ish=1&vsi=43d01651-0e0a-4098-87d1-ffeed0c933a4&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.terrywong.ca/&st=2&ts=48&tsn=54
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=1&event_name=Init&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=3e575bc3-074a-41cf-991c-f040f14a2334&pn=1&sessionId=03c3afaf-33e6-4a54-9170-14c4b2be3cb0&siterev=1761-__siteCacheRevision__&st=2&ts=54&tts=60&url=https%3A%2F%2Fwww.terrywong.ca%2F%3F&v=1.8115.0&vsi=43d01651-0e0a-4098-87d1-ffeed0c933a4&_brandId=editorx
+POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,hit&dc=96&et=12&event_name=Partially%20visible&is_cached=true&is_platform_loaded=0&is_rollout=0&ism=1&isp=0&isjp=true&iss=0&ita=1&msid=3e575bc3-074a-41cf-991c-f040f14a2334&pid=c1dmp&pn=1&sessionId=03c3afaf-33e6-4a54-9170-14c4b2be3cb0&siterev=1761-__siteCacheRevision__&st=2&ts=201&tts=207&url=https%3A%2F%2Fwww.terrywong.ca%2F%3F&v=1.8115.0&vsi=43d01651-0e0a-4098-87d1-ffeed0c933a4&_brandId=editorx
+POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt-responsive&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=3e575bc3-074a-41cf-991c-f040f14a2334&session_id=03c3afaf-33e6-4a54-9170-14c4b2be3cb0&ish=1&vsi=43d01651-0e0a-4098-87d1-ffeed0c933a4&caching=hit,hit&pv=visible&v=1.8115.0&url=https://www.terrywong.ca/&st=2&name=partially_visible&duration=1634493997745
+POST: https://frog.editorx.com/bpm
+POST: https://frog.editorx.com/bpm
+POST: https://frog.editorx.com/bolt-performance
+POST: https://frog.editorx.com/bolt-performance
+POST: https://frog.editorx.com/site-members?_msid=3e575bc3-074a-41cf-991c-f040f14a2334&vsi=43d01651-0e0a-4098-87d1-ffeed0c933a4&rid=1634403083.7472883266162922890&_av=thunderbolt-1.8115.0&isb=true&isbr=webdriver&_brandId=editorx&_siteBranchId=undefined&_ms=701&_lv=2.0.1000&_visitorId=23cb758e-ff27-4b5a-8127-790b6da0bfee&_siteMemberId=undefined&bsi=b48403bc-3cb4-428b-820b-dcc183317b41%7C1&src=5&evid=698&biToken=3e575bc3-074a-41cf-991c-f040f14a2334&context=undefined&ts=696&viewmode=undefined&visitor_id=23cb758e-ff27-4b5a-8127-790b6da0bfee&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16344939982910
+POST: https://frog.editorx.com/bolt-performance
+
+
+---
+Theo van Besouw 17-10-2021 12-02-53.json
+Num of entries = 60
+4 sites outside the host:
+- fonts.googleapis.com, 1 entries: 2 
+- www.googletagmanager.com, 1 entries: 3 
+- secureservercdn.net, 50 entries: 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 56 57 58 59 
+- fonts.gstatic.com, 6 entries: 50 51 52 53 54 55 
+Total number of requests to external sites: 58 out of 60
+Number of POST Requests made: 0 out of 60
+
+
+---
+Tom Antonick 17-10-2021 12-01-41.json
+Num of entries = 39
+3 sites outside the host:
+- www.googletagmanager.com, 1 entries: 3 
+- img1.wsimg.com, 32 entries: 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 
+- img6.wsimg.com, 1 entries: 37 
+Total number of requests to external sites: 34 out of 39
+Number of POST Requests made: 0 out of 39
+
+
+---
+Tony Dinh 17-10-2021 12-08-22.json
+Num of entries = 75
+6 sites outside the host:
+- fonts.googleapis.com, 1 entries: 2 
+- www.googletagmanager.com, 2 entries: 31 49 
+- fonts.gstatic.com, 7 entries: 32 39 40 41 42 43 44 
+- www.google-analytics.com, 3 entries: 69 70 73 
+- connect.facebook.net, 2 entries: 71 72 
+- www.facebook.com, 1 entries: 74 
+Total number of requests to external sites: 16 out of 75
+Number of POST Requests made: 2 out of 75
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-M923DH1RJQ&gtm=2oead0&_p=2104143115&sr=1536x864&ul=en-us&cid=537374451.1634494101&_s=1&dl=https%3A%2F%2Ftonydinhward10.com%2F&dt=Home%20-%20Tony%20Dinh%20for%20City%20Councillor%20Ward%2010%20%7C%20Calgary%20Municipal%20Elections&sid=1634494101&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=2104143115&t=pageview&_s=1&dl=https%3A%2F%2Ftonydinhward10.com%2F&ul=en-us&de=UTF-8&dt=Home%20-%20Tony%20Dinh%20for%20City%20Councillor%20Ward%2010%20%7C%20Calgary%20Municipal%20Elections&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YADAAEABAAAAAC~&jid=1546395400&gjid=1802262239&cid=537374451.1634494101&tid=UA-205050482-1&_gid=1876965395.1634494102&_r=1&gtm=2wgad0T2PVQMP&z=1215669181
+
+
+---
+Tudor Dinca 17-10-2021 12-04-45.json
+Num of entries = 54
+3 sites outside the host:
+- fonts.googleapis.com, 1 entries: 2 
+- use.fontawesome.com, 3 entries: 3 4 52 
+- fonts.gstatic.com, 2 entries: 50 51 
+Total number of requests to external sites: 6 out of 54
+Number of POST Requests made: 0 out of 54
+
+
+---
+Vance Bertram 17-10-2021 12-08-48.json
+Num of entries = 54
+14 sites outside the host:
+- budthurlow.com, 2 entries: 1 2 
+- ajax.googleapis.com, 1 entries: 4 
+- d3n8a8pro7vhmx.cloudfront.net, 11 entries: 5 7 31 32 33 34 35 36 37 38 46 
+- fonts.googleapis.com, 1 entries: 6 
+- cdnjs.cloudflare.com, 2 entries: 8 10 
+- polyfill.io, 1 entries: 9 
+- votevance.nationbuilder.com, 20 entries: 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+- apis.google.com, 2 entries: 39 43 
+- fonts.gstatic.com, 3 entries: 40 41 42 
+- platform.twitter.com, 2 entries: 44 48 
+- connect.facebook.net, 2 entries: 45 47 
+- www.facebook.com, 1 entries: 49 
+- syndication.twitter.com, 1 entries: 50 
+- ssl.google-analytics.com, 3 entries: 51 52 53 
+Total number of requests to external sites: 52 out of 54
+Number of POST Requests made: 0 out of 54
+
+
+---
+Yogi Henderson 17-10-2021 12-07-03.json
+Num of entries = 41
+3 sites outside the host:
+- www.google-analytics.com, 1 entries: 1 
+- img1.wsimg.com, 35 entries: 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 
+- img6.wsimg.com, 1 entries: 39 
+Total number of requests to external sites: 37 out of 41
+Number of POST Requests made: 1 out of 41
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-8NZX5KV71J&gtm=2oead0&_p=723740055&sr=1536x864&ul=en-us&cid=387460473.1634494015&_s=2&dl=https%3A%2F%2Fwww.garybobrovitz.ca%2F&dt=Gary%20Bobrovitz%20Campaign&sid=1634494015&sct=1&seg=0&en=user_engagement&_et=4358
+
+
+Analysis session ended 29/11/2021, 14:32:28

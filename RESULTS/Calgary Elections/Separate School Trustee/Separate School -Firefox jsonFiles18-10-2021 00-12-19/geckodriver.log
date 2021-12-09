@@ -1,0 +1,28 @@
+1634537539854	geckodriver	INFO	Listening on 127.0.0.1:61296
+1634537542903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TL\\AppData\\Local\\Temp\\rust_mozprofile4Nmyk8"
+1634537543275	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TL\\AppData\\Local\\Temp\\rust_mozprofile4Nmyk8\\search.json.mozlz4", (void 0)))
+1634537545081	Marionette	INFO	Listening on port 61308
+1634537545119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.myra4trustee.com/, line 63: ChunkLoadError: Loading chunk 7607 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/platformPubsub.44f6df59.chunk.min.js)
+JavaScript error: https://www.myra4trustee.com/, line 63: ChunkLoadError: Loading chunk 1220 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/santa-langs-en.829dd731.chunk.min.js)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Unable to read VR Path Registry from C:\Users\TL\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1634537644611	Marionette	INFO	Stopped listening on port 61308
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

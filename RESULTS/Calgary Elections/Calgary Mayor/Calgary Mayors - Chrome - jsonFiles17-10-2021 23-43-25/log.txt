@@ -1,0 +1,27 @@
+Session started, Browser = Chrome, Time = 17/10/2021, 23:43:25
+17/10/2021, 23:43:34: Ian Chiang http://ianchiang.com 3.146 seconds 
+17/10/2021, 23:43:38: Jan Damery http://jandamery.com 12.669 seconds 
+17/10/2021, 23:43:51: Jeff Davison http://jeffdavisonyyc.com 12.388 seconds 
+17/10/2021, 23:44:05: James Desautels http://jamesdesautels.com 3.142 seconds 
+17/10/2021, 23:44:09: Jeromy Farkas http://jeromy.ca 6.531 seconds 
+17/10/2021, 23:44:16: Brad Field http://votebradfield.ca 5.891 seconds 
+17/10/2021, 23:44:23: Emile Gabriel http://emile4calgarymayor.com 5.735 seconds 
+17/10/2021, 23:44:30: Jyoti Gondek http://jyotigondek.ca 8.196 seconds 
+17/10/2021, 23:44:39: Paul Michael Hallelujah http://hallelujah.news 4.955 seconds 
+17/10/2021, 23:44:44: Zac Hartley http://zacformayor.com 3.398 seconds 
+17/10/2021, 23:44:49: Larry Heather http://larryforcalgary.co 0.411 seconds 
+17/10/2021, 23:44:50: Dean Hopkins http://deanhopkinsyyc.ca/ 16.389 seconds 
+17/10/2021, 23:45:07: Kevin J. Johnston http://CalgaryMayor.co 4.003 seconds 
+17/10/2021, 23:45:12: Randall Kaiser http://youtube.com/channel/UCEy2Ie9q8jsBqTQ0BJHplbA 2.431 seconds 
+17/10/2021, 23:45:15: Zaheed Ali Khan http://mayorelectkhan.business.blog 9.859 seconds 
+17/10/2021, 23:45:26: Zane Novak http://zane4mayor.ca 2.074 seconds 
+17/10/2021, 23:45:29: Teddy Ogbonna http://teddy4calgary.ca 7.048 seconds 
+17/10/2021, 23:45:37: Mizanur Rahman http://mizanurrahman.ca 8.557 seconds 
+17/10/2021, 23:45:46: Geoff Rainey http://cleanslatecalgary.ca 3.766 seconds 
+17/10/2021, 23:45:51: Adam Roberts http://adamroberts.ca 1.408 seconds 
+17/10/2021, 23:45:53: Virginia Stone http://virginia4mayor.com 8.016 seconds 
+17/10/2021, 23:46:02: Will Vizor http://WillVizorformayor.com 1.756 seconds 
+17/10/2021, 23:46:05: Shaoli Wang http://shaoliw.com 3.070 seconds 
+17/10/2021, 23:46:09: Grace Yan http://graceyanformayor.com 8.658 seconds 
+Session ended at 17/10/2021, 23:46:18
+

@@ -1,0 +1,182 @@
+1634493678240	geckodriver	INFO	Listening on 127.0.0.1:52469
+1634493681282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TL\\AppData\\Local\\Temp\\rust_mozprofileKlERKD"
+1634493681620	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TL\\AppData\\Local\\Temp\\rust_mozprofileKlERKD\\search.json.mozlz4", (void 0)))
+1634493683575	Marionette	INFO	Listening on port 52479
+1634493683955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.blatchward1.ca/, line 63: ChunkLoadError: Loading chunk 1220 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/santa-langs-en.829dd731.chunk.min.js)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\TL\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.shaunasears.com/, line 63: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.d679913d.chunk.min.js)
+JavaScript error: https://www.shaunasears.com/, line 63: ChunkLoadError: Loading chunk 66 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.d679913d.chunk.min.js)
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.kimtyers.com/, line 63: ChunkLoadError: Loading chunk 1220 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/santa-langs-en.829dd731.chunk.min.js)
+JavaScript error: https://www.kimtyers.com/, line 63: ChunkLoadError: Loading chunk 4471 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/activePopup.b727980a.chunk.min.js)
+JavaScript error: https://www.kimtyers.com/, line 63: ChunkLoadError: Loading chunk 5921 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.8f326e66.chunk.min.js)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://www.kumarsharma.ca/wp-content/plugins/wd-facebook-feed/js/ffwd_frontend.js?ver=1.2.1, line 77: unreachable code after return statement
+1634493848660	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: , line 0: WebGL warning: checkFramebufferStatus: Using format enabled by implicitly enabled extension: WEBGL_color_buffer_float. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: Using format enabled by implicitly enabled extension: WEBGL_color_buffer_float. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: Using format enabled by implicitly enabled extension: WEBGL_color_buffer_float. For maximal portability enable it explicitly.
+JavaScript error: , line 0: uncaught exception: Object
+[Child 3532, MediaDecoderStateMachine #1] WARNING: 2586d6fef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.sanjeevkad.ca/, line 126: SyntaxError: expected expression, got ';'
+JavaScript error: https://www.richard4ward6.com/, line 63: ChunkLoadError: Loading chunk 5921 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.8f326e66.chunk.min.js)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://proxy.liveweb.io/generator, line 1: ReferenceError: adapter is not defined
+JavaScript error: https://proxy.liveweb.io/generator, line 1: TypeError: t is undefined
+[Child 17076, MediaDecoderStateMachine #1] WARNING: 27b3e010ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17076, MediaDecoderStateMachine #1] WARNING: 27b3c2d83c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17076, MediaDecoderStateMachine #1] WARNING: 27b3c2d83c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 17076, MediaDecoderStateMachine #1] WARNING: 27b3c2d84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://garybobrovitz.nationbuilder.com/themes/1/611aefbec294803c8b8ebaa7/0/attachments/16291556461634188354/default/theme.js, line 682: ReferenceError: ImgCropper is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.courtneywalcott.com/, line 84: unreachable code after return statement
+JavaScript warning: https://www.courtneywalcott.com/, line 97: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.masseyyc.ca/, line 63: ChunkLoadError: Loading chunk 4698 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/headerPlaceholderHeight.eed006f5.chunk.min.js)
+JavaScript error: https://www.masseyyc.ca/, line 63: ChunkLoadError: Loading chunk 5921 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.8f326e66.chunk.min.js)
+JavaScript error: https://www.masseyyc.ca/, line 63: ChunkLoadError: Loading chunk 2553 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/pageAnchors.f75ca73c.chunk.min.js)
+JavaScript error: https://www.masseyyc.ca/_partials/wix-thunderbolt/dist/clientWorker.2c3e246d.bundle.min.js, line 2: ChunkLoadError: Loading chunk 4698 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/headerPlaceholderHeight.eed006f5.chunk.min.js)
+[Parent 13168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://www.ward9calgary.com/, line 876: ReferenceError: FB is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://tonydinhward10.com/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=1.3, line 11: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1634323899, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1634323899, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1628186672, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1628186672, line 4: unreachable code after return statement
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.stevenphan.ca/, line 231: TypeError: document.body is null
+JavaScript error: https://www.evanspencer.ca/, line 728: ReferenceError: FB is not defined
+JavaScript error: https://votediane.ca/wp-content/plugins/ultimate-carousel-for-visual-composer-pro/js/jquery.fancybox.min.js?ver=d50b1b7d0eb29c2875f2b67062480000, line 13: TypeError: n.fancybox.getInstance is not a function
+JavaScript error: https://votediane.ca/wp-content/plugins/ultimate-carousel-for-visual-composer-pro/js/jquery.fancybox.min.js?ver=d50b1b7d0eb29c2875f2b67062480000, line 12: TypeError: e.fancybox.getInstance is not a function
+JavaScript error: https://www.danmclean.ca/wp-includes/js/wp-emoji-release.min.js?ver=4.9.18, line 4: TypeError: MutationObserver.observe: Argument 1 is not an object.
+1634494229641	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.hintonward14.com/, line 63: ChunkLoadError: Loading chunk 4766 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/animations-vendors.64324369.chunk.min.js)
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1634494264409	Marionette	INFO	Stopped listening on port 52479
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

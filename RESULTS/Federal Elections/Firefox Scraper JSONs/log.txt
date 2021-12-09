@@ -1,0 +1,9 @@
+Session started, Browser = Firefox, Time = 20/09/2021, 00:23:17
+20/09/2021, 00:23:28: Bloc Quebecois http://www.blocquebecois.org 10.145 seconds 
+20/09/2021, 00:23:39: Conservative Party of Canada http://www.conservative.ca 7.807 seconds 
+20/09/2021, 00:23:47: Green Party of Canada http://www.greenparty.ca 8.142 seconds 
+20/09/2021, 00:23:56: Liberal Party of Canada http://www.liberal.ca 17.634 seconds 
+20/09/2021, 00:24:14: New Democratic Party http://www.ndp.ca 11.906 seconds 
+20/09/2021, 00:24:26: People's Party of Canada https://www.peoplespartyofcanada.ca/ 7.711 seconds 
+Session ended at 20/09/2021, 00:24:35
+

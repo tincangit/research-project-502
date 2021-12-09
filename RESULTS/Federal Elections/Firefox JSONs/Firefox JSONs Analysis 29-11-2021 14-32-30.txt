@@ -1,0 +1,160 @@
+Analysis session started for C:\Users\TL\PycharmProjects\researchProj\jsonsToAnalyze\Federal Elections, 29/11/2021, 14:32:30
+---
+liberal.ca_Archive [21-09-18 16-23-13].json
+Num of entries = 97
+24 sites outside the host:
+- bat.bing.com, 4 entries: 1 53 63 64 
+- www.youtube.com, 16 entries: 2 28 45 46 47 48 50 51 58 60 61 62 77 81 91 96 
+- fonts.googleapis.com, 2 entries: 3 4 
+- s31184.pcdn.co, 34 entries: 5 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21 22 23 24 25 26 27 29 30 31 32 33 34 35 39 40 43 74 75 
+- lpchosting.com, 1 entries: 17 
+- fonts.gstatic.com, 7 entries: 36 37 38 41 42 49 59 
+- www.googletagmanager.com, 1 entries: 44 
+- pixel-a.basis.net, 2 entries: 52 55 
+- www.google.com, 3 entries: 54 78 83 
+- 7200944.collect.igodigital.com, 1 entries: 57 
+- pixel.sitescout.com, 4 entries: 65 67 73 90 
+- nova.collect.igodigital.com, 1 entries: 66 
+- static.ads-twitter.com, 1 entries: 68 
+- connect.facebook.net, 2 entries: 69 87 
+- script.crazyegg.com, 1 entries: 70 
+- www.google-analytics.com, 4 entries: 71 89 92 94 
+- googleads.g.doubleclick.net, 3 entries: 72 76 85 
+- i.ytimg.com, 1 entries: 79 
+- yt3.ggpht.com, 1 entries: 80 
+- t.co, 1 entries: 82 
+- www.google.ca, 1 entries: 84 
+- static.doubleclick.net, 1 entries: 86 
+- analytics.twitter.com, 1 entries: 88 
+- www.facebook.com, 2 entries: 93 95 
+Total number of requests to external sites: 95 out of 97
+Number of POST Requests made: 4 out of 97
+POST: https://bat.bing.com/actionp/0?ti=5065809&tm=gtm002&Ver=2&mid=8f8548bd-6f17-4737-9a80-a6ea55b53ff5&sid=f96c90a018ce11ec8e2597e499186bc3&vid=f96c9cc018ce11ecb9d0dbc0babd0cbc&vids=1&evt=pageHide
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=Iv2e_Ad5ADqI95qI&docid=7lymaXqMttE&ver=2&cmt=0&fs=0&rt=0&euri=https%3A%2F%2Fliberal.ca%2F&lact=704&cl=397162147&mos=0&volume=100&cbr=Firefox&cbrver=92.0&c=WEB_EMBEDDED_PLAYER&cver=1.20210915.1.2&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=CA&len=59&fexp=23858057%2C23983296%2C24001373%2C24002022%2C24002025%2C24002923%2C24004644%2C24004785%2C24007246%2C24080738%2C24082662%2C24096481&muted=0&vis=3
+POST: https://www.facebook.com/tr/
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+www.blocquebecois.org_Archive [21-09-18 16-22-36].json
+Num of entries = 226
+4 sites outside the host:
+- use.fontawesome.com, 2 entries: 28 68 
+- cdnjs.cloudflare.com, 2 entries: 29 67 
+- connect.facebook.net, 1 entries: 72 
+- www.facebook.com, 1 entries: 77 
+Total number of requests to external sites: 6 out of 226
+Number of POST Requests made: 0 out of 226
+
+
+---
+www.conservative.ca_Archive [21-09-18 16-25-53].json
+Num of entries = 124
+21 sites outside the host:
+- www.youtube.com, 18 entries: 1 18 23 24 25 26 64 68 73 83 103 104 105 106 112 116 119 123 
+- www.facebook.com, 9 entries: 2 19 20 101 109 110 120 121 122 
+- cpc-assets.conservative.ca, 41 entries: 3 4 5 6 7 8 12 13 14 16 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 55 56 57 59 60 
+- fonts.googleapis.com, 2 entries: 9 82 
+- use.typekit.net, 2 entries: 10 11 
+- cpcassets.conservative.ca, 7 entries: 15 69 70 78 79 84 85 
+- p.typekit.net, 2 entries: 21 22 
+- code.jquery.com, 2 entries: 54 75 
+- fonts.gstatic.com, 12 entries: 58 61 62 92 93 94 95 96 97 98 99 107 
+- googleads.g.doubleclick.net, 4 entries: 63 71 111 117 
+- www.google.com, 2 entries: 65 113 
+- i.ytimg.com, 2 entries: 66 114 
+- yt3.ggpht.com, 2 entries: 67 115 
+- static.doubleclick.net, 2 entries: 72 118 
+- www.googletagmanager.com, 1 entries: 74 
+- connect.facebook.net, 4 entries: 76 87 102 108 
+- ajax.googleapis.com, 1 entries: 77 
+- js.adsrvr.org, 2 entries: 80 81 
+- insight.adsrvr.org, 2 entries: 86 89 
+- www.google-analytics.com, 2 entries: 88 100 
+- match.adsrvr.org, 2 entries: 90 91 
+Total number of requests to external sites: 121 out of 124
+Number of POST Requests made: 8 out of 124
+POST: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=AWR0ECf4CqEPKyst&docid=bP95jGFpGGg&ver=2&cmt=0&fs=0&rt=0&euri=https%3A%2F%2Fwww.conservative.ca%2F&lact=1287&cl=397162147&mos=0&volume=100&cbr=Firefox&cbrver=92.0&c=WEB_EMBEDDED_PLAYER&cver=1.20210915.1.2&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=CA&len=30&fexp=23858057%2C23983296%2C24001373%2C24002022%2C24002025%2C24002922%2C24004644%2C24004785%2C24007246%2C24046641%2C24080738%2C24082662%2C24096481%2C24101842&muted=0&vis=3
+POST: https://www.facebook.com/tr/
+POST: https://www.facebook.com/tr/
+POST: https://www.facebook.com/tr/
+POST: https://www.facebook.com/tr/
+POST: https://www.facebook.com/tr/
+POST: https://www.facebook.com/tr/
+POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+
+
+---
+www.greenparty.ca_Archive [21-09-18 16-24-14].json
+Num of entries = 39
+5 sites outside the host:
+- connect.facebook.net, 4 entries: 26 28 34 35 
+- www.google-analytics.com, 3 entries: 27 31 32 
+- platform.twitter.com, 2 entries: 29 33 
+- syndication.twitter.com, 1 entries: 36 
+- www.facebook.com, 2 entries: 37 38 
+Total number of requests to external sites: 12 out of 39
+Number of POST Requests made: 2 out of 39
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&aip=1&a=1014869730&t=pageview&_s=1&dl=https%3A%2F%2Fwww.greenparty.ca%2Fen&ul=en-us&de=UTF-8&dt=Green%20Party%20of%20Canada%20%7C&sd=24-bit&sr=1536x864&vp=1266x438&je=0&_u=QACAAAABAAAAAC~&jid=&gjid=&cid=2122717128.1632003819&tid=UA-1403066-1&_gid=988597042.1632003819&_slc=1&cd1=anonymous%20user&z=736750874
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1014869730&t=pageview&_s=1&dl=https%3A%2F%2Fwww.greenparty.ca%2Fen&ul=en-us&de=UTF-8&dt=Green%20Party%20of%20Canada%20%7C&sd=24-bit&sr=1536x864&vp=1266x438&je=0&_u=QACAAAABAAAAAC~&jid=&gjid=&cid=2122717128.1632003819&tid=UA-1403066-28&_gid=988597042.1632003819&_slc=1&z=90135813
+
+
+---
+www.ndp.ca_Archive [21-09-18 16-25-12].json
+Num of entries = 62
+16 sites outside the host:
+- fonts.googleapis.com, 1 entries: 1 
+- kit.fontawesome.com, 1 entries: 2 
+- maxcdn.bootstrapcdn.com, 2 entries: 3 31 
+- www.googleadservices.com, 1 entries: 8 
+- ka-f.fontawesome.com, 5 entries: 9 10 11 30 33 
+- www.google-analytics.com, 7 entries: 12 38 42 44 46 54 61 
+- apis.google.com, 1 entries: 15 
+- fonts.gstatic.com, 6 entries: 23 25 26 27 28 29 
+- www.googletagmanager.com, 2 entries: 24 34 
+- sc-static.net, 2 entries: 35 36 
+- tr.snapchat.com, 1 entries: 37 
+- platform.twitter.com, 2 entries: 39 45 
+- connect.facebook.net, 6 entries: 40 41 47 48 53 56 
+- syndication.twitter.com, 1 entries: 49 
+- s3.amazonaws.com, 2 entries: 50 51 
+- www.facebook.com, 6 entries: 52 55 57 58 59 60 
+Total number of requests to external sites: 46 out of 62
+Number of POST Requests made: 4 out of 62
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-97QLYMLC56&gtm=2oe9f0&_p=855549007&sr=1536x864&ul=en-us&cid=1818403796.1632003885&dl=https%3A%2F%2Fwww.ndp.ca%2F&dt=Canada%27s%20NDP&sid=1632003884&sct=1&seg=1&_s=1
+POST: https://tr.snapchat.com/p
+POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1086233486&t=pageview&_s=1&dl=https%3A%2F%2Fwww.ndp.ca%2F&ul=en-us&de=UTF-8&dt=Canada%27s%20NDP&sd=24-bit&sr=1536x864&vp=1266x438&je=0&_u=AACAAEADQAAAAC~&jid=&gjid=&cid=1818403796.1632003885&tid=UA-30109525-1&_gid=1908187543.1632003885&_slc=1&z=2088553065
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-97QLYMLC56&gtm=2oe9f0&_p=1086233486&sr=1536x864&ul=en-us&cid=1818403796.1632003885&dl=https%3A%2F%2Fwww.ndp.ca%2F&dt=Canada%27s%20NDP&sid=1632003884&sct=1&seg=1&_s=1
+
+
+---
+www.peoplespartyofcanada.ca_Archive [21-09-18 16-26-36].json
+Num of entries = 69
+19 sites outside the host:
+- maximebernier.nationbuilder.com, 12 entries: 1 2 3 6 7 8 9 12 13 14 26 27 
+- ajax.googleapis.com, 1 entries: 4 
+- d3n8a8pro7vhmx.cloudfront.net, 11 entries: 5 10 19 20 21 23 24 25 39 40 58 
+- kit.fontawesome.com, 1 entries: 11 
+- s7.addthis.com, 4 entries: 15 37 38 60 
+- m.addthis.com, 2 entries: 16 56 
+- fonts.googleapis.com, 1 entries: 17 
+- apis.google.com, 2 entries: 18 41 
+- www.googletagmanager.com, 2 entries: 22 42 
+- fonts.gstatic.com, 10 entries: 28 29 30 31 32 45 46 47 48 49 
+- ka-f.fontawesome.com, 5 entries: 33 34 35 43 44 
+- www.google-analytics.com, 4 entries: 36 57 59 68 
+- platform.twitter.com, 2 entries: 50 61 
+- ssl.google-analytics.com, 2 entries: 51 63 
+- connect.facebook.net, 4 entries: 52 53 62 64 
+- z.moatads.com, 1 entries: 54 
+- v1.addthisedge.com, 1 entries: 55 
+- syndication.twitter.com, 1 entries: 65 
+- www.facebook.com, 2 entries: 66 67 
+Total number of requests to external sites: 68 out of 69
+Number of POST Requests made: 3 out of 69
+POST: https://m.addthis.com/live/red_lojson/100eng.json?sh=0&ph=2563&ivh=689&dt=6310&pdt=209&ict=&pct=0&perf=widget%7C209%7C186%2Clojson%7C660%7C166%2Csh%7C663%7C36&rndr=render_toolbox%7C753&cmenu=null&ppd=0&ppl=0&fbe=&xmv=0&xms=0&xmlc=0&jsfw=jquery%2Cgoogleanalytics%2Cfacebook&jsfwv=jquery-3.4.0%2Cgoogleanalytics-ga.js%2Cfacebook-unk&al=men&scr=0&scv=0&apiu=1&ba=3&sid=614667847ee7ccff&rev=v8.28.8-wp&pub=ra-603933391e00bb49&dp=www.peoplespartyofcanada.ca&fp=&pfm=0&icns=
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-GNV7V8CQ6V&gtm=2oe9f0&_p=1588826587&sr=1536x864&ul=en-us&cid=689828172.1632003973&_s=1&dl=https%3A%2F%2Fwww.peoplespartyofcanada.ca%2F&dt=People%27s%20Party%20of%20Canada&sid=1632003979&sct=1&seg=0&en=user_engagement&_fv=1&_ss=1
+POST: https://www.google-analytics.com/g/collect?v=2&tid=G-GNV7V8CQ6V&gtm=2oe9f0&_p=1710696476&sr=1536x864&ul=en-us&cid=689828172.1632003973&_s=1&dl=https%3A%2F%2Fwww.peoplespartyofcanada.ca%2F&dt=People%27s%20Party%20of%20Canada&sid=1632003979&sct=1&seg=0&en=scroll&epn.percent_scrolled=90
+
+
+Analysis session ended 29/11/2021, 14:32:31

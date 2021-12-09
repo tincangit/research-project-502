@@ -1,0 +1,12 @@
+Session started, Browser = Firefox, Time = 16/10/2021, 22:37:46
+16/10/2021, 22:37:58: Zane Novak http://zane4mayor.ca 12.958 seconds 
+16/10/2021, 22:38:11: Teddy Ogbonna http://teddy4calgary.ca 6.154 seconds 
+16/10/2021, 22:38:18: Mizanur Rahman http://mizanurrahman.ca 8.580 seconds 
+16/10/2021, 22:38:27: Geoff Rainey http://cleanslatecalgary.ca 5.424 seconds 
+16/10/2021, 22:38:33: Adam Roberts http://adamroberts.ca 2.153 seconds 
+16/10/2021, 22:38:35: Virginia Stone http://virginia4mayor.com 9.161 seconds 
+16/10/2021, 22:38:45: Will Vizor http://WillVizorformayor.com 3.177 seconds 
+16/10/2021, 22:38:49: Shaoli Wang http://shaoliw.com 4.166 seconds 
+16/10/2021, 22:38:53: Grace Yan http://graceyanformayor.com 9.695 seconds 
+Session ended at 16/10/2021, 22:39:03
+
