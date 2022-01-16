@@ -1,0 +1,30 @@
+Candidate - Website,# of entries,# of sites outside the host,# of Tracking sites,Tracking sites urls,# of POST requests,# of potential tracking pixels
+Adam Dossa - http://takebackthecbe.org/,11,0,0,,0,0
+Allan To - http://electallanto.com/,66,5,0,,5,0
+Althea Adams - http://altheaadams.ca/,45,3,2,google.com&&gstatic.com&&,0,0
+Baldev Kaur Tamber - http://baldevtambercalgary.ca/,46,2,0,,0,0
+Barbara La Pointe - http://vote4barbara.ca/,44,2,0,,0,0
+Carter Thomson - http://carterthomson.com/,21,6,2,gstatic.com&&fonts.googleapis.com&&,1,0
+Charlene May - http://charlenemay2021.com/,36,5,0,,4,0
+Cheryl Munson - http://cheryl4publictrustee.ca/,31,11,1,fonts.googleapis.com&&,0,0
+Christa Harris - http://christaharris4trustee.com/,18,5,1,fonts.googleapis.com&&,1,0
+Claudia Fuentes - http://takebackthecbe.ca/,25,6,2,fonts.googleapis.com&&unpkg.com&&,0,0
+Dana Downey - http://danacares.ca/,47,4,0,,0,0
+Dar Zuch - http://together.forastrongeralberta.ca/,24,9,3,youtube.com&&google.com&&gstatic.com&&,0,0
+David Barrett - http://db4cbe.ca/,189,16,4,fonts.googleapis.com&&google.com&&gstatic.com&&youtube.com&&,12,0
+Hilary Sellen - https://takebackthecbe.ca/,23,5,2,fonts.googleapis.com&&unpkg.com&&,0,0
+Humaira Falak - http://humairafalak4trustee.com/,93,4,2,fonts.googleapis.com&&google.com&&,1,0
+Jay Chowdhury - http://ourstudentsourfuture.ca/,49,2,0,,1,0
+Laura Hack - http://laurahack.ca/,31,2,1,fonts.googleapis.com&&,0,0
+Malik Ashraf - http://malikashraf.com/,79,3,1,fonts.googleapis.com&&,0,0
+Marilyn Dennis - http://marilyndennis.org/,20,3,1,fonts.googleapis.com&&,0,0
+Maxx Lapthorne - http://cbetrusteemaxx.com/,77,5,0,,5,0
+Melanie Wen - http://melaniewen.com/,36,3,2,google.com&&gstatic.com&&,1,0
+Monica Truong - http://monicatruong.ca/,38,6,2,fonts.googleapis.com&&ajax.googleapis.com&&,2,0
+Najeeb Butt - http://najeebbutt.com/,10,5,1,fonts.googleapis.com&&,0,0
+Nancy Close - http://nancyclose.ca/,42,8,3,ajax.googleapis.com&&fonts.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&,0,0
+Patricia Bolger - http://patriciabolger4trustee.com/,65,6,0,,6,0
+Shirley Anderson - http://shirleyanderson4cbe.ca/,23,6,2,fonts.googleapis.com&&google-analytics.com&&,3,0
+Stacey Selley - http://staceyselley.ca/,82,6,1,google.com&&,6,0
+Stephen John - http://stephenjohn4trustee.com/,17,2,1,wix.com&&,0,0
+Susan Vukadinovic - http://susanvukadinovic.com/,170,15,2,paypalobjects.com&&fonts.googleapis.com&&,25,0

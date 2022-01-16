@@ -1,9 +1,9 @@
-Analysis session started for C:\Users\TL\PycharmProjects\researchProj\jsonsToAnalyze\Calgary Elections\Separate School Trustee, 29/11/2021, 14:32:30
+Analysis session started for C:\Users\TL\PycharmProjects\researchProj\jsonsToAnalyze\Calgary Elections\Separate School Trustee, 07/01/2022, 14:57:19
 ---
 Addie Corah 18-10-2021 00-13-10.json
 Num of entries = 87
 10 sites outside the host:
-- fonts.googleapis.com, 2 entries: 2 3 
+- fonts.googleapis.com, 2 entries: 2 3  TRACKER
 - apis.google.com, 1 entries: 14 
 - to.getnitropack.com, 2 entries: 17 18 
 - stats.wp.com, 1 entries: 57 
@@ -17,6 +17,9 @@ Total number of requests to external sites: 30 out of 87
 Number of POST Requests made: 2 out of 87
 POST: https://to.getnitropack.com/
 POST: https://to.getnitropack.com/
+Number of requests to known trackers made: 1 out of 87
+fonts.googleapis.com
+Potential tracking pixel entries: 
 
 
 ---
@@ -24,12 +27,12 @@ Blair Pedron Daniels 18-10-2021 00-12-48.json
 Num of entries = 47
 11 sites outside the host:
 - assets.squarespace.com, 7 entries: 2 3 4 5 6 7 10 
-- fonts.googleapis.com, 1 entries: 8 
+- fonts.googleapis.com, 1 entries: 8  TRACKER
 - static1.squarespace.com, 3 entries: 9 11 17 
 - fonts.gstatic.com, 5 entries: 12 13 14 15 36 
-- www.youtube.com, 9 entries: 27 29 32 33 34 37 39 40 45 
+- youtube.com, 9 entries: 27 29 32 33 34 37 39 40 45  TRACKER
 - images.squarespace-cdn.com, 4 entries: 28 30 31 35 
-- www.google.com, 1 entries: 38 
+- google.com, 1 entries: 38  TRACKER
 - yt3.ggpht.com, 1 entries: 41 
 - googleads.g.doubleclick.net, 2 entries: 42 43 
 - i.ytimg.com, 1 entries: 44 
@@ -46,43 +49,54 @@ POST: https://www.blairpedrondaniels.ca/api/census/button-render
 POST: https://www.blairpedrondaniels.ca/api/census/button-render
 POST: https://www.blairpedrondaniels.ca/api/census/button-render
 POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+Number of requests to known trackers made: 3 out of 47
+fonts.googleapis.com
+youtube.com
+google.com
+Potential tracking pixel entries: 
 
 
 ---
 Brian O'Neill 18-10-2021 00-12-52.json
 Num of entries = 58
 14 sites outside the host:
-- fonts.googleapis.com, 3 entries: 3 7 8 
-- www.gstatic.com, 7 entries: 4 6 12 14 21 34 38 
+- fonts.googleapis.com, 3 entries: 3 7 8  TRACKER
+- gstatic.com, 7 entries: 4 6 12 14 21 34 38  TRACKER
 - apis.google.com, 3 entries: 5 9 32 
-- www.youtube.com, 7 entries: 10 42 43 44 45 51 55 
+- youtube.com, 7 entries: 10 42 43 44 45 51 55  TRACKER
 - fonts.gstatic.com, 13 entries: 11 13 15 16 17 20 22 26 27 28 35 41 48 
 - lh3.googleusercontent.com, 7 entries: 18 19 23 24 25 29 33 
 - lh5.googleusercontent.com, 3 entries: 30 31 47 
 - lh4.googleusercontent.com, 4 entries: 37 39 40 50 
 - lh6.googleusercontent.com, 1 entries: 46 
 - googleads.g.doubleclick.net, 2 entries: 49 56 
-- www.google.com, 1 entries: 52 
+- google.com, 1 entries: 52  TRACKER
 - i.ytimg.com, 1 entries: 53 
 - yt3.ggpht.com, 1 entries: 54 
 - static.doubleclick.net, 1 entries: 57 
 Total number of requests to external sites: 54 out of 58
 Number of POST Requests made: 1 out of 58
 POST: https://www.authenticcatholicism.com/_/view/logImpressions?authuser=0
+Number of requests to known trackers made: 4 out of 58
+fonts.googleapis.com
+gstatic.com
+youtube.com
+google.com
+Potential tracking pixel entries: 
 
 
 ---
 Dan Penna 18-10-2021 00-13-32.json
 Num of entries = 34
 9 sites outside the host:
-- www.youtube.com, 13 entries: 1 3 4 5 6 24 25 26 27 28 29 30 33 
-- fonts.googleapis.com, 1 entries: 2 
+- youtube.com, 13 entries: 1 3 4 5 6 24 25 26 27 28 29 30 33  TRACKER
+- fonts.googleapis.com, 1 entries: 2  TRACKER
 - static.web-repository.com, 8 entries: 7 8 10 11 12 18 19 22 
 - content.app-sources.com, 2 entries: 9 32 
 - fonts.gstatic.com, 3 entries: 13 14 15 
 - googleads.g.doubleclick.net, 2 entries: 16 17 
 - static.doubleclick.net, 1 entries: 20 
-- www.google.com, 1 entries: 23 
+- google.com, 1 entries: 23  TRACKER
 - yt3.ggpht.com, 1 entries: 31 
 Total number of requests to external sites: 32 out of 34
 Number of POST Requests made: 4 out of 34
@@ -90,16 +104,24 @@ POST: http://danpenna.ca/hit
 POST: https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
 POST: https://www.youtube.com/api/stats/qoe?event=streamingstats&fmt=134&afmt=251&cpn=hTb_PeqXuRfQ-NFo&ei=ixBtYdjXB4rMkgaw4Yn4Dw&el=embedded&docid=EbzNR6z3Jls&ns=yt&fexp=23983296%2C24001373%2C24002022%2C24002025%2C24002922%2C24004644%2C24007246%2C24064555%2C24080738%2C24082662%2C24101841%2C24106092%2C24116772&cl=402943675&seq=1&cbr=Firefox&cbrver=93.0&c=WEB_EMBEDDED_PLAYER&cver=1.20211013.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.009:B,0.278:B,0.278:B&cmt=0.009:0.000,0.278:0.000&afs=0.278:251::i&vfs=0.278:134:136::r&view=0.278:1100:618:1.25&bwe=0.278:130000&vis=0.278:0&bh=0.278:0.000
 POST: https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+Number of requests to known trackers made: 3 out of 34
+youtube.com
+fonts.googleapis.com
+google.com
+Potential tracking pixel entries: 
 
 
 ---
 Edney Saldanha 18-10-2021 00-12-55.json
 Num of entries = 26
 2 sites outside the host:
-- fonts.googleapis.com, 1 entries: 3 
+- fonts.googleapis.com, 1 entries: 3  TRACKER
 - fonts.gstatic.com, 3 entries: 22 23 24 
 Total number of requests to external sites: 4 out of 26
 Number of POST Requests made: 0 out of 26
+Number of requests to known trackers made: 1 out of 26
+fonts.googleapis.com
+Potential tracking pixel entries: 
 
 
 ---
@@ -111,18 +133,23 @@ Num of entries = 18
 - cdn-dgpcf.nitrocdn.com, 9 entries: 9 10 11 12 13 14 15 16 17 
 Total number of requests to external sites: 16 out of 18
 Number of POST Requests made: 0 out of 18
+Number of requests to known trackers made: 0 out of 18
+Potential tracking pixel entries: 
 
 
 ---
 Joe DeGagne 18-10-2021 00-13-28.json
 Num of entries = 36
 4 sites outside the host:
-- fonts.googleapis.com, 2 entries: 2 3 
+- fonts.googleapis.com, 2 entries: 2 3  TRACKER
 - fonts.gstatic.com, 4 entries: 4 5 6 7 
 - img1.wsimg.com, 25 entries: 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 33 
 - img6.wsimg.com, 1 entries: 34 
 Total number of requests to external sites: 32 out of 36
 Number of POST Requests made: 0 out of 36
+Number of requests to known trackers made: 1 out of 36
+fonts.googleapis.com
+Potential tracking pixel entries: 
 
 
 ---
@@ -131,7 +158,7 @@ Num of entries = 28
 8 sites outside the host:
 - shannoncook.ca, 2 entries: 1 2 
 - stats.wp.com, 1 entries: 5 
-- fonts.googleapis.com, 1 entries: 8 
+- fonts.googleapis.com, 1 entries: 8  TRACKER
 - fonts.gstatic.com, 4 entries: 18 19 20 21 
 - s0.wp.com, 1 entries: 22 
 - pixel.wp.com, 1 entries: 23 
@@ -140,6 +167,9 @@ Num of entries = 28
 Total number of requests to external sites: 13 out of 28
 Number of POST Requests made: 1 out of 28
 POST: https://johndramsay.ca/wp-admin/admin-ajax.php
+Number of requests to known trackers made: 1 out of 28
+fonts.googleapis.com
+Potential tracking pixel entries: 
 
 
 ---
@@ -151,7 +181,7 @@ Num of entries = 37
 - use.typekit.net, 9 entries: 11 12 13 14 15 19 20 21 22 
 - images.squarespace-cdn.com, 5 entries: 23 26 27 28 33 
 - p.typekit.net, 1 entries: 34 
-- www.google-analytics.com, 2 entries: 35 36 
+- google-analytics.com, 2 entries: 35 36  TRACKER
 Total number of requests to external sites: 30 out of 37
 Number of POST Requests made: 5 out of 37
 POST: https://www.lindawellman.com/api/census/RecordHit
@@ -159,29 +189,31 @@ POST: https://www.lindawellman.com/api/census/button-render
 POST: https://www.lindawellman.com/api/widget/GetWidgetRendering
 POST: https://www.lindawellman.com/api/census/button-render
 POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1208701002&t=pageview&_s=1&dl=https%3A%2F%2Fwww.lindawellman.com%2F&ul=en-us&de=UTF-8&dt=Vote%20Linda%20Wellman&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=IEBAAEABAAAAAC~&jid=766606715&gjid=2058391454&cid=883164451.1634537599&tid=UA-208197131-1&_gid=460133292.1634537599&_r=1&_slc=1&z=1280746613
+Number of requests to known trackers made: 1 out of 37
+google-analytics.com
+Potential tracking pixel entries: 
 
 
 ---
 Lory Iovinelli (Acclaimed) 18-10-2021 00-13-46.json
-Num of entries = 25
-9 sites outside the host:
-- loryiovinelli4ccsdtrustee.ca, 6 entries: 4 6 7 11 23 24 
-- vimeo.com, 1 entries: 5 
-- fonts.googleapis.com, 2 entries: 8 9 
-- static.websimages.com, 1 entries: 10 
-- imageprocessor.digital.vistaprint.com, 2 entries: 12 13 
-- cdnjs.cloudflare.com, 1 entries: 14 
-- fonts.gstatic.com, 6 entries: 15 16 17 18 19 20 
-- statscollector.digital.vistaprint.com, 1 entries: 21 
-- static.cloudflareinsights.com, 1 entries: 22 
-Total number of requests to external sites: 21 out of 25
-Number of POST Requests made: 6 out of 25
-POST: https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=bb5c48903a57bd350bab8c223123b294d7c505941634537617
-POST: https://fresnel.vimeocdn.com/add/player-test-impression?beacon=1
-POST: https://fresnel.vimeocdn.com/add/player-stats?beacon=1&session-id=94a89cbf3d7c0c7557d9166fbd96b2856c068ea11634537617
-POST: https://fresnel.vimeocdn.com/add/player-test-impression?beacon=1
+Num of entries = 21
+8 sites outside the host:
+- vimeo.com, 1 entries: 1  TRACKER
+- fonts.googleapis.com, 2 entries: 4 5  TRACKER
+- static.websimages.com, 1 entries: 6 
+- imageprocessor.digital.vistaprint.com, 2 entries: 8 9 
+- cdnjs.cloudflare.com, 1 entries: 10 
+- fonts.gstatic.com, 6 entries: 11 12 13 14 15 16 
+- statscollector.digital.vistaprint.com, 1 entries: 17 
+- static.cloudflareinsights.com, 1 entries: 18 
+Total number of requests to external sites: 15 out of 21
+Number of POST Requests made: 2 out of 21
 POST: https://vimeo.com/ablincoln/vuid?pid=bb5c48903a57bd350bab8c223123b294d7c505941634537617
 POST: https://loryiovinelli4ccsdtrustee.ca/cdn-cgi/rum?
+Number of requests to known trackers made: 2 out of 21
+vimeo.com
+fonts.googleapis.com
+Potential tracking pixel entries: 
 
 
 ---
@@ -202,29 +234,36 @@ POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,
 POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=b5d2f9ce-7701-4b1f-8df1-febb460e90b4&session_id=bcb65ac9-bbbe-4822-96b4-1ff3156179bb&ish=1&vsi=4e53d49e-8491-4393-8899-b853253e00c0&caching=hit,hit&pv=visible&v=1.8133.0&url=https://www.myra4trustee.com/&st=2&name=partially_visible&duration=1634537555557
 POST: https://frog.wix.com/bpm
 POST: https://frog.wix.com/bpm
+Number of requests to known trackers made: 0 out of 66
+Potential tracking pixel entries: 
 
 
 ---
 Oksana Shevchenko 18-10-2021 00-14-04.json
 Num of entries = 58
 8 sites outside the host:
-- ajax.googleapis.com, 2 entries: 4 11 
-- d3n8a8pro7vhmx.cloudfront.net, 6 entries: 5 6 8 15 16 18 
+- ajax.googleapis.com, 2 entries: 4 11  TRACKER
+- d3n8a8pro7vhmx.cloudfront.net, 6 entries: 5 6 8 15 16 18  TRACKER
 - apis.google.com, 2 entries: 10 17 
-- fonts.googleapis.com, 1 entries: 14 
+- fonts.googleapis.com, 1 entries: 14  TRACKER
 - fonts.gstatic.com, 10 entries: 22 23 24 25 26 27 28 29 30 31 
 - platform.twitter.com, 4 entries: 50 51 53 54 
 - syndication.twitter.com, 2 entries: 52 55 
 - connect.facebook.net, 2 entries: 56 57 
 Total number of requests to external sites: 29 out of 58
 Number of POST Requests made: 0 out of 58
+Number of requests to known trackers made: 3 out of 58
+ajax.googleapis.com
+d3n8a8pro7vhmx.cloudfront.net
+fonts.googleapis.com
+Potential tracking pixel entries: 
 
 
 ---
 Pamela Rath 18-10-2021 00-13-41.json
 Num of entries = 57
 9 sites outside the host:
-- fonts.googleapis.com, 1 entries: 3 
+- fonts.googleapis.com, 1 entries: 3  TRACKER
 - fonts.gstatic.com, 2 entries: 5 6 
 - static.websimages.com, 1 entries: 7 
 - imageprocessor.digital.vistaprint.com, 32 entries: 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 26 27 28 29 30 32 33 34 35 36 37 38 39 40 41 
@@ -235,6 +274,9 @@ Num of entries = 57
 - f.vimeocdn.com, 5 entries: 47 48 49 50 51 
 Total number of requests to external sites: 51 out of 57
 Number of POST Requests made: 0 out of 57
+Number of requests to known trackers made: 1 out of 57
+fonts.googleapis.com
+Potential tracking pixel entries: 
 
 
 ---
@@ -253,6 +295,8 @@ POST: https://frog.wix.com/bt?src=29&evid=3&viewer_name=thunderbolt&caching=hit,
 POST: https://frog.wix.com/bolt-performance?src=72&evid=28&appName=thunderbolt&is_rollout=0&is_sav_rollout=0&is_dac_rollout=0&dc=96&is_cached=true&msid=076b2726-315c-48a5-abaf-5e7f82bd743c&session_id=c92a3d07-a53c-4188-baa2-a3fc0dcc0b80&ish=1&vsi=1dfee49a-d4ba-4682-8a28-dca2648fea12&caching=hit,hit&pv=visible&v=1.8133.0&url=https://www.pinalamb.com/&st=2&name=partially_visible&duration=1634537592233
 POST: https://frog.wix.com/site-members?_msid=076b2726-315c-48a5-abaf-5e7f82bd743c&vsi=1dfee49a-d4ba-4682-8a28-dca2648fea12&rid=1634536888.875361608184224965&_av=thunderbolt-1.8133.0&isb=true&isbr=webdriver&_brandId=wix&_siteBranchId=undefined&_ms=707&_lv=2.0.1000&_visitorId=794e6de3-3fe2-4268-9852-53df078cb561&_siteMemberId=undefined&bsi=33df3987-c1cd-41b7-9d18-895e5040b75c%7C1&src=5&evid=698&biToken=076b2726-315c-48a5-abaf-5e7f82bd743c&context=undefined&ts=698&viewmode=undefined&visitor_id=794e6de3-3fe2-4268-9852-53df078cb561&site_member_id=undefined&site_settings_lng=en&browser_lng=en&lng_mismatch=false&layout=undefined&_=16345375927930
 POST: https://frog.wix.com/bolt-performance
+Number of requests to known trackers made: 0 out of 91
+Potential tracking pixel entries: 
 
 
 ---
@@ -263,6 +307,8 @@ Num of entries = 35
 - img6.wsimg.com, 1 entries: 25 
 Total number of requests to external sites: 32 out of 35
 Number of POST Requests made: 0 out of 35
+Number of requests to known trackers made: 0 out of 35
+Potential tracking pixel entries: 
 
 
-Analysis session ended 29/11/2021, 14:32:30
+Analysis session ended 07/01/2022, 14:57:19

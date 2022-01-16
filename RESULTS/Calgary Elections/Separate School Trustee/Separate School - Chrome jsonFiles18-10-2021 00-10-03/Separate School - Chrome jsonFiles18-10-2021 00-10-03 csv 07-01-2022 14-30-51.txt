@@ -1,0 +1,16 @@
+Candidate - Website,# of entries,# of sites outside the host,# of Tracking sites,Tracking sites urls,# of POST requests,# of potential tracking pixels
+Addie Corah - http://addiemosca-corah.ca/,81,10,1,fonts.googleapis.com&&,2,0
+Blair Pedron Daniels - http://blairpedrondaniels.ca/,48,12,4,fonts.googleapis.com&&youtube.com&&google.com&&gstatic.com&&,10,0
+Brian O'Neill - http://authenticcatholicism.com/,55,14,4,gstatic.com&&fonts.googleapis.com&&youtube.com&&google.com&&,1,0
+Dan Penna - http://danpenna.ca/,28,9,3,fonts.googleapis.com&&youtube.com&&google.com&&,2,0
+Edney Saldanha - http://edneysaldanha.ca/,26,2,1,fonts.googleapis.com&&,0,0
+Edward Tse - http://www.edwardtse.com/,48,5,1,googletagmanager.com&&,0,0
+Joe DeGagne - http://joedegagne.ca/,34,5,1,fonts.googleapis.com&&,2,0
+John D. Ramsay - http://johndramsay.ca/,24,6,1,fonts.googleapis.com&&,1,0
+Linda Wellman - http://lindawellman.com/,36,5,1,google-analytics.com&&,5,0
+Lory Iovinelli (Acclaimed) - http://loryiovinelli4ccsdtrustee.ca/,21,8,2,vimeo.com&&fonts.googleapis.com&&,2,0
+Myra D'Souza - http://myra4trustee.com/,41,4,0,,0,0
+Oksana Shevchenko - http://oksana.nationbuilder.com/,55,8,4,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&facebook.com&&fonts.googleapis.com&&,0,0
+Pamela Rath - http://pamelarath.com/,65,11,1,fonts.googleapis.com&&,5,0
+Pina Lamb - http://pinalamb.com/,98,4,0,,7,0
+Shannon Cook - http://shannoncook.ca/,34,2,0,,0,0

@@ -1,0 +1,25 @@
+Candidate - Website,# of entries,# of sites outside the host,# of Tracking sites,Tracking sites urls,# of POST requests,# of potential tracking pixels
+Adam Roberts - http://adamroberts.ca/,36,2,0,,0,0
+Brad Field - http://votebradfield.ca/,24,6,1,google-analytics.com&&,2,0
+Dean Hopkins - http://deanhopkinsyyc.ca/,297,23,9,fonts.googleapis.com&&googletagmanager.com&&google-analytics.com&&facebook.com&&google.ca&&youtube.com&&translate.googleapis.com&&gstatic.com&&google.com&&,8,0
+Emile Gabriel - http://emile4calgarymayor.com/,121,6,0,,9,0
+Geoff Rainey - http://cleanslatecalgary.ca/,36,13,1,fonts.googleapis.com&&,2,0
+Grace Yan - http://graceyanformayor.com/,85,21,7,fonts.googleapis.com&&polyfill.io&&d3n8a8pro7vhmx.cloudfront.net&&ajax.googleapis.com&&youtube.com&&google.com&&gstatic.com&&,4,0
+Ian Chiang - http://ianchiang.com/,33,1,0,,0,0
+James Desautels - http://jamesdesautels.com/,36,2,1,fonts.googleapis.com&&,1,0
+Jan Damery - http://jandamery.com/,57,20,9,fonts.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&ajax.googleapis.com&&googletagmanager.com&&google-analytics.com&&facebook.com&&youtube.com&&google.com&&gstatic.com&&,2,0
+Jeff Davison - http://jeffdavisonyyc.com/,86,28,11,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&unpkg.com&&fonts.googleapis.com&&googletagmanager.com&&youtube.com&&google-analytics.com&&facebook.com&&google.com&&google.ca&&gstatic.com&&,4,0
+Jeromy Farkas - http://jeromy.ca/,86,24,9,ajax.googleapis.com&&fonts.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&polyfill.io&&facebook.com&&youtube.com&&google.com&&google.ca&&gstatic.com&&,0,0
+Jyoti Gondek - http://jyotigondek.ca/,50,14,5,fonts.googleapis.com&&googletagmanager.com&&google.com&&google-analytics.com&&facebook.com&&,3,0
+Kevin J. Johnston - http://calgarymayor.co/,177,7,0,,6,0
+Larry Heather - http://larryforcalgary.co/,5,2,1,statcounter.com&&,0,0
+Mizanur Rahman - http://mizanurrahman.ca/,60,4,1,fonts.googleapis.com&&,1,0
+Paul Michael Hallelujah - http://hallelujah.news/,23,6,2,fonts.googleapis.com&&ajax.googleapis.com&&,1,0
+Randall Kaiser - https://youtube.com/channel/UCEy2Ie9q8jsBqTQ0BJHplbA,29,8,3,fonts.googleapis.com&&google.com&&google.ca&&,1,0
+Shaoli Wang - http://shaoliw.com/,35,3,2,googletagmanager.com&&google-analytics.com&&,2,0
+Teddy Ogbonna - http://teddy4calgary.ca/,40,4,1,google.com&&,2,0
+Virginia Stone - http://virginia4mayor.com/,74,14,6,shop.app&&facebook.com&&paypal.com&&google.com&&gstatic.com&&google-analytics.com&&,10,0
+Will Vizor - http://willvizorformayor.com/,47,6,5,gstatic.com&&fonts.googleapis.com&&googletagmanager.com&&youtube.com&&google-analytics.com&&,1,0
+Zac Hartley - http://zacformayor.com/,41,10,3,youtube.com&&google.com&&gstatic.com&&,6,0
+Zaheed Ali Khan - http://mayorelectkhan.business.blog/,61,13,2,youtube.com&&fonts.googleapis.com&&,0,0
+Zane Novak - http://zane4mayor.ca/,37,10,4,fonts.googleapis.com&&google-analytics.com&&youtube.com&&facebook.com&&,9,0

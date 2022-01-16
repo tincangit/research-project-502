@@ -1,0 +1,7 @@
+Candidate - Website,# of entries,# of sites outside the host,# of Tracking sites,Tracking sites urls,# of POST requests,# of potential tracking pixels
+Bloc Quebecois - http://www.blocquebecois.org/,89,3,0,,0,0
+Conservative Party of Canada - http://www.conservative.ca/,55,6,1,fonts.googleapis.com&&,0,0
+Green Party of Canada - http://www.greenparty.ca/,41,5,2,facebook.com&&google-analytics.com&&,3,0
+Liberal Party of Canada - http://www.liberal.ca/,94,27,8,fonts.googleapis.com&&googletagmanager.com&&google-analytics.com&&google.com&&youtube.com&&facebook.com&&google.ca&&t.co&&,4,0
+New Democratic Party - http://www.ndp.ca/,70,21,8,fonts.googleapis.com&&googleadservices.com&&googletagmanager.com&&sc-static.net&&google-analytics.com&&google.com&&google.ca&&facebook.com&&,4,0
+People's Party of Canada - https://www.peoplespartyofcanada.ca/,62,20,6,ajax.googleapis.com&&fonts.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&googletagmanager.com&&google-analytics.com&&facebook.com&&,1,0

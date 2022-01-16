@@ -1,0 +1,7 @@
+Candidate - Website,# of entries,# of sites outside the host,# of Tracking sites,Tracking sites urls,# of POST requests,# of potential tracking pixels
+page_1 - https://liberal.ca/,176,33,11,fonts.googleapis.com&&googletagmanager.com&&youtube.com&&google-analytics.com&&googleadservices.com&&t.co&&sc-static.net&&facebook.com&&google.com&&google.ca&&gstatic.com&&,4,15
+page_1 - https://www.blocquebecois.org/,129,4,1,facebook.com&&,0,0
+page_1 - https://www.conservative.ca/,114,25,8,fonts.googleapis.com&&googletagmanager.com&&google-analytics.com&&facebook.com&&ajax.googleapis.com&&youtube.com&&google.com&&gstatic.com&&,1,10
+page_1 - https://www.greenparty.ca/en,37,5,2,google-analytics.com&&facebook.com&&,2,2
+page_1 - https://www.ndp.ca/,59,15,6,fonts.googleapis.com&&googleadservices.com&&google-analytics.com&&googletagmanager.com&&sc-static.net&&facebook.com&&,3,7
+page_1 - https://www.peoplespartyofcanada.ca/,67,24,6,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&googletagmanager.com&&google-analytics.com&&facebook.com&&,1,4

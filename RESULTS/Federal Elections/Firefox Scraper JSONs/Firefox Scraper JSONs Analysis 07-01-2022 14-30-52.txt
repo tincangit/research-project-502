@@ -1,4 +1,4 @@
-Analysis session started for C:\Users\TL\PycharmProjects\researchProj\jsonsToAnalyze\Federal Elections, 29/11/2021, 14:32:31
+Analysis session started for C:\Users\TL\PycharmProjects\researchProj\jsonsToAnalyze\Federal Elections, 07/01/2022, 14:30:52
 ---
 Bloc Quebecois 20-09-2021 00-23-38.json
 Num of entries = 89
@@ -8,6 +8,8 @@ Num of entries = 89
 - connect.facebook.net, 1 entries: 87 
 Total number of requests to external sites: 5 out of 89
 Number of POST Requests made: 0 out of 89
+Number of requests to known trackers made: 0 out of 89
+Potential tracking pixel entries: 
 
 
 ---
@@ -16,12 +18,15 @@ Num of entries = 55
 6 sites outside the host:
 - cpc-assets.conservative.ca, 41 entries: 3 4 5 6 7 8 9 10 11 13 21 22 23 24 25 26 27 28 29 30 31 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 
 - use.typekit.net, 2 entries: 12 17 
-- fonts.googleapis.com, 1 entries: 14 
+- fonts.googleapis.com, 1 entries: 14  TRACKER
 - p.typekit.net, 2 entries: 15 19 
 - cpcassets.conservative.ca, 3 entries: 16 18 32 
 - fonts.gstatic.com, 2 entries: 53 54 
 Total number of requests to external sites: 51 out of 55
 Number of POST Requests made: 0 out of 55
+Number of requests to known trackers made: 1 out of 55
+fonts.googleapis.com
+Potential tracking pixel entries: 
 
 
 ---
@@ -29,8 +34,8 @@ Green Party of Canada 20-09-2021 00-23-55.json
 Num of entries = 41
 5 sites outside the host:
 - connect.facebook.net, 4 entries: 28 30 31 33 
-- www.facebook.com, 2 entries: 32 34 
-- www.google-analytics.com, 3 entries: 35 36 37 
+- facebook.com, 2 entries: 32 34  TRACKER
+- google-analytics.com, 3 entries: 35 36 37  TRACKER
 - stats.g.doubleclick.net, 1 entries: 38 
 - platform.twitter.com, 2 entries: 39 40 
 Total number of requests to external sites: 12 out of 41
@@ -38,6 +43,10 @@ Number of POST Requests made: 3 out of 41
 POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&aip=1&a=1811748906&t=pageview&_s=1&dl=https%3A%2F%2Fwww.greenparty.ca%2Fen&ul=en-us&de=UTF-8&dt=Green%20Party%20of%20Canada%20%7C&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEBAAAABAAAAAC~&jid=1334808141&gjid=1853048819&cid=1547214099.1632119032&tid=UA-1403066-1&_gid=1531522319.1632119032&_r=1&_slc=1&cd1=anonymous%20user&z=1931763723
 POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=1811748906&t=pageview&_s=1&dl=https%3A%2F%2Fwww.greenparty.ca%2Fen&ul=en-us&de=UTF-8&dt=Green%20Party%20of%20Canada%20%7C&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEDAAAABAAAAAC~&jid=297896173&gjid=1648494699&cid=1547214099.1632119032&tid=UA-1403066-28&_gid=1531522319.1632119032&_r=1&_slc=1&z=752971591
 POST: https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j93&tid=UA-1403066-1&cid=1547214099.1632119032&jid=1334808141&gjid=1853048819&_gid=1531522319.1632119032&_u=YEBAAAAAAAAAAC~&z=906744475
+Number of requests to known trackers made: 2 out of 41
+facebook.com
+google-analytics.com
+Potential tracking pixel entries: 
 
 
 ---
@@ -45,14 +54,14 @@ Liberal Party of Canada 20-09-2021 00-24-13.json
 Num of entries = 94
 27 sites outside the host:
 - liberal.ca, 1 entries: 2 
-- fonts.googleapis.com, 2 entries: 3 4 
+- fonts.googleapis.com, 2 entries: 3 4  TRACKER
 - s31184.pcdn.co, 34 entries: 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 28 29 30 31 32 33 36 41 42 43 45 46 
 - lpchosting.com, 1 entries: 27 
 - fonts.gstatic.com, 6 entries: 34 35 37 39 40 82 
-- www.googletagmanager.com, 1 entries: 38 
-- www.google-analytics.com, 3 entries: 44 55 58 
-- www.google.com, 4 entries: 47 62 74 85 
-- www.youtube.com, 11 entries: 48 49 72 75 77 79 81 84 86 88 90 
+- googletagmanager.com, 1 entries: 38  TRACKER
+- google-analytics.com, 3 entries: 44 55 58  TRACKER
+- google.com, 4 entries: 47 62 74 85  TRACKER
+- youtube.com, 11 entries: 48 49 72 75 77 79 81 84 86 88 90  TRACKER
 - bat.bing.com, 3 entries: 50 51 54 
 - connect.facebook.net, 2 entries: 52 64 
 - static.ads-twitter.com, 1 entries: 53 
@@ -62,11 +71,11 @@ Num of entries = 94
 - stats.g.doubleclick.net, 1 entries: 61 
 - mi.liberal.ca, 1 entries: 63 
 - pixel.sitescout.com, 4 entries: 65 66 67 69 
-- www.facebook.com, 2 entries: 68 70 
+- facebook.com, 2 entries: 68 70  TRACKER
 - nova.collect.igodigital.com, 1 entries: 71 
 - googleads.g.doubleclick.net, 3 entries: 73 83 87 
-- www.google.ca, 2 entries: 76 78 
-- t.co, 1 entries: 80 
+- google.ca, 2 entries: 76 78  TRACKER
+- t.co, 1 entries: 80  TRACKER
 - yt3.ggpht.com, 1 entries: 89 
 - i.ytimg.com, 1 entries: 91 
 - analytics.twitter.com, 1 entries: 92 
@@ -77,32 +86,42 @@ POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=118745650&t=pagevi
 POST: https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j93&tid=UA-7046703-1&cid=790192864.1632119044&jid=824242921&gjid=1597550721&_gid=328408528.1632119044&_u=aGDAAEACQAAAAC~&z=2014642048
 POST: https://www.facebook.com/tr/
 POST: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+Number of requests to known trackers made: 8 out of 94
+fonts.googleapis.com
+googletagmanager.com
+google-analytics.com
+google.com
+youtube.com
+facebook.com
+google.ca
+t.co
+Potential tracking pixel entries: 
 
 
 ---
 New Democratic Party 20-09-2021 00-24-26.json
 Num of entries = 70
 21 sites outside the host:
-- fonts.googleapis.com, 1 entries: 2 
-- www.googleadservices.com, 1 entries: 7 
+- fonts.googleapis.com, 1 entries: 2  TRACKER
+- googleadservices.com, 1 entries: 7  TRACKER
 - maxcdn.bootstrapcdn.com, 2 entries: 8 23 
 - kit.fontawesome.com, 1 entries: 9 
 - apis.google.com, 1 entries: 12 
-- www.googletagmanager.com, 2 entries: 13 24 
+- googletagmanager.com, 2 entries: 13 24  TRACKER
 - fonts.gstatic.com, 6 entries: 16 17 18 19 20 21 
 - ka-f.fontawesome.com, 5 entries: 29 30 31 32 33 
 - fast.fonts.com, 1 entries: 34 
-- sc-static.net, 2 entries: 36 37 
+- sc-static.net, 2 entries: 36 37  TRACKER
 - platform.twitter.com, 2 entries: 38 40 
-- www.google-analytics.com, 6 entries: 39 41 42 45 46 52 
+- google-analytics.com, 6 entries: 39 41 42 45 46 52  TRACKER
 - stats.g.doubleclick.net, 1 entries: 43 
 - syndication.twitter.com, 1 entries: 44 
 - fast.fonts.net, 1 entries: 47 
 - connect.facebook.net, 6 entries: 48 49 57 58 61 65 
-- www.google.com, 1 entries: 50 
-- www.google.ca, 1 entries: 51 
+- google.com, 1 entries: 50  TRACKER
+- google.ca, 1 entries: 51  TRACKER
 - tr.snapchat.com, 3 entries: 54 55 56 
-- www.facebook.com, 7 entries: 59 60 64 66 67 68 69 
+- facebook.com, 7 entries: 59 60 64 66 67 68 69  TRACKER
 - s3.amazonaws.com, 2 entries: 62 63 
 Total number of requests to external sites: 53 out of 70
 Number of POST Requests made: 4 out of 70
@@ -110,36 +129,53 @@ POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=685403420&t=pagevi
 POST: https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j93&tid=UA-30109525-1&cid=1805177928.1632119062&jid=317824344&gjid=533943130&_gid=908443977.1632119063&_u=IADAAEACQAAAAC~&z=542161259
 POST: https://www.google-analytics.com/g/collect?v=2&tid=G-97QLYMLC56&gtm=2oe9f0&_p=685403420&sr=1536x864&ul=en-us&cid=1805177928.1632119062&_s=1&dl=https%3A%2F%2Fwww.ndp.ca%2F&dt=Canada%27s%20NDP&sid=1632119061&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1
 POST: https://tr.snapchat.com/p
+Number of requests to known trackers made: 8 out of 70
+fonts.googleapis.com
+googleadservices.com
+googletagmanager.com
+sc-static.net
+google-analytics.com
+google.com
+google.ca
+facebook.com
+Potential tracking pixel entries: 
 
 
 ---
 People's Party of Canada 20-09-2021 00-24-34.json
-Num of entries = 63
+Num of entries = 62
 20 sites outside the host:
-- www.peoplespartyofcanada.ca, 1 entries: 1 
-- kit.fontawesome.com, 1 entries: 2 
-- ajax.googleapis.com, 1 entries: 3 
-- maximebernier.nationbuilder.com, 12 entries: 4 5 6 7 8 9 10 12 14 18 23 24 
-- fonts.googleapis.com, 1 entries: 11 
-- d3n8a8pro7vhmx.cloudfront.net, 11 entries: 13 15 20 21 32 34 35 36 37 38 43 
-- apis.google.com, 2 entries: 16 17 
-- s7.addthis.com, 3 entries: 19 39 53 
-- www.googletagmanager.com, 2 entries: 22 45 
-- fonts.gstatic.com, 5 entries: 25 26 27 28 29 
-- ka-f.fontawesome.com, 5 entries: 30 31 33 60 61 
-- platform.twitter.com, 2 entries: 40 46 
-- connect.facebook.net, 4 entries: 41 42 44 48 
-- www.facebook.com, 3 entries: 50 55 59 
-- v1.addthisedge.com, 1 entries: 51 
-- syndication.twitter.com, 1 entries: 52 
-- z.moatads.com, 1 entries: 54 
-- ssl.google-analytics.com, 2 entries: 56 57 
-- stats.g.doubleclick.net, 1 entries: 58 
-- m.addthis.com, 1 entries: 62 
-Total number of requests to external sites: 60 out of 63
-Number of POST Requests made: 2 out of 63
-POST: https://www.google-analytics.com/g/collect?v=2&tid=G-97QLYMLC56&gtm=2oe9f0&_p=685403420&sr=1536x864&ul=en-us&cid=1805177928.1632119062&dl=https%3A%2F%2Fwww.ndp.ca%2F&dt=Canada%27s%20NDP&sid=1632119061&sct=1&seg=0&_s=2
+- kit.fontawesome.com, 1 entries: 1 
+- ajax.googleapis.com, 1 entries: 2  TRACKER
+- maximebernier.nationbuilder.com, 12 entries: 3 4 5 6 7 8 9 11 13 17 22 23 
+- fonts.googleapis.com, 1 entries: 10  TRACKER
+- d3n8a8pro7vhmx.cloudfront.net, 11 entries: 12 14 19 20 31 33 34 35 36 37 42  TRACKER
+- apis.google.com, 2 entries: 15 16 
+- s7.addthis.com, 3 entries: 18 38 52 
+- googletagmanager.com, 2 entries: 21 44  TRACKER
+- fonts.gstatic.com, 5 entries: 24 25 26 27 28 
+- ka-f.fontawesome.com, 5 entries: 29 30 32 59 60 
+- platform.twitter.com, 2 entries: 39 45 
+- connect.facebook.net, 4 entries: 40 41 43 47 
+- google-analytics.com, 2 entries: 46 48  TRACKER
+- facebook.com, 3 entries: 49 54 58  TRACKER
+- v1.addthisedge.com, 1 entries: 50 
+- syndication.twitter.com, 1 entries: 51 
+- z.moatads.com, 1 entries: 53 
+- ssl.google-analytics.com, 2 entries: 55 56 
+- stats.g.doubleclick.net, 1 entries: 57 
+- m.addthis.com, 1 entries: 61 
+Total number of requests to external sites: 61 out of 62
+Number of POST Requests made: 1 out of 62
 POST: https://www.google-analytics.com/j/collect?v=1&_v=j93&a=750885277&t=pageview&_s=1&dl=https%3A%2F%2Fwww.peoplespartyofcanada.ca%2F&ul=en-us&de=UTF-8&dt=People%27s%20Party%20of%20Canada&sd=24-bit&sr=1536x864&vp=1266x689&je=0&_u=YEBAAEABAAAAAC~&jid=345732949&gjid=877021850&cid=1442580662.1632119070&tid=UA-127838477-4&_gid=472265440.1632119070&_r=1&gtm=2wg9f0P2KNSXV&z=56606457
+Number of requests to known trackers made: 6 out of 62
+ajax.googleapis.com
+fonts.googleapis.com
+d3n8a8pro7vhmx.cloudfront.net
+googletagmanager.com
+google-analytics.com
+facebook.com
+Potential tracking pixel entries: 
 
 
-Analysis session ended 29/11/2021, 14:32:31
+Analysis session ended 07/01/2022, 14:30:52

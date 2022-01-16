@@ -1,0 +1,92 @@
+Candidate - Website,# of entries,# of sites outside the host,# of Tracking sites,Tracking sites urls,# of POST requests,# of potential tracking pixels
+Abdirizak Hadi - http://hadi4ward9.com/,47,2,1,fonts.googleapis.com&&,0,0
+Abed Harb - http://voteharb.ca/,104,24,9,googletagmanager.com&&ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&youtube.com&&google-analytics.com&&google.com&&facebook.com&&nationbuilder.s3.amazonaws.com&&,4,0
+Anand James Chetty - http://anandchetty.ca/,2,0,0,,0,0
+Andre Chabot - http://andrechabot.ca/,19,3,1,fonts.googleapis.com&&,1,0
+Andrea Hinton - http://hintonward14.com/,47,4,0,,5,0
+Angela McIntyre - http://mcintyreward4.com/,68,21,7,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&polyfill.io&&youtube.com&&facebook.com&&google.com&&,1,0
+Anton Ovtchinnikov - http://justantonforward14.ca/,38,4,1,fonts.googleapis.com&&,0,0
+Aryan Sadat - http://electsadat.com/,181,27,5,youtube.com&&googletagmanager.com&&google-analytics.com&&google.com&&fonts.googleapis.com&&,33,0
+Benjamin Shepherd - http://benjaminshepherd.ca/,22,7,1,fonts.googleapis.com&&,1,0
+Brent Trenholm - http://brenttrenholm.ca/,117,6,3,googletagmanager.com&&fonts.googleapis.com&&google-analytics.com&&,1,0
+Bud Thurlow - http://budthurlow.com/,39,3,0,,0,0
+Carla Evers - http://carla-evers.com/,2,0,0,,0,0
+Chris Blatch - http://blatchward1.ca/,49,6,0,,4,0
+Cornelia Wiebe - http://corneliawiebe.ca/,67,20,8,google-analytics.com&&ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&polyfill.io&&youtube.com&&facebook.com&&google.com&&,1,0
+Courtney Walcott - http://courtneywalcott.com/,53,18,5,d3n8a8pro7vhmx.cloudfront.net&&googletagmanager.com&&youtube.com&&google-analytics.com&&google.com&&,1,0
+Craig Chandler - http://electcraigchandler.ca/,32,9,4,youtube.com&&fonts.googleapis.com&&google.com&&unpkg.com&&,1,0
+Dan McLean - http://danmclean.ca/,180,16,6,fonts.googleapis.com&&cognitoforms.com&&paypalobjects.com&&youtube.com&&google.com&&gstatic.com&&,2,0
+Daniel James (DJ) Kelly - http://djkelly.ca/,70,11,2,fonts.googleapis.com&&ajax.googleapis.com&&,1,0
+Daymond Khan - http://daymondkhan.ca/,71,6,1,fonts.googleapis.com&&,0,0
+Derek Williams - http://ward7derek.ca/,48,14,4,fonts.googleapis.com&&ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&facebook.com&&,1,0
+Devin DeFraine - http://devindefraine.ca/,48,9,2,fonts.googleapis.com&&ajax.googleapis.com&&,2,0
+Diane Marie Colley-Urquhart - http://votediane.ca/,132,13,4,fonts.googleapis.com&&youtube.com&&google.com&&google-analytics.com&&,1,0
+Dirk Fontaine - http://dirkfontaine.ca/,44,2,0,,0,0
+Duane Hall - http://voteforhallward6.ca/,24,5,0,,1,0
+Erin Waite - http://www.erinwaite.ca/,71,21,6,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&polyfill.io&&webrtc.github.io&&facebook.com&&,0,0
+Esther Sutherland - http://estherforward10.ca/,37,2,0,,0,0
+Evan Spencer - http://evanspencer.ca/,64,21,6,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&youtube.com&&google.com&&facebook.com&&,0,0
+Francis Aranha - http://francisaranha.ca/,59,7,2,fonts.googleapis.com&&youtube.com&&,0,0
+Gary Bobrovitz - http://garybobrovitz.ca/,53,20,9,fonts.googleapis.com&&googletagmanager.com&&ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&google.com&&google-analytics.com&&vimeo.com&&google.ca&&facebook.com&&,3,0
+Gaz Qamar - http://electgaz.ca/,22,4,1,unpkg.com&&,0,0
+Geoffrey Vanderburg - http://www.geoffreyvanderburg.com/,144,9,1,fonts.googleapis.com&&,25,0
+Gian-Carlo Carra - http://carra4ward9.ca/,92,24,10,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&googletagmanager.com&&fonts.googleapis.com&&polyfill.io&&youtube.com&&google.com&&google.ca&&facebook.com&&google-analytics.com&&,1,0
+Greg Amoruso - http://gregamoruso.ca/,52,2,1,fonts.googleapis.com&&,0,0
+Gurbir S. Nijjar - http://gurbirward3.ca/,104,11,5,googletagmanager.com&&fonts.googleapis.com&&google.com&&google.ca&&facebook.com&&,0,0
+Hamayun Akbar - http://hamayunakbar.ca/,41,2,0,,0,0
+Heather McRae - http://heather4ward7.ca/,34,7,2,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&,0,0
+Ian McAnerin - http://mcanerin.ca/,140,20,8,fonts.googleapis.com&&ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&googletagmanager.com&&google.com&&facebook.com&&youtube.com&&google.ca&&,8,0
+Jacob McGregor - http://jacobforward1.ca/,28,5,2,googletagmanager.com&&google-analytics.com&&,1,0
+Jasmine Mian - http://jasmine4ward3.ca/,69,20,7,youtube.com&&ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&polyfill.io&&facebook.com&&google.com&&,1,0
+Jay Unsworth - http://unsworth.ca/,36,8,5,youtube.com&&googletagmanager.com&&d3e54v103j8qbb.cloudfront.net&&google-analytics.com&&facebook.com&&,3,0
+Jennifer Wyness - http://jenniferwyness.com/,104,7,1,paypalobjects.com&&,15,0
+Joe Magliocca - http://https//www.ward2.ca/,2,0,0,,0,0
+John (Chubby Hubby) Duta - http://johnduta.ca/,84,9,4,fonts.googleapis.com&&google.com&&youtube.com&&gstatic.com&&,0,0
+John-William Wade - http://johnwilliamwade.ca/,76,25,9,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&youtube.com&&googletagmanager.com&&google.com&&google-analytics.com&&facebook.com&&google.ca&&,4,0
+Jun Lin - http://www.junlin.ca/,73,6,0,,11,0
+Kim (Dong) Tyers - http://kimtyers.com/,64,4,0,,4,0
+Kimberly Feser - http://kimberlyfeser.ca/,38,2,0,,0,0
+Kourtney Branagan - http://co11aborate.ca/,59,15,6,fonts.googleapis.com&&ajax.googleapis.com&&googletagmanager.com&&youtube.com&&google.com&&google-analytics.com&&,4,0
+Kumar Sharma - http://kumarsharma.ca/,99,12,3,fonts.googleapis.com&&youtube.com&&google.com&&,0,0
+Lana Bentley - http://lanabentley.ca/,24,5,1,fonts.googleapis.com&&,4,0
+Larry Tweedale - http://larrytweedale.com/,35,9,2,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&,0,0
+Lauren Herschel - http://laurenherschel.ca/,77,20,7,d3n8a8pro7vhmx.cloudfront.net&&ajax.googleapis.com&&fonts.googleapis.com&&youtube.com&&google.com&&facebook.com&&nationbuilder.s3.amazonaws.com&&,1,0
+Leslyn Joseph - http://leslynjoseph4ward10.com/,58,5,0,,5,0
+Lori Masse - http://lorimasseforward9.com/,58,6,0,,5,0
+Marilyn North Peigan - http://marilynward7.ca/,88,10,3,googletagmanager.com&&fonts.googleapis.com&&google-analytics.com&&,4,0
+Matt Lalonde - http://mattward7.ca/,47,12,4,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&polyfill.io&&,0,0
+Michael Streilein - http://https//michaelstreilein.ca/,2,0,0,,0,0
+Mike Jamieson - http://votemikejamieson.ca/,37,2,0,,0,0
+Mike LaValley - http://mikelavalley.ca/,138,13,4,googletagmanager.com&&google-analytics.com&&facebook.com&&statcounter.com&&,14,0
+Monique Auffrey - http://votemonique.ca/,46,14,3,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&,0,0
+Mushtaq Kayani - http://kayani.ca/,46,2,1,fonts.googleapis.com&&,0,0
+Naomi Withers - http://ward9calgary.com/,77,16,5,google-analytics.com&&ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&facebook.com&&,1,0
+Natalie Winkler - http://winkler4ward8.ca/,8,3,1,fonts.googleapis.com&&,0,0
+Nate Pike - http://natepike.ca/,4,2,1,google.com&&,0,0
+Paul Bergmann - http://bergmann4ward8.ca/,49,12,4,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&polyfill.io&&,0,0
+Peter Demong - http://peterdemong.ca/,41,10,4,youtube.com&&fonts.googleapis.com&&unpkg.com&&google.com&&,0,0
+Philip Mitchell - http://philipmitchellyyc.com/,37,2,0,,0,0
+Raj Dhaliwal - http://voteraj.ca/,176,12,5,googletagmanager.com&&fonts.googleapis.com&&youtube.com&&google.com&&google-analytics.com&&,4,0
+Richard Pootmans - http://richard4ward6.com/,48,5,0,,5,0
+Rob Ward - http://robward11.ca/,128,18,5,paypalobjects.com&&googletagmanager.com&&google-analytics.com&&fonts.googleapis.com&&facebook.com&&,25,0
+Roshan Chumber - http://roshanchumber.ca/,100,8,2,fonts.googleapis.com&&facebook.com&&,2,0
+Sanjeev Kad - http://sanjeevkad.ca/,49,12,4,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&polyfill.io&&,0,0
+Sareen Singh - http://sareensingh.ca/,29,7,1,fonts.googleapis.com&&,4,0
+Sean Chu - http://seanchu.ca/,114,13,3,googletagmanager.com&&fonts.googleapis.com&&google-analytics.com&&,1,0
+Shane Roberts - http://shanerobertsward4.org/,52,4,1,fonts.googleapis.com&&,0,0
+Shauna Sears - http://shaunasears.com/,55,7,1,vimeo.com&&,8,0
+Sonya Sharp - http://sonyasharp.ca/,93,5,3,googletagmanager.com&&fonts.googleapis.com&&google-analytics.com&&,1,0
+Stan Sandhu - http://www.votestan.ca/,227,14,6,youtube.com&&fonts.googleapis.com&&paypal.com&&paypalobjects.com&&google.com&&facebook.com&&,8,0
+Stephen Dabbagh - http://votestephendabbagh.ca/,38,11,1,fonts.googleapis.com&&,0,0
+Steve Webb - http://webbforwardone.ca/,65,13,5,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&facebook.com&&nationbuilder.s3.amazonaws.com&&,1,0
+Steven Phan - http://stevenphan.ca/,105,23,9,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&polyfill.io&&fonts.googleapis.com&&googletagmanager.com&&youtube.com&&google.com&&google.ca&&facebook.com&&,0,0
+Tahir Merali - http://votemerali.ca/,237,27,5,googletagmanager.com&&fonts.googleapis.com&&youtube.com&&google.com&&google.ca&&,22,0
+Tariq Khan - http://electtariqkhan.ca/,45,2,1,fonts.googleapis.com&&,0,0
+Teresa Hargreaves - http://teresaforward12.ca/,96,16,1,fonts.googleapis.com&&,13,0
+Terry Wong - http://terrywong.ca/,115,7,0,,10,0
+Theo van Besouw - http://theowardtwo.ca/,60,4,3,fonts.googleapis.com&&googletagmanager.com&&secureservercdn.net&&,0,0
+Tom Antonick - http://tomantonick.com/,39,3,1,googletagmanager.com&&,0,0
+Tony Dinh - http://tonydinhward10.com/,75,6,4,fonts.googleapis.com&&googletagmanager.com&&google-analytics.com&&facebook.com&&,2,0
+Tudor Dinca - http://tudor4ward5.ca/,54,3,1,fonts.googleapis.com&&,0,0
+Vance Bertram - http://votevance.ca/,54,14,5,ajax.googleapis.com&&d3n8a8pro7vhmx.cloudfront.net&&fonts.googleapis.com&&polyfill.io&&facebook.com&&,0,0
+Yogi Henderson - http://yogihenderson.com/,41,3,1,google-analytics.com&&,1,0
