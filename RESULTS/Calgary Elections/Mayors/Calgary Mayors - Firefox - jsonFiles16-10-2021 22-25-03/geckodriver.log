@@ -1,0 +1,35 @@
+1634444703786	geckodriver	INFO	Listening on 127.0.0.1:58847
+1634444706803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TL\\AppData\\Local\\Temp\\rust_mozprofile7EsgJN"
+1634444707141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TL\\AppData\\Local\\Temp\\rust_mozprofile7EsgJN\\search.json.mozlz4", (void 0)))
+1634444709228	Marionette	INFO	Listening on port 58859
+1634444709489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.jandamery.com/, line 150: SyntaxError: expected property name, got '{'
+[Child 12704, MediaDecoderStateMachine #1] WARNING: 1ff597cf3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12704, MediaDecoderStateMachine #1] WARNING: 1ff5b718740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12704, MediaDecoderStateMachine #1] WARNING: 1ff5b718820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12704, MediaDecoderStateMachine #1] WARNING: 1ff5b718900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.emile4calgarymayor.com/, line 63: ChunkLoadError: Loading chunk 1220 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/santa-langs-en.829dd731.chunk.min.js)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_MessagePortForceClose Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 8712, MediaDecoderStateMachine #1] WARNING: 235a98c8740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634444832610	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s1.wp.com/_static/??-eJyNketOAyEQhV9ImEU31j/GZ+EywanAEgZseHvp2jZrvdQ/JGcm38kZDhyysEuqmCrEJnJonhLDIdslCo4UsF8paZnvYIOdGd+GNFj82BSEd6XkTk5gGgUHJiz2TQQyRZcOXHvAixElG5pDhj1DREcaA8Y10EbkoDsWEdBr22WkdBsfu63+Av0efk06zLBmfYys+9Kq8IXcVex/WxRdKXm+gdvlhN1LNUkFjrhehuJndtPY8c/HPGb9/fA/sM9qjckFmcV4I7Uo6usA16Zf4rN6fJjVvJvmp/0HHjDRCA==?cssminify=yes without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s1.wp.com/_static/??/wp-content/mu-plugins/comment-likes/css/comment-likes.css,/i/noticons/noticons.css?m=1436783281j&cssminify=yes without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Fira+Sans%3Aital%2Cwght%400%2C400%3B0%2C500%3B1%2C400%7CPlayfair+Display%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400&subset=latin%2Clatin-ext without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s0.wp.com/wp-content/themes/pub/seedlet/style.css?m=1631178000h&cssminify=yes without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s1.wp.com/wp-content/themes/pub/seedlet/assets/css/print.css?m=1603804565h&cssminify=yes without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s2.wp.com/_static/??-eJx9y0EOwjAMRNELYQyiBbFAnKU1JgQ5dlQ7qnp7yq5s2M2X5uFcgUyDNTBeXNixthGd+SEcmJVwrmQFPBbhPbnvcENKgyotZXVMbCBGQ2TTn4CnDHn6RycexdI6E66vTX7RvdyO/bU7dOdLf3p/APUgQOQ=?cssminify=yes without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=IBM+Plex+Mono:wght@400;700&display=swap without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s2.wp.com/_static/??-eJyNy9sNgCAMAMCFxPoK8cc4S4VGUUBCq8btjRvwfwdPUuaMQlFANgrEkK4FOBHmjdDCjdnh4olrw1xBMVcW81F2WF5PZTTi7VYUd8bfz2Fqdde3uhlGvX+ZfEsr?cssminify=yes without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css?family=Montserrat:thin,extralight,light,regular,medium,semibold,bold,italic,bolditalic,extrabold,black|Arvo:thin,extralight,light,regular,medium,semibold,bold,italic,bolditalic,extrabold,black| without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s0.wp.com/wp-content/themes/h4/global.css?m=1420737423h&cssminify=yes without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://s0.wp.com/_static/??/wp-content/mu-plugins/carousel/swiper-bundle.css,/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1630955947j&cssminify=yes without a browsingContextID set

@@ -1,0 +1,22 @@
+domain, # candidates using this domain
+paypalobjects.com,1
+d3n8a8pro7vhmx.cloudfront.net,1
+twitter.com,1
+facebook.net,1
+google-analytics.com,2
+ajax.googleapis.com,2
+editmysite.com,1
+stripe.com,1
+stripe.network,1
+youtube.com,2
+doubleclick.net,1
+squarespace.com,2
+wp.com,1
+gravatar.com,1
+wordpress.com,1
+fonts.googleapis.com,15
+wsimg.com,2
+google.com,6
+gstatic.com,11
+wix.com,7
+parastorage.com,8

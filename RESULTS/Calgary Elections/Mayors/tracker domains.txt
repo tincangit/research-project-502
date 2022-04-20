@@ -1,0 +1,216 @@
+\begin{itemize}
+	\item{\small Adam Roberts}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{wsimg.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Brad Field}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{google-analytics.com}
+		\item \url{squarespace.com}
+		\item \url{typekit.net}
+	\end{itemize}}\end{itemize}
+	\item{\small Dean Hopkins}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{google.com}
+		\item \url{googletagmanager.com}
+		\item \url{gstatic.com}
+		\item \url{translate.googleapis.com}
+		\item \url{youtube.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Emile Gabriel}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Geoff Rainey}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gravatar.com}
+		\item \url{wordpress.com}
+		\item \url{wp.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Grace Yan}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{cloudflare.com}
+		\item \url{d3n8a8pro7vhmx.cloudfront.net}
+		\item \url{doubleclick.net}
+		\item \url{embedly.com}
+		\item \url{facebook.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{twitter.com}
+		\item \url{youtube.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Ian Chiang}
+	\item{\small James Desautels}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gstatic.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Jan Damery}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{cloudflare.com}
+		\item \url{d3n8a8pro7vhmx.cloudfront.net}
+		\item \url{doubleclick.net}
+		\item \url{embedly.com}
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{google.com}
+		\item \url{googletagmanager.com}
+		\item \url{gstatic.com}
+		\item \url{jsdelivr.net}
+		\item \url{twitter.com}
+		\item \url{youtube.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Jeff Davison}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{ajax.googleapis.com}
+		\item \url{d3n8a8pro7vhmx.cloudfront.net}
+		\item \url{doubleclick.net}
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{fontawesome.com}
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{google.ca}
+		\item \url{google.com}
+		\item \url{googletagmanager.com}
+		\item \url{gstatic.com}
+		\item \url{twitter.com}
+		\item \url{typekit.net}
+		\item \url{youtube.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Jeromy Farkas}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{cloudflare.com}
+		\item \url{d3n8a8pro7vhmx.cloudfront.net}
+		\item \url{doubleclick.net}
+		\item \url{embedly.com}
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{fontawesome.com}
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{google.ca}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{juicer.io}
+		\item \url{twitter.com}
+		\item \url{youtube.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Jyoti Gondek}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{google.com}
+		\item \url{googletagmanager.com}
+		\item \url{gstatic.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Kevin J. Johnston}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{google-analytics.com}
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Larry Heather}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{statcounter.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Mizanur Rahman}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gstatic.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Paul Michael Hallelujah}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{ajax.googleapis.com}
+		\item \url{fonts.googleapis.com}
+		\item \url{gstatic.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Randall Kaiser}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Shaoli Wang}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{google-analytics.com}
+		\item \url{googletagmanager.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Teddy Ogbonna}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{google.com}
+		\item \url{wsimg.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Virginia Stone}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{google-analytics.com}
+		\item \url{google.com}
+		\item \url{shop.app}
+		\item \url{shopify.com}
+		\item \url{shopifycloud.com}
+		\item \url{shopifysvc.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Will Vizor}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{googletagmanager.com}
+		\item \url{gstatic.com}
+		\item \url{youtube.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Zac Hartley}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{shop.app}
+		\item \url{shopify.com}
+		\item \url{shopifycdn.com}
+		\item \url{shopifysvc.com}
+		\item \url{youtube.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Zaheed Ali Khan}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gravatar.com}
+		\item \url{gstatic.com}
+		\item \url{wordpress.com}
+		\item \url{wp.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Zane Novak}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{google.com}
+		\item \url{googlevideo.com}
+		\item \url{gstatic.com}
+		\item \url{squarespace.com}
+		\item \url{youtube.com}
+	\end{itemize}}\end{itemize}
+	\item{\small Zaheed Ali Khan (manual)}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gravatar.com}
+		\item \url{gstatic.com}
+		\item \url{wordpress.com}
+		\item \url{wp.com}
+	\end{itemize}}\end{itemize}

@@ -1,0 +1,2587 @@
+{
+	"log": {
+		"version": "1.2",
+		"creator": {
+			"name": "BrowserMob Proxy",
+			"version": "2.1.4",
+			"comment": ""
+		},
+		"pages": [
+			{
+				"id": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:07:57.007-06:00",
+				"title": "Andre Chabot",
+				"pageTimings": {
+					"comment": ""
+				},
+				"comment": ""
+			}
+		],
+		"entries": [
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:07:58.439-06:00",
+				"request": {
+					"method": "GET",
+					"url": "http://andrechabot.ca/",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Upgrade-Insecure-Requests",
+							"value": "1"
+						}
+					],
+					"queryString": [],
+					"headersSize": 369,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 301,
+					"statusText": "Moved Permanently",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Server",
+							"value": "openresty/1.17.8.2"
+						},
+						{
+							"name": "Date",
+							"value": "Sun, 17 Oct 2021 18:07:59 GMT"
+						},
+						{
+							"name": "Content-Type",
+							"value": "text/html; charset=iso-8859-1"
+						},
+						{
+							"name": "Content-Length",
+							"value": "235"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Location",
+							"value": "https://WWW.ANDRECHABOT.CA/"
+						},
+						{
+							"name": "X-Webcom-Cache-Status",
+							"value": "BYPASS"
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "text/html; charset=iso-8859-1",
+						"comment": ""
+					},
+					"redirectURL": "https://WWW.ANDRECHABOT.CA/",
+					"headersSize": 261,
+					"bodySize": 235,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 85,
+					"send": 0,
+					"dns": 115,
+					"ssl": -1,
+					"connect": 1089,
+					"blocked": 0,
+					"receive": 0
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 1290
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:07:59.644-06:00",
+				"request": {
+					"method": "POST",
+					"url": "https://private.canadianshield.cira.ca/dns-query",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "private.canadianshield.cira.ca"
+						},
+						{
+							"name": "Accept",
+							"value": "application/dns-message"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": ""
+						},
+						{
+							"name": "Content-Type",
+							"value": "application/dns-message"
+						},
+						{
+							"name": "Content-Length",
+							"value": "48"
+						},
+						{
+							"name": "Cache-Control",
+							"value": "no-store, no-cache"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Pragma",
+							"value": "no-cache"
+						}
+					],
+					"queryString": [],
+					"headersSize": 256,
+					"bodySize": 48,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Content-Type",
+							"value": "application/dns-message"
+						},
+						{
+							"name": "Content-Length",
+							"value": "184"
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "application/dns-message",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 81,
+					"bodySize": 184,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 15,
+					"send": 0,
+					"dns": 42,
+					"ssl": 2811,
+					"connect": 4005,
+					"blocked": 0,
+					"receive": 0
+				},
+				"serverIPAddress": "149.112.121.10",
+				"comment": "",
+				"time": 4065
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:01.546-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://www.andrechabot.ca/",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "www.andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Upgrade-Insecure-Requests",
+							"value": "1"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "document"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "navigate"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "none"
+						},
+						{
+							"name": "Sec-Fetch-User",
+							"value": "?1"
+						}
+					],
+					"queryString": [],
+					"headersSize": 450,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Server",
+							"value": "openresty/1.17.8.2"
+						},
+						{
+							"name": "Date",
+							"value": "Sun, 17 Oct 2021 18:08:01 GMT"
+						},
+						{
+							"name": "Content-Type",
+							"value": "text/html"
+						},
+						{
+							"name": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Sat, 02 Oct 2021 23:27:55 GMT"
+						},
+						{
+							"name": "ETag",
+							"value": "W/\"c5b3-5cd67078d1ed3\""
+						},
+						{
+							"name": "Strict-Transport-Security",
+							"value": "max-age=31536000"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "X-Frame-Options",
+							"value": "SAMEORIGIN"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "\"1; mode=block\""
+						},
+						{
+							"name": "Referrer-Policy",
+							"value": "no-referrer-when-downgrade"
+						},
+						{
+							"name": "X-Webcom-Cache-Status",
+							"value": "BYPASS"
+						},
+						{
+							"name": "Content-Encoding",
+							"value": "gzip"
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "text/html",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 504,
+					"bodySize": 9264,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 89,
+					"send": 0,
+					"dns": 111,
+					"ssl": 627,
+					"connect": 1713,
+					"blocked": 0,
+					"receive": 0
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 1914
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:01.684-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://www.andrechabot.ca/bundle/publish/0.3.416/publish.css",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "www.andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "text/css,*/*;q=0.1"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Referer",
+							"value": "https://www.andrechabot.ca/"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "style"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "no-cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "same-origin"
+						}
+					],
+					"queryString": [],
+					"headersSize": 408,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Server",
+							"value": "openresty/1.17.8.2"
+						},
+						{
+							"name": "Date",
+							"value": "Sun, 17 Oct 2021 18:08:02 GMT"
+						},
+						{
+							"name": "Content-Type",
+							"value": "text/css"
+						},
+						{
+							"name": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Sat, 02 Oct 2021 03:25:01 GMT"
+						},
+						{
+							"name": "ETag",
+							"value": "W/\"6fa71-5cd56399d2c7f\""
+						},
+						{
+							"name": "Strict-Transport-Security",
+							"value": "max-age=31536000"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "X-Frame-Options",
+							"value": "SAMEORIGIN"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "\"1; mode=block\""
+						},
+						{
+							"name": "Referrer-Policy",
+							"value": "no-referrer-when-downgrade"
+						},
+						{
+							"name": "X-Webcom-Cache-Status",
+							"value": "BYPASS"
+						},
+						{
+							"name": "Content-Encoding",
+							"value": "gzip"
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "text/css",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 504,
+					"bodySize": 82182,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 166,
+					"send": 0,
+					"dns": -1,
+					"ssl": -1,
+					"connect": -1,
+					"blocked": -1,
+					"receive": 148
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 316
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:01.762-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://fonts.googleapis.com/css?family=Lato:300,400,500,600,700%7CPoppins:300,400,500,600,600i,700%7CPT+Sans:300,400,500,600,700%7CEnriqueta:700i,700%7CCharm:400%7Cdisplay=swap",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "fonts.googleapis.com"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "text/css,*/*;q=0.1"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Referer",
+							"value": "https://www.andrechabot.ca/"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "style"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "no-cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "cross-site"
+						}
+					],
+					"queryString": [
+						{
+							"name": "family",
+							"value": "Lato:300,400,500,600,700|Poppins:300,400,500,600,600i,700|PT Sans:300,400,500,600,700|Enriqueta:700i,700|Charm:400|display=swap"
+						}
+					],
+					"headersSize": 523,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Content-Type",
+							"value": "text/css; charset=utf-8"
+						},
+						{
+							"name": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Timing-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Link",
+							"value": "<https://fonts.gstatic.com>; rel=preconnect; crossorigin"
+						},
+						{
+							"name": "Strict-Transport-Security",
+							"value": "max-age=31536000"
+						},
+						{
+							"name": "Expires",
+							"value": "Sun, 17 Oct 2021 18:08:02 GMT"
+						},
+						{
+							"name": "Date",
+							"value": "Sun, 17 Oct 2021 18:08:02 GMT"
+						},
+						{
+							"name": "Cache-Control",
+							"value": "private, max-age=86400"
+						},
+						{
+							"name": "Report-To",
+							"value": "{\"group\":\"AZM8iraMxxUfRnRum-EGst9UuHcPNVSf9Kp1_90wIgU\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/encsid_AZM8iraMxxUfRnRum-EGst9UuHcPNVSf9Kp1_90wIgU\"}]}"
+						},
+						{
+							"name": "Cross-Origin-Opener-Policy-Report-Only",
+							"value": "same-origin; report-to=\"AZM8iraMxxUfRnRum-EGst9UuHcPNVSf9Kp1_90wIgU\""
+						},
+						{
+							"name": "Cross-Origin-Resource-Policy",
+							"value": "cross-origin"
+						},
+						{
+							"name": "Content-Encoding",
+							"value": "gzip"
+						},
+						{
+							"name": "Server",
+							"value": "ESF"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "0"
+						},
+						{
+							"name": "X-Frame-Options",
+							"value": "SAMEORIGIN"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "Alt-Svc",
+							"value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+						},
+						{
+							"name": "Transfer-Encoding",
+							"value": "chunked"
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "text/css; charset=utf-8",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 1045,
+					"bodySize": 1026,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 29,
+					"send": 0,
+					"dns": 0,
+					"ssl": 55,
+					"connect": 74,
+					"blocked": 0,
+					"receive": 0
+				},
+				"serverIPAddress": "142.250.69.202",
+				"comment": "",
+				"time": 104
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:02.852-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://www.andrechabot.ca/bundle/publish/0.3.416/bundle.js",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "www.andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "*/*"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Referer",
+							"value": "https://www.andrechabot.ca/"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "script"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "no-cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "same-origin"
+						}
+					],
+					"queryString": [],
+					"headersSize": 392,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Server",
+							"value": "openresty/1.17.8.2"
+						},
+						{
+							"name": "Date",
+							"value": "Sun, 17 Oct 2021 18:08:03 GMT"
+						},
+						{
+							"name": "Content-Type",
+							"value": "application/javascript"
+						},
+						{
+							"name": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Sat, 02 Oct 2021 03:25:03 GMT"
+						},
+						{
+							"name": "ETag",
+							"value": "W/\"3a34a-5cd5639bb9d85\""
+						},
+						{
+							"name": "Strict-Transport-Security",
+							"value": "max-age=31536000"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "X-Frame-Options",
+							"value": "SAMEORIGIN"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "\"1; mode=block\""
+						},
+						{
+							"name": "Referrer-Policy",
+							"value": "no-referrer-when-downgrade"
+						},
+						{
+							"name": "X-Webcom-Cache-Status",
+							"value": "BYPASS"
+						},
+						{
+							"name": "Content-Encoding",
+							"value": "gzip"
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "application/javascript",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 518,
+					"bodySize": 70021,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 168,
+					"send": 0,
+					"dns": 0,
+					"ssl": 76,
+					"connect": 1163,
+					"blocked": 0,
+					"receive": 147
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 1479
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:04.845-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://www.andrechabot.ca/bundle/publish/0.3.416/vendors.js",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "www.andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "*/*"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Referer",
+							"value": "https://www.andrechabot.ca/"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "script"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "no-cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "same-origin"
+						}
+					],
+					"queryString": [],
+					"headersSize": 393,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Server",
+							"value": "openresty/1.17.8.2"
+						},
+						{
+							"name": "Date",
+							"value": "Sun, 17 Oct 2021 18:08:05 GMT"
+						},
+						{
+							"name": "Content-Type",
+							"value": "application/javascript"
+						},
+						{
+							"name": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Sat, 02 Oct 2021 03:25:02 GMT"
+						},
+						{
+							"name": "ETag",
+							"value": "W/\"780ae-5cd5639adfd34\""
+						},
+						{
+							"name": "Strict-Transport-Security",
+							"value": "max-age=31536000"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "X-Frame-Options",
+							"value": "SAMEORIGIN"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "\"1; mode=block\""
+						},
+						{
+							"name": "Referrer-Policy",
+							"value": "no-referrer-when-downgrade"
+						},
+						{
+							"name": "X-Webcom-Cache-Status",
+							"value": "BYPASS"
+						},
+						{
+							"name": "Content-Encoding",
+							"value": "gzip"
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "application/javascript",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 518,
+					"bodySize": 168242,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 167,
+					"send": 0,
+					"dns": 0,
+					"ssl": 74,
+					"connect": 3155,
+					"blocked": 0,
+					"receive": 375
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 3698
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:04.845-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://www.andrechabot.ca/styles/7deaf39b-0697-4fb2-8337-8159efbab6ad.css?v=1633213591000",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "www.andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "text/css,*/*;q=0.1"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Referer",
+							"value": "https://www.andrechabot.ca/"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "style"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "no-cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "same-origin"
+						}
+					],
+					"queryString": [
+						{
+							"name": "v",
+							"value": "1633213591000"
+						}
+					],
+					"headersSize": 437,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Server",
+							"value": "openresty/1.17.8.2"
+						},
+						{
+							"name": "Date",
+							"value": "Sun, 17 Oct 2021 18:08:05 GMT"
+						},
+						{
+							"name": "Content-Type",
+							"value": "text/css"
+						},
+						{
+							"name": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Vary",
+							"value": "Accept-Encoding"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Wed, 22 Sep 2021 21:21:07 GMT"
+						},
+						{
+							"name": "ETag",
+							"value": "W/\"3b04-5cc9c17a82722\""
+						},
+						{
+							"name": "Strict-Transport-Security",
+							"value": "max-age=31536000"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "X-Frame-Options",
+							"value": "SAMEORIGIN"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "\"1; mode=block\""
+						},
+						{
+							"name": "Referrer-Policy",
+							"value": "no-referrer-when-downgrade"
+						},
+						{
+							"name": "X-Webcom-Cache-Status",
+							"value": "BYPASS"
+						},
+						{
+							"name": "Content-Encoding",
+							"value": "gzip"
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "text/css",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 503,
+					"bodySize": 2862,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 84,
+					"send": 0,
+					"dns": 0,
+					"ssl": 80,
+					"connect": 3163,
+					"blocked": 0,
+					"receive": 0
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 3248
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.030-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://fonts.gstatic.com/s/enriqueta/v10/gokpH6L7AUFrRvV44HVr92-3n9xF.woff2",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "fonts.gstatic.com"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "identity"
+						},
+						{
+							"name": "Origin",
+							"value": "https://www.andrechabot.ca"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Referer",
+							"value": "https://fonts.googleapis.com/"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "font"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "cross-site"
+						}
+					],
+					"queryString": [],
+					"headersSize": 495,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Accept-Ranges",
+							"value": "bytes"
+						},
+						{
+							"name": "Content-Type",
+							"value": "font/woff2"
+						},
+						{
+							"name": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Security-Policy-Report-Only",
+							"value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+						},
+						{
+							"name": "Cross-Origin-Resource-Policy",
+							"value": "cross-origin"
+						},
+						{
+							"name": "Cross-Origin-Opener-Policy-Report-Only",
+							"value": "same-origin; report-to=\"apps-themes\""
+						},
+						{
+							"name": "Report-To",
+							"value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+						},
+						{
+							"name": "Timing-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Length",
+							"value": "20100"
+						},
+						{
+							"name": "Date",
+							"value": "Fri, 15 Oct 2021 22:50:39 GMT"
+						},
+						{
+							"name": "Expires",
+							"value": "Sat, 15 Oct 2022 22:50:39 GMT"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Tue, 01 Sep 2020 05:12:04 GMT"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "Server",
+							"value": "sffe"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "0"
+						},
+						{
+							"name": "Age",
+							"value": "155846"
+						},
+						{
+							"name": "Cache-Control",
+							"value": "public, max-age=31536000"
+						},
+						{
+							"name": "Alt-Svc",
+							"value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "font/woff2",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 974,
+					"bodySize": 20100,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 19,
+					"send": 0,
+					"dns": 0,
+					"ssl": 57,
+					"connect": 76,
+					"blocked": 0,
+					"receive": 20
+				},
+				"serverIPAddress": "142.251.33.99",
+				"comment": "",
+				"time": 116
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.046-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjx4wXg.woff2",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "fonts.gstatic.com"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "identity"
+						},
+						{
+							"name": "Origin",
+							"value": "https://www.andrechabot.ca"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Referer",
+							"value": "https://fonts.googleapis.com/"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "font"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "cross-site"
+						}
+					],
+					"queryString": [],
+					"headersSize": 480,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Accept-Ranges",
+							"value": "bytes"
+						},
+						{
+							"name": "Content-Type",
+							"value": "font/woff2"
+						},
+						{
+							"name": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Security-Policy-Report-Only",
+							"value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+						},
+						{
+							"name": "Cross-Origin-Resource-Policy",
+							"value": "cross-origin"
+						},
+						{
+							"name": "Timing-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Length",
+							"value": "23484"
+						},
+						{
+							"name": "Date",
+							"value": "Mon, 11 Oct 2021 17:04:58 GMT"
+						},
+						{
+							"name": "Expires",
+							"value": "Tue, 11 Oct 2022 17:04:58 GMT"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Tue, 10 Aug 2021 00:19:01 GMT"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "Server",
+							"value": "sffe"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "0"
+						},
+						{
+							"name": "Age",
+							"value": "522187"
+						},
+						{
+							"name": "Cache-Control",
+							"value": "public, max-age=31536000"
+						},
+						{
+							"name": "Alt-Svc",
+							"value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "font/woff2",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 765,
+					"bodySize": 23484,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 21,
+					"send": 0,
+					"dns": 0,
+					"ssl": 60,
+					"connect": 78,
+					"blocked": 0,
+					"receive": 21
+				},
+				"serverIPAddress": "142.251.33.99",
+				"comment": "",
+				"time": 122
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.046-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://fonts.gstatic.com/s/poppins/v15/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "fonts.gstatic.com"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "identity"
+						},
+						{
+							"name": "Origin",
+							"value": "https://www.andrechabot.ca"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Referer",
+							"value": "https://fonts.googleapis.com/"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "font"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "cross-site"
+						}
+					],
+					"queryString": [],
+					"headersSize": 493,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Accept-Ranges",
+							"value": "bytes"
+						},
+						{
+							"name": "Content-Type",
+							"value": "font/woff2"
+						},
+						{
+							"name": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Security-Policy-Report-Only",
+							"value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+						},
+						{
+							"name": "Cross-Origin-Resource-Policy",
+							"value": "cross-origin"
+						},
+						{
+							"name": "Timing-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Length",
+							"value": "8716"
+						},
+						{
+							"name": "Date",
+							"value": "Mon, 11 Oct 2021 07:36:47 GMT"
+						},
+						{
+							"name": "Expires",
+							"value": "Tue, 11 Oct 2022 07:36:47 GMT"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Thu, 05 Nov 2020 22:01:54 GMT"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "Server",
+							"value": "sffe"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "0"
+						},
+						{
+							"name": "Age",
+							"value": "556278"
+						},
+						{
+							"name": "Cache-Control",
+							"value": "public, max-age=31536000"
+						},
+						{
+							"name": "Alt-Svc",
+							"value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "font/woff2",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 764,
+					"bodySize": 8716,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 18,
+					"send": 0,
+					"dns": 0,
+					"ssl": 60,
+					"connect": 77,
+					"blocked": 0,
+					"receive": 2
+				},
+				"serverIPAddress": "142.251.33.99",
+				"comment": "",
+				"time": 98
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.046-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "fonts.gstatic.com"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "identity"
+						},
+						{
+							"name": "Origin",
+							"value": "https://www.andrechabot.ca"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Referer",
+							"value": "https://fonts.googleapis.com/"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "font"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "cross-site"
+						}
+					],
+					"queryString": [],
+					"headersSize": 491,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Accept-Ranges",
+							"value": "bytes"
+						},
+						{
+							"name": "Content-Type",
+							"value": "font/woff2"
+						},
+						{
+							"name": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Security-Policy-Report-Only",
+							"value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+						},
+						{
+							"name": "Cross-Origin-Resource-Policy",
+							"value": "cross-origin"
+						},
+						{
+							"name": "Timing-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Length",
+							"value": "7988"
+						},
+						{
+							"name": "Date",
+							"value": "Mon, 11 Oct 2021 07:40:03 GMT"
+						},
+						{
+							"name": "Expires",
+							"value": "Tue, 11 Oct 2022 07:40:03 GMT"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Thu, 05 Nov 2020 22:02:10 GMT"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "Server",
+							"value": "sffe"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "0"
+						},
+						{
+							"name": "Age",
+							"value": "556082"
+						},
+						{
+							"name": "Cache-Control",
+							"value": "public, max-age=31536000"
+						},
+						{
+							"name": "Alt-Svc",
+							"value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "font/woff2",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 764,
+					"bodySize": 7988,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 21,
+					"send": 0,
+					"dns": 0,
+					"ssl": 64,
+					"connect": 82,
+					"blocked": 0,
+					"receive": 1
+				},
+				"serverIPAddress": "142.251.33.99",
+				"comment": "",
+				"time": 106
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.046-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "fonts.gstatic.com"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "identity"
+						},
+						{
+							"name": "Origin",
+							"value": "https://www.andrechabot.ca"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Referer",
+							"value": "https://fonts.googleapis.com/"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "font"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "cross-site"
+						}
+					],
+					"queryString": [],
+					"headersSize": 491,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Accept-Ranges",
+							"value": "bytes"
+						},
+						{
+							"name": "Content-Type",
+							"value": "font/woff2"
+						},
+						{
+							"name": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Security-Policy-Report-Only",
+							"value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+						},
+						{
+							"name": "Cross-Origin-Resource-Policy",
+							"value": "cross-origin"
+						},
+						{
+							"name": "Cross-Origin-Opener-Policy-Report-Only",
+							"value": "same-origin; report-to=\"apps-themes\""
+						},
+						{
+							"name": "Report-To",
+							"value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+						},
+						{
+							"name": "Timing-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Length",
+							"value": "7832"
+						},
+						{
+							"name": "Date",
+							"value": "Sun, 17 Oct 2021 07:53:31 GMT"
+						},
+						{
+							"name": "Expires",
+							"value": "Mon, 17 Oct 2022 07:53:31 GMT"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Thu, 05 Nov 2020 22:01:48 GMT"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "Server",
+							"value": "sffe"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "0"
+						},
+						{
+							"name": "Age",
+							"value": "36874"
+						},
+						{
+							"name": "Cache-Control",
+							"value": "public, max-age=31536000"
+						},
+						{
+							"name": "Alt-Svc",
+							"value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "font/woff2",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 972,
+					"bodySize": 7832,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 23,
+					"send": 0,
+					"dns": 0,
+					"ssl": 72,
+					"connect": 91,
+					"blocked": 0,
+					"receive": 1
+				},
+				"serverIPAddress": "142.251.33.99",
+				"comment": "",
+				"time": 115
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.046-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MdYoK-4.woff2",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "fonts.gstatic.com"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "identity"
+						},
+						{
+							"name": "Origin",
+							"value": "https://www.andrechabot.ca"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Referer",
+							"value": "https://fonts.googleapis.com/"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "font"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "cross-site"
+						}
+					],
+					"queryString": [],
+					"headersSize": 481,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Accept-Ranges",
+							"value": "bytes"
+						},
+						{
+							"name": "Content-Type",
+							"value": "font/woff2"
+						},
+						{
+							"name": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Security-Policy-Report-Only",
+							"value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+						},
+						{
+							"name": "Cross-Origin-Resource-Policy",
+							"value": "cross-origin"
+						},
+						{
+							"name": "Cross-Origin-Opener-Policy-Report-Only",
+							"value": "same-origin; report-to=\"apps-themes\""
+						},
+						{
+							"name": "Report-To",
+							"value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+						},
+						{
+							"name": "Timing-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Length",
+							"value": "18928"
+						},
+						{
+							"name": "Date",
+							"value": "Fri, 15 Oct 2021 23:00:52 GMT"
+						},
+						{
+							"name": "Expires",
+							"value": "Sat, 15 Oct 2022 23:00:52 GMT"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Thu, 23 Jul 2020 19:38:17 GMT"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "Server",
+							"value": "sffe"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "0"
+						},
+						{
+							"name": "Age",
+							"value": "155233"
+						},
+						{
+							"name": "Cache-Control",
+							"value": "public, max-age=31536000"
+						},
+						{
+							"name": "Alt-Svc",
+							"value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "font/woff2",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 974,
+					"bodySize": 18928,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 22,
+					"send": 0,
+					"dns": 0,
+					"ssl": 74,
+					"connect": 93,
+					"blocked": 0,
+					"receive": 21
+				},
+				"serverIPAddress": "142.251.33.99",
+				"comment": "",
+				"time": 138
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.062-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://fonts.gstatic.com/s/lato/v20/S6u9w4BMUTPHh6UVSwiPGQ.woff2",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "fonts.gstatic.com"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "identity"
+						},
+						{
+							"name": "Origin",
+							"value": "https://www.andrechabot.ca"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Referer",
+							"value": "https://fonts.googleapis.com/"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "font"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "cross-site"
+						}
+					],
+					"queryString": [],
+					"headersSize": 484,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 200,
+					"statusText": "OK",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Accept-Ranges",
+							"value": "bytes"
+						},
+						{
+							"name": "Content-Type",
+							"value": "font/woff2"
+						},
+						{
+							"name": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Security-Policy-Report-Only",
+							"value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+						},
+						{
+							"name": "Cross-Origin-Resource-Policy",
+							"value": "cross-origin"
+						},
+						{
+							"name": "Cross-Origin-Opener-Policy-Report-Only",
+							"value": "same-origin; report-to=\"apps-themes\""
+						},
+						{
+							"name": "Report-To",
+							"value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+						},
+						{
+							"name": "Timing-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"name": "Content-Length",
+							"value": "22992"
+						},
+						{
+							"name": "Date",
+							"value": "Wed, 13 Oct 2021 06:51:59 GMT"
+						},
+						{
+							"name": "Expires",
+							"value": "Thu, 13 Oct 2022 06:51:59 GMT"
+						},
+						{
+							"name": "Last-Modified",
+							"value": "Tue, 10 Aug 2021 00:18:57 GMT"
+						},
+						{
+							"name": "X-Content-Type-Options",
+							"value": "nosniff"
+						},
+						{
+							"name": "Server",
+							"value": "sffe"
+						},
+						{
+							"name": "X-XSS-Protection",
+							"value": "0"
+						},
+						{
+							"name": "Age",
+							"value": "386166"
+						},
+						{
+							"name": "Cache-Control",
+							"value": "public, max-age=31536000"
+						},
+						{
+							"name": "Alt-Svc",
+							"value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+						}
+					],
+					"content": {
+						"size": 0,
+						"mimeType": "font/woff2",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": 974,
+					"bodySize": 22992,
+					"comment": ""
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 26,
+					"send": 0,
+					"dns": -1,
+					"ssl": -1,
+					"connect": -1,
+					"blocked": -1,
+					"receive": 8
+				},
+				"serverIPAddress": "142.251.33.99",
+				"comment": "",
+				"time": 34
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.432-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://www.andrechabot.ca/favicons/7deaf39b-0697-4fb2-8337-8159efbab6ad/favicon-180x180.png",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "www.andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "image/avif,image/webp,*/*"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Referer",
+							"value": "https://www.andrechabot.ca/"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "image"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "no-cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "same-origin"
+						}
+					],
+					"queryString": [],
+					"headersSize": 446,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 0,
+					"statusText": "",
+					"httpVersion": "unknown",
+					"cookies": [],
+					"headers": [],
+					"content": {
+						"size": 0,
+						"mimeType": "",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": -1,
+					"bodySize": -1,
+					"comment": "",
+					"_error": "No response received"
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 0,
+					"send": 0,
+					"dns": -1,
+					"ssl": -1,
+					"connect": -1,
+					"blocked": -1,
+					"receive": 0
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 0
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.432-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://www.andrechabot.ca/favicons/7deaf39b-0697-4fb2-8337-8159efbab6ad/favicon-32x32.png",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "www.andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "image/avif,image/webp,*/*"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Referer",
+							"value": "https://www.andrechabot.ca/"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "image"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "no-cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "same-origin"
+						}
+					],
+					"queryString": [],
+					"headersSize": 444,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 0,
+					"statusText": "",
+					"httpVersion": "unknown",
+					"cookies": [],
+					"headers": [],
+					"content": {
+						"size": 0,
+						"mimeType": "",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": -1,
+					"bodySize": -1,
+					"comment": "",
+					"_error": "No response received"
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 0,
+					"send": 0,
+					"dns": -1,
+					"ssl": -1,
+					"connect": -1,
+					"blocked": -1,
+					"receive": 0
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 0
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.432-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://www.andrechabot.ca/bundle/publish/0.3.416/svg/global.svg",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "www.andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "*/*"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Referer",
+							"value": "https://www.andrechabot.ca/"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "empty"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "same-origin"
+						}
+					],
+					"queryString": [],
+					"headersSize": 393,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 0,
+					"statusText": "",
+					"httpVersion": "unknown",
+					"cookies": [],
+					"headers": [],
+					"content": {
+						"size": 0,
+						"mimeType": "",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": -1,
+					"bodySize": -1,
+					"comment": "",
+					"_error": "No response received"
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 0,
+					"send": 0,
+					"dns": -1,
+					"ssl": -1,
+					"connect": -1,
+					"blocked": -1,
+					"receive": 0
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 0
+			},
+			{
+				"pageref": "Andre Chabot",
+				"startedDateTime": "2021-10-17T12:08:05.432-06:00",
+				"request": {
+					"method": "GET",
+					"url": "https://www.andrechabot.ca/bundle/publish/0.3.416/svg/templates.svg",
+					"httpVersion": "HTTP/1.1",
+					"cookies": [],
+					"headers": [
+						{
+							"name": "Host",
+							"value": "www.andrechabot.ca"
+						},
+						{
+							"name": "User-Agent",
+							"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+						},
+						{
+							"name": "Accept",
+							"value": "*/*"
+						},
+						{
+							"name": "Accept-Language",
+							"value": "en-US,en;q=0.5"
+						},
+						{
+							"name": "Accept-Encoding",
+							"value": "gzip, deflate, br"
+						},
+						{
+							"name": "Referer",
+							"value": "https://www.andrechabot.ca/"
+						},
+						{
+							"name": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"name": "Sec-Fetch-Dest",
+							"value": "empty"
+						},
+						{
+							"name": "Sec-Fetch-Mode",
+							"value": "cors"
+						},
+						{
+							"name": "Sec-Fetch-Site",
+							"value": "same-origin"
+						}
+					],
+					"queryString": [],
+					"headersSize": 396,
+					"bodySize": 0,
+					"comment": ""
+				},
+				"response": {
+					"status": 0,
+					"statusText": "",
+					"httpVersion": "unknown",
+					"cookies": [],
+					"headers": [],
+					"content": {
+						"size": 0,
+						"mimeType": "",
+						"comment": ""
+					},
+					"redirectURL": "",
+					"headersSize": -1,
+					"bodySize": -1,
+					"comment": "",
+					"_error": "No response received"
+				},
+				"cache": {},
+				"timings": {
+					"comment": "",
+					"wait": 0,
+					"send": 0,
+					"dns": -1,
+					"ssl": -1,
+					"connect": -1,
+					"blocked": -1,
+					"receive": 0
+				},
+				"serverIPAddress": "209.17.116.160",
+				"comment": "",
+				"time": 0
+			}
+		],
+		"comment": ""
+	}
+}

@@ -1,0 +1,460 @@
+Adam Roberts
+---
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-f9246098.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/form/formIdentifiers-8d1eb835.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/traffic2-f4096148.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Recaptcha/badge-a479b038.js}
+\item \url{img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js}
+\item \url{img1.wsimg.com/traffic-assets/js/tccl-tti.min.js}
+\item \url{img6.wsimg.com/wrhs/ce554d2333f3801abafb32da18213ff7/tti.min.js}
+
+
+Brad Field
+---
+\item \url{assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js}
+\item \url{p.typekit.net/p.gif}
+\item \url{use.typekit.net/af/a798a9/000000000000000077359d55/30/l}
+\item \url{use.typekit.net/af/ab3e12/000000000000000077359d4f/30/l}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/j/collect}
+
+
+Dean Hopkins
+---
+\item \url{apis.google.com/js/platform.js}
+\item \url{connect.facebook.net/en_US/sdk.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{graph.facebook.com/}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{translate.google.com/translate_a/element.js}
+\item \url{translate.googleapis.com/translate_static/css/translateelement.css}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/g/collect}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.google.com/}
+\item \url{www.googletagmanager.com/gtag/js}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png}
+\item \url{www.gstatic.com/images/branding/product/1x/translate_24dp.png}
+\item \url{www.gstatic.com/images/branding/product/2x/translate_24dp.png}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/iframe_api}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+
+
+Emile Gabriel
+---
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bt}
+\item \url{frog.wix.com/site-members}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/chat-worker/1.657.0/viewer-script.bundle.min.js}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/64017d81-9430-4cba-8219-8f5cc28b923e.woff2}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/activePopup.b727980a.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/headerPlaceholderHeight.eed006f5.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/loginSocialBar.f9d8ee25.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/ooiTpaSharedConfig.2f6d1ded.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/sosp.a216a77b.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/tpaWorkerFeature.e6f852f3.chunk.min.js}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+\item \url{static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js}
+
+
+Geoff Rainey
+---
+\item \url{0.gravatar.com/dist/css/hovercard.min.css}
+\item \url{0.gravatar.com/dist/css/services.min.css}
+\item \url{0.gravatar.com/js/gprofiles.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{pixel.wp.com/g.gif}
+\item \url{public-api.wordpress.com/wp-admin/rest-proxy/}
+\item \url{r-login.wordpress.com/remote-login.php}
+\item \url{s0.wp.com/}
+\item \url{s0.wp.com/_static/}
+\item \url{s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css}
+\item \url{s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js}
+\item \url{s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js}
+\item \url{s0.wp.com/wp-content/themes/h4/global.css}
+\item \url{s0.wp.com/wp-includes/js/wp-emoji-release.min.js}
+\item \url{stats.wp.com/w.js}
+
+
+Grace Yan
+---
+\item \url{apis.google.com/js/plusone.js}
+\item \url{cdn.embedly.com/widgets/media.html}
+\item \url{cdnjs.cloudflare.com/ajax/libs/object-fit-images/3.2.4/ofi.min.js}
+\item \url{cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js}
+\item \url{connect.facebook.net/en_US/sdk.js}
+\item \url{d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjx4wXg.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{platform.twitter.com/widgets.js}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{syndication.twitter.com/settings}
+\item \url{www.google.com/}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/iframe_api}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+
+
+Ian Chiang
+---
+
+
+James Desautels
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/opensans/v26/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2}
+
+
+Jan Damery
+---
+\item \url{apis.google.com/js/plusone.js}
+\item \url{cdn.embedly.com/widgets/media.html}
+\item \url{cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js}
+\item \url{cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css}
+\item \url{cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff2}
+\item \url{cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff2}
+\item \url{connect.facebook.net/en_US/fbevents.js}
+\item \url{connect.facebook.net/en_US/sdk.js}
+\item \url{d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{platform.twitter.com/widgets.js}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{syndication.twitter.com/settings}
+\item \url{www.facebook.com/tr/}
+\item \url{www.facebook.com/x/oauth/status}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.google.com/}
+\item \url{www.googletagmanager.com/gtm.js}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/iframe_api}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+
+
+Jeff Davison
+---
+\item \url{ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js}
+\item \url{apis.google.com/js/plusone.js}
+\item \url{connect.facebook.net/en_US/fbevents.js}
+\item \url{connect.facebook.net/en_US/sdk.js}
+\item \url{d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{ka-p.fontawesome.com/releases/v5.15.4/css/pro-v4-font-face.min.css}
+\item \url{ka-p.fontawesome.com/releases/v5.15.4/css/pro-v4-shims.min.css}
+\item \url{ka-p.fontawesome.com/releases/v5.15.4/css/pro.min.css}
+\item \url{ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-brands-400-5.0.0.woff2}
+\item \url{ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-brands-400-5.8.1.woff2}
+\item \url{ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-brands-400-5.8.2.woff2}
+\item \url{ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-solid-900-5.0.9.woff2}
+\item \url{ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-solid-900-5.12.1.woff2}
+\item \url{p.typekit.net/p.css}
+\item \url{platform.twitter.com/widgets.js}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{stats.g.doubleclick.net/j/collect}
+\item \url{syndication.twitter.com/settings}
+\item \url{use.typekit.net/af/23e139/00000000000000007735e605/30/l}
+\item \url{use.typekit.net/af/2555e1/00000000000000007735e603/30/l}
+\item \url{use.typekit.net/af/3322cc/00000000000000007735e616/30/l}
+\item \url{use.typekit.net/af/efe4a5/00000000000000007735e609/30/l}
+\item \url{www.facebook.com/tr/}
+\item \url{www.facebook.com/x/oauth/status}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/collect}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.google.ca/ads/ga-audiences}
+\item \url{www.google.com/}
+\item \url{www.google.com/ads/ga-audiences}
+\item \url{www.googletagmanager.com/gtag/js}
+\item \url{www.googletagmanager.com/gtm.js}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+
+
+Jeromy Farkas
+---
+\item \url{apis.google.com/js/plusone.js}
+\item \url{assets.juicer.io/embed-no-jquery.js}
+\item \url{assets.juicer.io/embed.css}
+\item \url{assets.juicer.io/standalone-sprites/twitter-like-gray.png}
+\item \url{assets.juicer.io/standalone-sprites/twitter-reply-gray.png}
+\item \url{assets.juicer.io/standalone-sprites/twitter-retweet-gray.png}
+\item \url{cdn.embedly.com/widgets/media.html}
+\item \url{cdnjs.cloudflare.com/ajax/libs/object-fit-images/3.2.4/ofi.min.js}
+\item \url{cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js}
+\item \url{connect.facebook.net/en_US/fbevents.js}
+\item \url{connect.facebook.net/en_US/sdk.js}
+\item \url{d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjx4wXg.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{graph.facebook.com/}
+\item \url{platform.twitter.com/widgets.js}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{static.juicer.io/fonts/fontawesome-5-juicer.woff2}
+\item \url{stats.g.doubleclick.net/r/collect}
+\item \url{syndication.twitter.com/settings}
+\item \url{use.fontawesome.com/releases/v5.15.3/css/all.css}
+\item \url{use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.woff2}
+\item \url{use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.woff2}
+\item \url{www.facebook.com/tr/}
+\item \url{www.facebook.com/x/oauth/status}
+\item \url{www.google-analytics.com/}
+\item \url{www.google.ca/ads/ga-audiences}
+\item \url{www.google.com/}
+\item \url{www.google.com/ads/ga-audiences}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/iframe_api}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+
+
+Jyoti Gondek
+---
+\item \url{connect.facebook.net/en_US/fbevents.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{www.facebook.com/tr/}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.google.com/}
+\item \url{www.googletagmanager.com/gtag/js}
+
+
+Kevin J. Johnston
+---
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bpm}
+\item \url{frog.wix.com/bt}
+\item \url{frog.wix.com/site-members}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/chat-worker/1.657.0/viewer-script.bundle.min.js}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8bf38806-3423-4080-b38f-d08542f7e4ac.woff2}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/activePopup.b727980a.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/ooiTpaSharedConfig.2f6d1ded.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/sosp.a216a77b.chunk.min.js}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+\item \url{static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js}
+\item \url{www.google-analytics.com/g/collect}
+
+
+Larry Heather
+---
+\item \url{www.statcounter.com/counter/counter.js}
+
+
+Mizanur Rahman
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2}
+
+
+Paul Michael Hallelujah
+---
+\item \url{ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2}
+
+
+Randall Kaiser
+---
+\item \url{accounts.google.com/ServiceLogin}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{www.google.com/}
+
+
+Shaoli Wang
+---
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/g/collect}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.googletagmanager.com/gtag/js}
+
+
+Teddy Ogbonna
+---
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-f9246098.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/form/formIdentifiers-8d1eb835.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/traffic2-f4096148.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Recaptcha/badge-a479b038.js}
+\item \url{img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js}
+\item \url{img1.wsimg.com/traffic-assets/js/tccl-tti.min.js}
+\item \url{img6.wsimg.com/wrhs/ce554d2333f3801abafb32da18213ff7/tti.min.js}
+\item \url{www.google.com/}
+
+
+Virginia Stone
+---
+\item \url{cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js}
+\item \url{cdn.shopify.com/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js}
+\item \url{cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/c325c096835c150b1069.872.en.js}
+\item \url{cdn.shopify.com/shopifycloud/payment-sheet/assets/latest/dynamic-checkout-cart.en.js}
+\item \url{cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js}
+\item \url{cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js}
+\item \url{cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-a55261a7a987674749989983b5889eadaac6795d8d48548fb61470a96edb9524.js}
+\item \url{connect.facebook.net/en_US/fbevents.js}
+\item \url{godog.shopifycloud.com/v1/event.gif}
+\item \url{monorail-edge.shopifysvc.com/unstable/produce_batch}
+\item \url{monorail-edge.shopifysvc.com/v1/produce}
+\item \url{pay.google.com/gp/p/js/pay.js}
+\item \url{pay.google.com/gp/p/ui/pay}
+\item \url{pay.google.com/gp/p/ui/payframe}
+\item \url{play.google.com/log}
+\item \url{shop.app/pay/session}
+\item \url{stats.g.doubleclick.net/j/collect}
+\item \url{www.facebook.com/tr/}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.google.com/}
+
+
+Will Vizor
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xIIzI.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{www.google-analytics.com/g/collect}
+\item \url{www.googletagmanager.com/gtag/js}
+\item \url{www.youtube.com/iframe_api}
+
+
+Zac Hartley
+---
+\item \url{cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js}
+\item \url{cdn.shopify.com/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js}
+\item \url{cdn.shopify.com/shopifycloud/media-analytics/v0.1/analytics.js}
+\item \url{cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js}
+\item \url{cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js}
+\item \url{cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-a55261a7a987674749989983b5889eadaac6795d8d48548fb61470a96edb9524.js}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{fonts.shopifycdn.com/helvetica/helvetica_n4.fe093fe9ca22a15354813c912484945a36b79146.woff2}
+\item \url{fonts.shopifycdn.com/helvetica/helvetica_n7.39bee04bd277a9c4e94e2fd42d53f4e3c0afb8a5.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{monorail-edge.shopifysvc.com/unstable/produce_batch}
+\item \url{monorail-edge.shopifysvc.com/v1/produce}
+\item \url{shop.app/pay/session}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{www.google.com/}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/iframe_api}
+
+
+Zaheed Ali Khan
+---
+\item \url{0.gravatar.com/dist/css/hovercard.min.css}
+\item \url{0.gravatar.com/dist/css/services.min.css}
+\item \url{0.gravatar.com/js/gprofiles.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2}
+\item \url{pixel.wp.com/g.gif}
+\item \url{public-api.wordpress.com/wp-admin/rest-proxy/}
+\item \url{r-login.wordpress.com/remote-login.php}
+\item \url{s0.wp.com/}
+\item \url{s0.wp.com/_static/}
+\item \url{s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css}
+\item \url{s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js}
+\item \url{s0.wp.com/wp-content/themes/h4/global.css}
+\item \url{s0.wp.com/wp-includes/js/wp-emoji-release.min.js}
+\item \url{stats.wp.com/w.js}
+
+
+Zane Novak
+---
+\item \url{assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js}
+\item \url{connect.facebook.net/en_US/fbevents.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{rr3---sn-t0a7sn7d.googlevideo.com/videoplayback}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{stats.g.doubleclick.net/j/collect}
+\item \url{www.facebook.com/tr/}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.google.com/}
+\item \url{www.youtube.com/api/stats/playback}
+\item \url{www.youtube.com/api/stats/qoe}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/iframe_api}
+\item \url{www.youtube.com/ptracking}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+\item \url{www.youtube.com/youtubei/v1/next}
+\item \url{www.youtube.com/youtubei/v1/player}
+
+
+Zaheed Ali Khan (manual)
+---
+\item \url{0.gravatar.com/dist/css/hovercard.min.css}
+\item \url{0.gravatar.com/dist/css/services.min.css}
+\item \url{0.gravatar.com/js/gprofiles.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2}
+\item \url{pixel.wp.com/g.gif}
+\item \url{public-api.wordpress.com/wp-admin/rest-proxy/}
+\item \url{r-login.wordpress.com/remote-login.php}
+\item \url{s0.wp.com/}
+\item \url{s0.wp.com/_static/}
+\item \url{s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css}
+\item \url{s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js}
+\item \url{s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js}
+\item \url{s0.wp.com/wp-content/themes/h4/global.css}
+\item \url{s0.wp.com/wp-includes/js/wp-emoji-release.min.js}
+\item \url{stats.wp.com/w.js}
+
+

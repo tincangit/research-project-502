@@ -1,0 +1,30 @@
+1634536970414	geckodriver	INFO	Listening on 127.0.0.1:51397
+1634536973448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TL\\AppData\\Local\\Temp\\rust_mozprofileBlbIWI"
+1634536973826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TL\\AppData\\Local\\Temp\\rust_mozprofileBlbIWI\\search.json.mozlz4", (void 0)))
+1634536975969	Marionette	INFO	Listening on port 51409
+1634536976148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.danacares.ca/, line 63: ChunkLoadError: Loading chunk 1220 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/santa-langs-en.829dd731.chunk.min.js)
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: http://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.staceyselley.ca/, line 63: ChunkLoadError: Loading chunk 1220 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/santa-langs-en.829dd731.chunk.min.js)
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1634323899, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1634323899, line 4: unreachable code after return statement
+JavaScript error: https://www.susanvukadinovic.com/, line 63: ChunkLoadError: Loading chunk 1220 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/santa-langs-en.829dd731.chunk.min.js)
+JavaScript error: https://www.charlenemay2021.com/, line 63: ChunkLoadError: Loading chunk 1256 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/pageTransitions.702cb460.chunk.min.js)
+JavaScript error: https://www.charlenemay2021.com/, line 63: ChunkLoadError: Loading chunk 5921 failed.
+(error: https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.8f326e66.chunk.min.js)
+1634537131658	Marionette	INFO	Stopped listening on port 51409
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 11832, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

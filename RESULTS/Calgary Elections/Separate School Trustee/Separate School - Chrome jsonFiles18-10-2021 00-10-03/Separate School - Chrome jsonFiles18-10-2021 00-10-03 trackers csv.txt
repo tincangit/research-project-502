@@ -1,0 +1,16 @@
+Candidate,# tracking requests,#tracking domains
+Addie Corah 18-10-2021 00-11-07.json,19,5
+Blair Pedron Daniels 18-10-2021 00-10-27.json,13,6
+Brian O'Neill 18-10-2021 00-10-36.json,15,5
+Dan Penna 18-10-2021 00-11-34.json,8,5
+Edney Saldanha 18-10-2021 00-10-40.json,3,2
+Edward Tse 18-10-2021 00-10-52.json,9,2
+Joe DeGagne 18-10-2021 00-11-29.json,9,3
+John D. Ramsay 18-10-2021 00-11-56.json,5,2
+Linda Wellman 18-10-2021 00-11-23.json,5,3
+Lory Iovinelli (Acclaimed) 18-10-2021 00-11-48.json,4,3
+Myra D'Souza 18-10-2021 00-10-16.json,11,1
+Oksana Shevchenko 18-10-2021 00-12-05.json,11,8
+Pamela Rath 18-10-2021 00-11-43.json,6,2
+Pina Lamb 18-10-2021 00-11-12.json,30,2
+Shannon Cook 18-10-2021 00-11-51.json,3,1

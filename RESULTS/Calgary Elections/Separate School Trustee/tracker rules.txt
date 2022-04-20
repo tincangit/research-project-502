@@ -1,0 +1,181 @@
+Addie Corah
+---
+\item \url{apis.google.com/js/platform.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/opensans/v26/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2}
+\item \url{pixel.wp.com/g.gif}
+\item \url{s0.wp.com/}
+\item \url{to.getnitropack.com/}
+
+
+Blair Pedron Daniels
+---
+\item \url{assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{www.google.com/}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+
+
+Brian O'Neill
+---
+\item \url{apis.google.com/js/client.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/opensans/v26/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{www.google.com/}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+
+
+Dan Penna
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{www.google.com/}
+\item \url{www.youtube.com/api/stats/qoe}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/youtubei/v1/next}
+\item \url{www.youtube.com/youtubei/v1/player}
+
+
+Edney Saldanha
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjx4wXg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+
+
+Edward Tse
+---
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZwjimrqw.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZwjimrqw.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_ZpC3gnD_vx3rCs.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_bZF3gnD_vx3rCs.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_vx3rCs.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2}
+\item \url{www.googletagmanager.com/gtag/js}
+
+
+Joe DeGagne
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/opensans/v26/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/form/formIdentifiers-8d1eb835.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/traffic2-f4096148.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Recaptcha/badge-a479b038.js}
+\item \url{img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js}
+\item \url{img1.wsimg.com/traffic-assets/js/tccl-tti.min.js}
+\item \url{img6.wsimg.com/wrhs/ce554d2333f3801abafb32da18213ff7/tti.min.js}
+
+
+John D. Ramsay
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{pixel.wp.com/g.gif}
+\item \url{s0.wp.com/}
+\item \url{s0.wp.com/wp-content/js/bilmur.min.js}
+
+
+Linda Wellman
+---
+\item \url{assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js}
+\item \url{p.typekit.net/p.gif}
+\item \url{use.typekit.net/af/63d81f/000000000000000077359d5a/30/l}
+\item \url{use.typekit.net/af/a798a9/000000000000000077359d55/30/l}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/j/collect}
+
+
+Lory Iovinelli (Acclaimed)
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{static.cloudflareinsights.com/beacon.min.js}
+\item \url{vimeo.com/ablincoln/vuid}
+
+
+Myra D'Souza
+---
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bpm}
+\item \url{frog.wix.com/bt}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8bf38806-3423-4080-b38f-d08542f7e4ac.woff2}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+
+
+Oksana Shevchenko
+---
+\item \url{ajax.googleapis.com/ajax/libs/webfont/1/webfont.js}
+\item \url{apis.google.com/js/plusone.js}
+\item \url{connect.facebook.net/en_US/sdk.js}
+\item \url{d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMRw.woff2}
+\item \url{graph.facebook.com/}
+\item \url{platform.twitter.com/widgets.js}
+\item \url{syndication.twitter.com/i/jot}
+\item \url{syndication.twitter.com/settings}
+\item \url{www.facebook.com/x/oauth/status}
+\item \url{www.google.com/}
+
+
+Pamela Rath
+---
+\item \url{f.vimeocdn.com/js_opt/modules/utils/vuid.min.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fresnel.vimeocdn.com/add/player-stats}
+\item \url{fresnel.vimeocdn.com/add/player-test-impression}
+
+
+Pina Lamb
+---
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bpm}
+\item \url{frog.wix.com/bt}
+\item \url{frog.wix.com/site-members}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/69b40392-453a-438a-a121-a49e5fbc9213.woff2}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8bf38806-3423-4080-b38f-d08542f7e4ac.woff2}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/activePopup.b727980a.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/headerPlaceholderHeight.eed006f5.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/ooiTpaSharedConfig.2f6d1ded.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/sosp.a216a77b.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/tpaWorkerFeature.e6f852f3.chunk.min.js}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+\item \url{static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js}
+
+
+Shannon Cook
+---
+\item \url{img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js}
+\item \url{img1.wsimg.com/traffic-assets/js/tccl-tti.min.js}
+\item \url{img6.wsimg.com/wrhs/ce554d2333f3801abafb32da18213ff7/tti.min.js}
+
+

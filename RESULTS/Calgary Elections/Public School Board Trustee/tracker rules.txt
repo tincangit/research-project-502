@@ -1,0 +1,362 @@
+Adam Dossa
+---
+
+
+Allan To
+---
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bt}
+\item \url{frog.wix.com/site-members}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/activePopup.b727980a.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/ooiTpaSharedConfig.2f6d1ded.chunk.min.js}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+
+
+Althea Adams
+---
+\item \url{fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjxAwXg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{www.google.com/recaptcha/api.js}
+\item \url{www.google.com/recaptcha/api2/anchor}
+\item \url{www.google.com/recaptcha/api2/webworker.js}
+\item \url{www.gstatic.com/recaptcha/api2/logo_48.png}
+
+
+Baldev Kaur Tamber
+---
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-f9246098.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/form/formIdentifiers-8d1eb835.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/traffic2-f4096148.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Recaptcha/badge-a479b038.js}
+\item \url{img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js}
+\item \url{img1.wsimg.com/traffic-assets/js/tccl-tti.min.js}
+\item \url{img6.wsimg.com/wrhs/ce554d2333f3801abafb32da18213ff7/tti.min.js}
+
+
+Barbara La Pointe
+---
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-f9246098.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/form/formIdentifiers-8d1eb835.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/common/constants/traffic2-f4096148.js}
+\item \url{img1.wsimg.com/blobby/go/static/radpack/@wsb/guac-widget-shared/lib/components/Recaptcha/badge-a479b038.js}
+\item \url{img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js}
+\item \url{img1.wsimg.com/traffic-assets/js/tccl-tti.min.js}
+\item \url{img6.wsimg.com/wrhs/ce554d2333f3801abafb32da18213ff7/tti.min.js}
+
+
+Carter Thomson
+---
+\item \url{apis.google.com/js/client.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjx4wXg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{www.google.com/}
+
+
+Charlene May
+---
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bt}
+\item \url{frog.wix.com/site-members}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/03805817-4611-4dbc-8c65-0f73031c3973.woff}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+
+
+Cheryl Munson
+---
+\item \url{0.gravatar.com/dist/css/hovercard.min.css}
+\item \url{0.gravatar.com/dist/css/services.min.css}
+\item \url{0.gravatar.com/js/gprofiles.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{pixel.wp.com/g.gif}
+\item \url{public-api.wordpress.com/wp-admin/rest-proxy/}
+\item \url{r-login.wordpress.com/remote-login.php}
+\item \url{s0.wp.com/}
+\item \url{s0.wp.com/_static/}
+\item \url{s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css}
+\item \url{s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js}
+\item \url{s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js}
+\item \url{s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css}
+\item \url{s0.wp.com/wp-content/themes/h4/global.css}
+\item \url{s0.wp.com/wp-includes/js/wp-emoji-release.min.js}
+\item \url{stats.wp.com/w.js}
+
+
+Christa Harris
+---
+\item \url{assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js}
+\item \url{fonts.googleapis.com/css}
+
+
+Claudia Fuentes
+---
+\item \url{fonts.googleapis.com/css}
+
+
+Dana Downey
+---
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bpm}
+\item \url{frog.wix.com/bt}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/popups.15d000da.chunk.min.js}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+
+
+Dar Zuch
+---
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{www.google.com/}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+
+
+David Barrett
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{js.stripe.com/v3/}
+\item \url{m.stripe.com/6}
+\item \url{m.stripe.network/inner.html}
+\item \url{r.stripe.com/0}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{www.google.com/}
+\item \url{www.google.com/recaptcha/api.js}
+\item \url{www.google.com/recaptcha/api2/anchor}
+\item \url{www.google.com/recaptcha/api2/reload}
+\item \url{www.google.com/recaptcha/api2/webworker.js}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.gstatic.com/recaptcha/api2/logo_48.png}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/iframe_api}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+
+
+Hilary Sellen
+---
+\item \url{fonts.googleapis.com/css}
+
+
+Humaira Falak
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{www.google.com/}
+
+
+Jay Chowdhury
+---
+
+
+Laura Hack
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjx4wXg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+
+
+Malik Ashraf
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc4.woff2}
+
+
+Marilyn Dennis
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2}
+
+
+Maxx Lapthorne
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bpm}
+\item \url{frog.wix.com/bt}
+\item \url{frog.wix.com/fed}
+\item \url{frog.wix.com/pa}
+\item \url{frog.wix.com/site-members}
+\item \url{frog.wix.com/ugc-viewer}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/chat-worker/1.657.0/viewer-script.bundle.min.js}
+\item \url{static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/v15/languages-woff2.css}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/fontFace.css}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8bf38806-3423-4080-b38f-d08542f7e4ac.woff2}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/headerPlaceholderHeight.eed006f5.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/loginSocialBar.f9d8ee25.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/ooiTpaSharedConfig.2f6d1ded.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/sosp.a216a77b.chunk.min.js}
+\item \url{static.parastorage.com/unpkg-semver/fedops-logger@5/fedops-logger.bundle.min.js}
+\item \url{static.parastorage.com/unpkg/focus-visible@4.1.1/dist/focus-visible.min.js}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+\item \url{static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js}
+
+
+Melanie Wen
+---
+\item \url{fonts.gstatic.com/s/lato/v20/S6u9w4BMUTPHh6UVSwaPGQ.woff2}
+\item \url{fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjxAwXg.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{www.google.com/recaptcha/api.js}
+\item \url{www.google.com/recaptcha/api2/anchor}
+\item \url{www.google.com/recaptcha/api2/webworker.js}
+\item \url{www.gstatic.com/recaptcha/api2/logo_48.png}
+
+
+Monica Truong
+---
+\item \url{ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js}
+\item \url{cdn2.editmysite.com/js/wsnbn/snowday262.js}
+\item \url{ec.editmysite.com/com.snowplowanalytics.snowplow/tp2}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/opensans/v26/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2}
+\item \url{www.google-analytics.com/}
+
+
+Najeeb Butt
+---
+\item \url{fonts.googleapis.com/css}
+
+
+Nancy Close
+---
+\item \url{ajax.googleapis.com/ajax/libs/webfont/1/webfont.js}
+\item \url{apis.google.com/js/plusone.js}
+\item \url{connect.facebook.net/en_US/sdk.js}
+\item \url{d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2}
+\item \url{fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2}
+\item \url{fonts.gstatic.com/s/opensans/v26/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2}
+\item \url{platform.twitter.com/widgets.js}
+\item \url{www.google.com/}
+
+
+Patricia Bolger
+---
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bpm}
+\item \url{frog.wix.com/bt}
+\item \url{frog.wix.com/pa}
+\item \url{frog.wix.com/site-members}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/activePopup.b727980a.chunk.min.js}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+
+
+Shirley Anderson
+---
+\item \url{assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/j/collect}
+
+
+Stacey Selley
+---
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bt}
+\item \url{frog.wix.com/site-members}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/chat-worker/1.657.0/viewer-script.bundle.min.js}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/activePopup.b727980a.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/loginSocialBar.f9d8ee25.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/ooiTpaSharedConfig.2f6d1ded.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/sosp.a216a77b.chunk.min.js}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+\item \url{static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js}
+\item \url{www.google.com/}
+
+
+Stephen John
+---
+\item \url{static.parastorage.com/services/third-party/angular-translate/1.1.1/angular-translate.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/530dee22-e3c1-4e9f-bf62-c31d510d9656.woff}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/fontFace.css}
+
+
+Susan Vukadinovic
+---
+\item \url{cdn.jsdelivr.net/npm/js-md5@0.7.2/src/md5.min.js}
+\item \url{cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js}
+\item \url{fonts.googleapis.com/css}
+\item \url{frog.wix.com/bolt-performance}
+\item \url{frog.wix.com/bpm}
+\item \url{frog.wix.com/bt}
+\item \url{frog.wix.com/fed}
+\item \url{frog.wix.com/pa}
+\item \url{frog.wix.com/site-members}
+\item \url{frog.wix.com/ugc-viewer}
+\item \url{loadbalancer.visitor-analytics.io/worker}
+\item \url{siteassets.parastorage.com/pages/pages/thunderbolt}
+\item \url{static.parastorage.com/services/chat-worker/1.657.0/viewer-script.bundle.min.js}
+\item \url{static.parastorage.com/services/js-sdk/1.425.0/js/wix.min.js}
+\item \url{static.parastorage.com/services/js-sdk/1.537.0/js/wix.min.js}
+\item \url{static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/v15/languages-woff2.css}
+\item \url{static.parastorage.com/services/tag-manager-client/1.427.0/siteTags.bundle.min.js}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/530dee22-e3c1-4e9f-bf62-c31d510d9656.woff}
+\item \url{static.parastorage.com/services/third-party/fonts/Helvetica/fontFace.css}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/69b40392-453a-438a-a121-a49e5fbc9213.woff2}
+\item \url{static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8bf38806-3423-4080-b38f-d08542f7e4ac.woff2}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/TPAWorker.79a7c141.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/ooiTpaSharedConfig.2f6d1ded.chunk.min.js}
+\item \url{static.parastorage.com/services/wix-thunderbolt/dist/tpaWorkerFeature.e6f852f3.chunk.min.js}
+\item \url{static.parastorage.com/unpkg-semver/fedops-logger@5/fedops-logger.bundle.min.js}
+\item \url{static.parastorage.com/unpkg/focus-visible@4.1.1/dist/focus-visible.min.js}
+\item \url{static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js}
+\item \url{static.parastorage.com/unpkg/react-dom@16.13.1/umd/react-dom.production.min.js}
+\item \url{static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js}
+\item \url{www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif}
+\item \url{www.paypalobjects.com/en_US/i/scr/pixel.gif}
+
+

@@ -1,0 +1,25 @@
+Candidate,# tracking requests,#tracking domains
+Adam Roberts 17-10-2021 23-45-52.json,7,1
+Brad Field 17-10-2021 23-44-22.json,6,3
+Dean Hopkins 17-10-2021 23-45-06.json,35,10
+Emile Gabriel 17-10-2021 23-44-29.json,33,2
+Geoff Rainey 17-10-2021 23-45-50.json,24,4
+Grace Yan 17-10-2021 23-46-17.json,29,10
+Ian Chiang 17-10-2021 23-43-37.json,0,0
+James Desautels 17-10-2021 23-44-08.json,3,2
+Jan Damery 17-10-2021 23-43-51.json,34,14
+Jeff Davison 17-10-2021 23-44-04.json,46,15
+Jeromy Farkas 17-10-2021 23-44-15.json,36,15
+Jyoti Gondek 17-10-2021 23-44-38.json,12,7
+Kevin J. Johnston 17-10-2021 23-45-11.json,26,2
+Larry Heather 17-10-2021 23-44-49.json,1,1
+Mizanur Rahman 17-10-2021 23-45-45.json,7,2
+Paul Michael Hallelujah 17-10-2021 23-44-44.json,3,3
+Randall Kaiser 17-10-2021 23-45-14.json,9,4
+Shaoli Wang 17-10-2021 23-46-08.json,3,2
+Teddy Ogbonna 17-10-2021 23-45-36.json,8,2
+Virginia Stone 17-10-2021 23-46-01.json,41,8
+Will Vizor 17-10-2021 23-46-04.json,8,5
+Zac Hartley 17-10-2021 23-44-48.json,21,7
+Zaheed Ali Khan 17-10-2021 23-45-25.json,35,5
+Zane Novak 17-10-2021 23-45-28.json,11,8

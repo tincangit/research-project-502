@@ -1,0 +1,83 @@
+\begin{itemize}
+	\item{\small Addie Corah}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{getnitropack.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{wp.com}
+	\end{itemize}}	\item{\small Blair Pedron Daniels}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{squarespace.com}
+		\item \url{youtube.com}
+	\end{itemize}}	\item{\small Brian O'Neill}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{youtube.com}
+	\end{itemize}}	\item{\small Dan Penna}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{youtube.com}
+	\end{itemize}}	\item{\small Edney Saldanha}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Edward Tse}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{googletagmanager.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Joe DeGagne}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gstatic.com}
+		\item \url{wsimg.com}
+	\end{itemize}}	\item{\small John D. Ramsay}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{wp.com}
+	\end{itemize}}	\item{\small Linda Wellman}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{google-analytics.com}
+		\item \url{squarespace.com}
+		\item \url{typekit.net}
+	\end{itemize}}	\item{\small Lory Iovinelli (Acclaimed)}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{cloudflareinsights.com}
+		\item \url{fonts.googleapis.com}
+		\item \url{vimeo.com}
+	\end{itemize}}	\item{\small Myra D'Souza}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}	\item{\small Oksana Shevchenko}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{ajax.googleapis.com}
+		\item \url{d3n8a8pro7vhmx.cloudfront.net}
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{twitter.com}
+	\end{itemize}}	\item{\small Pamela Rath}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{vimeocdn.com}
+	\end{itemize}}	\item{\small Pina Lamb}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}	\item{\small Shannon Cook}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{wsimg.com}
+	\end{itemize}}\end{itemize}

@@ -1,0 +1,24 @@
+domain, # candidates using this domain
+youtube.com,1
+typekit.net,2
+gstatic.com,2
+doubleclick.net,2
+google.com,2
+licdn.com,2
+ads-twitter.com,2
+facebook.net,2
+twitter.com,2
+t.co,2
+linkedin.com,2
+facebook.com,2
+ajax.googleapis.com,2
+adsymptotic.com,1
+googletagmanager.com,4
+hsforms.net,2
+bugsnag.com,2
+amazonaws.com,2
+fonts.googleapis.com,4
+google-analytics.com,6
+microsoft.com,2
+brightspace.com,2
+es.io,2

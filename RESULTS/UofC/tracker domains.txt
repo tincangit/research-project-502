@@ -1,0 +1,74 @@
+\begin{itemize}
+	\item{\small d2l.ucalgary.ca.jso}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{brightspace.com}
+		\item \url{es.io}
+	\end{itemize}}	\item{\small outlook.office.com.ha}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{microsoft.com}
+	\end{itemize}}	\item{\small portal.my.ucalgary.ca.jso}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+	\end{itemize}}	\item{\small www.gradescope.ca.jso}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{amazonaws.com}
+		\item \url{bugsnag.com}
+		\item \url{google-analytics.com}
+		\item \url{googletagmanager.com}
+		\item \url{hsforms.net}
+	\end{itemize}}	\item{\small www.ucalgary.ca.jso}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{ads-twitter.com}
+		\item \url{adsymptotic.com}
+		\item \url{ajax.googleapis.com}
+		\item \url{doubleclick.net}
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{google.com}
+		\item \url{googletagmanager.com}
+		\item \url{gstatic.com}
+		\item \url{licdn.com}
+		\item \url{linkedin.com}
+		\item \url{t.co}
+		\item \url{twitter.com}
+		\item \url{typekit.net}
+	\end{itemize}}	\item{\small d2l.ucalgary.ca_Archive.jso}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{brightspace.com}
+		\item \url{es.io}
+	\end{itemize}}	\item{\small outlook.office.com_Archive.ha}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{microsoft.com}
+	\end{itemize}}	\item{\small portal.my.ucalgary.ca_Archive.jso}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+	\end{itemize}}	\item{\small www.gradescope.ca_Archive.jso}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{amazonaws.com}
+		\item \url{bugsnag.com}
+		\item \url{google-analytics.com}
+		\item \url{googletagmanager.com}
+		\item \url{hsforms.net}
+	\end{itemize}}	\item{\small www.ucalgary.ca_Archive.jso}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{ads-twitter.com}
+		\item \url{ajax.googleapis.com}
+		\item \url{doubleclick.net}
+		\item \url{facebook.com}
+		\item \url{facebook.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{google.com}
+		\item \url{googletagmanager.com}
+		\item \url{gstatic.com}
+		\item \url{licdn.com}
+		\item \url{linkedin.com}
+		\item \url{t.co}
+		\item \url{twitter.com}
+		\item \url{typekit.net}
+		\item \url{youtube.com}
+	\end{itemize}}\end{itemize}

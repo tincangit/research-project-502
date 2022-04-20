@@ -1,0 +1,134 @@
+\begin{itemize}
+	\item{\small Adam Dossa}
+	\item{\small Allan To}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}	\item{\small Althea Adams}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{google.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Baldev Kaur Tamber}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{wsimg.com}
+	\end{itemize}}	\item{\small Barbara La Pointe}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{wsimg.com}
+	\end{itemize}}	\item{\small Carter Thomson}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Charlene May}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}	\item{\small Cheryl Munson}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gravatar.com}
+		\item \url{wordpress.com}
+		\item \url{wp.com}
+	\end{itemize}}	\item{\small Christa Harris}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{squarespace.com}
+	\end{itemize}}	\item{\small Claudia Fuentes}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+	\end{itemize}}	\item{\small Dana Downey}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}	\item{\small Dar Zuch}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{youtube.com}
+	\end{itemize}}	\item{\small David Barrett}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{doubleclick.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{stripe.com}
+		\item \url{stripe.network}
+		\item \url{youtube.com}
+	\end{itemize}}	\item{\small Hilary Sellen}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+	\end{itemize}}	\item{\small Humaira Falak}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Jay Chowdhury}
+	\item{\small Laura Hack}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Malik Ashraf}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Marilyn Dennis}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Maxx Lapthorne}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}	\item{\small Melanie Wen}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{google.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Monica Truong}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{ajax.googleapis.com}
+		\item \url{editmysite.com}
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{gstatic.com}
+	\end{itemize}}	\item{\small Najeeb Butt}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+	\end{itemize}}	\item{\small Nancy Close}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{ajax.googleapis.com}
+		\item \url{d3n8a8pro7vhmx.cloudfront.net}
+		\item \url{facebook.net}
+		\item \url{fonts.googleapis.com}
+		\item \url{google.com}
+		\item \url{gstatic.com}
+		\item \url{twitter.com}
+	\end{itemize}}	\item{\small Patricia Bolger}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}	\item{\small Shirley Anderson}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{fonts.googleapis.com}
+		\item \url{google-analytics.com}
+		\item \url{gstatic.com}
+		\item \url{squarespace.com}
+	\end{itemize}}	\item{\small Stacey Selley}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{google.com}
+		\item \url{parastorage.com}
+		\item \url{wix.com}
+	\end{itemize}}	\item{\small Stephen John}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{parastorage.com}
+	\end{itemize}}	\item{\small Susan Vukadinovic}
+	{\tiny\begin{itemize}[noitemsep]
+		\item \url{cloudflare.com}
+		\item \url{fonts.googleapis.com}
+		\item \url{jsdelivr.net}
+		\item \url{parastorage.com}
+		\item \url{paypalobjects.com}
+		\item \url{visitor-analytics.io}
+		\item \url{wix.com}
+	\end{itemize}}\end{itemize}

@@ -1,0 +1,131 @@
+d2l.ucalgary.ca.jso
+---
+\item \url{d2l-elasticrum.apm.us-east-1.aws.cloud.es.io/intake/v2/rum/events}
+\item \url{s.brightspace.com/lib/elastic-apm-rum/5.5.0/elastic-apm-rum.umd.min.js}
+\item \url{s.brightspace.com/lib/fonts/0.5.0/assets/Lato-400.woff2}
+\item \url{s.brightspace.com/lib/fonts/0.5.0/assets/Lato-700.woff2}
+\item \url{s.brightspace.com/lib/jquery/2.2.4/jquery.min.js}
+\item \url{s.brightspace.com/lib/jqueryui/1.12.1/jquery-ui.min.js}
+\item \url{s.brightspace.com/lib/reset-css/1.1.0/reset.css}
+\item \url{s.brightspace.com/lib/tti-polyfill/0.2.2/tti-polyfill-global.js}
+
+
+outlook.office.com.ha
+---
+\item \url{browser.events.data.microsoft.com/OneCollector/1.0/}
+\item \url{browser.pipe.aria.microsoft.com/Collector/3.0/}
+
+
+portal.my.ucalgary.ca.jso
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/j/collect}
+
+
+www.gradescope.ca.jso
+---
+\item \url{amazonaws.com/}
+\item \url{js.hsforms.net/forms/v2.js}
+\item \url{sessions.bugsnag.com/}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/collect}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.googletagmanager.com/gtm.js}
+
+
+www.ucalgary.ca.jso
+---
+\item \url{ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js}
+\item \url{analytics.twitter.com/i/adsct}
+\item \url{connect.facebook.net/en_US/fbevents.js}
+\item \url{fls.doubleclick.net/activityi}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{google.com/}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{p.adsymptotic.com/d/px/}
+\item \url{p.typekit.net/p.css}
+\item \url{px.ads.linkedin.com/collect}
+\item \url{snap.licdn.com/li.lms-analytics/insight.min.js}
+\item \url{static.ads-twitter.com/uwt.js}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{stats.g.doubleclick.net/j/collect}
+\item \url{t.co/i/adsct}
+\item \url{use.typekit.net/af/c225e2/000000000000000000011aff/27/l}
+\item \url{www.facebook.com/tr/}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/collect}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.google.com/}
+\item \url{www.googletagmanager.com/gtm.js}
+\item \url{www.gstatic.com/cv/js/sender/v1/cast_sender.js}
+\item \url{www.linkedin.com/px/li_sync}
+
+
+d2l.ucalgary.ca_Archive.jso
+---
+\item \url{d2l-elasticrum.apm.us-east-1.aws.cloud.es.io/intake/v2/rum/events}
+\item \url{s.brightspace.com/lib/elastic-apm-rum/5.5.0/elastic-apm-rum.umd.min.js}
+\item \url{s.brightspace.com/lib/fonts/0.5.0/assets/Lato-400.woff2}
+\item \url{s.brightspace.com/lib/fonts/0.5.0/assets/Lato-700.woff2}
+\item \url{s.brightspace.com/lib/jquery/2.2.4/jquery.min.js}
+\item \url{s.brightspace.com/lib/jqueryui/1.12.1/jquery-ui.min.js}
+\item \url{s.brightspace.com/lib/reset-css/1.1.0/reset.css}
+\item \url{s.brightspace.com/lib/tti-polyfill/0.2.2/tti-polyfill-global.js}
+
+
+outlook.office.com_Archive.ha
+---
+\item \url{browser.events.data.microsoft.com/OneCollector/1.0/}
+\item \url{browser.pipe.aria.microsoft.com/Collector/3.0/}
+
+
+portal.my.ucalgary.ca_Archive.jso
+---
+\item \url{fonts.googleapis.com/css}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/j/collect}
+
+
+www.gradescope.ca_Archive.jso
+---
+\item \url{amazonaws.com/}
+\item \url{js.hsforms.net/forms/v2.js}
+\item \url{sessions.bugsnag.com/}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/collect}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.googletagmanager.com/gtm.js}
+
+
+www.ucalgary.ca_Archive.jso
+---
+\item \url{ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js}
+\item \url{analytics.twitter.com/i/adsct}
+\item \url{connect.facebook.net/en_US/fbevents.js}
+\item \url{fls.doubleclick.net/activityi}
+\item \url{fonts.googleapis.com/css}
+\item \url{fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2}
+\item \url{google.com/}
+\item \url{googleads.g.doubleclick.net/pagead/id}
+\item \url{p.typekit.net/p.css}
+\item \url{px.ads.linkedin.com/collect}
+\item \url{snap.licdn.com/li.lms-analytics/insight.min.js}
+\item \url{static.ads-twitter.com/uwt.js}
+\item \url{static.doubleclick.net/instream/ad_status.js}
+\item \url{stats.g.doubleclick.net/j/collect}
+\item \url{t.co/i/adsct}
+\item \url{use.typekit.net/af/c225e2/000000000000000000011aff/27/l}
+\item \url{www.facebook.com/tr/}
+\item \url{www.google-analytics.com/analytics.js}
+\item \url{www.google-analytics.com/collect}
+\item \url{www.google-analytics.com/j/collect}
+\item \url{www.google.com/}
+\item \url{www.googletagmanager.com/gtm.js}
+\item \url{www.youtube.com/api/stats/atr}
+\item \url{www.youtube.com/embed/}
+\item \url{www.youtube.com/generate_204}
+\item \url{www.youtube.com/youtubei/v1/log_event}
+
+

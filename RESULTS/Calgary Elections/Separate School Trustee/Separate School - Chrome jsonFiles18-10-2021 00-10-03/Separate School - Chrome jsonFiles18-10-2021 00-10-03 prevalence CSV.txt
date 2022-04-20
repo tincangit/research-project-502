@@ -1,0 +1,23 @@
+domain, # candidates using this domain
+wix.com,1
+vimeocdn.com,1
+d3n8a8pro7vhmx.cloudfront.net,1
+ajax.googleapis.com,1
+facebook.net,1
+facebook.com,1
+twitter.com,1
+parastorage.com,2
+vimeo.com,1
+cloudflareinsights.com,1
+typekit.net,1
+google-analytics.com,1
+wsimg.com,2
+googletagmanager.com,1
+squarespace.com,2
+youtube.com,3
+doubleclick.net,3
+wp.com,2
+google.com,5
+fonts.googleapis.com,10
+gstatic.com,8
+getnitropack.com,1
