@@ -1,4 +1,3 @@
-# from browserupproxy import Server
 from browsermobproxy import Server
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -17,7 +16,7 @@ def clear_cache(driver):
     actions.send_keys(Keys.ENTER) # confirm
     actions.perform()
 
-bupFilePath = "C:/Users/TL/AppData/Local/Microsoft/WindowsApps/browsermob-proxy-2.1.4/bin/browsermob-proxy"
+bupFilePath = #path to browser mob proxy
 server = Server(bupFilePath)
 server.start()
 proxy = server.create_proxy()
